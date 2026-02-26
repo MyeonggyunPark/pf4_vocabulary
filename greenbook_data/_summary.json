@@ -1,0 +1,13 @@
+{
+    "source_file": "greenbook_full_refined_final.json",
+    "total_entries": 3238,
+    "types": {
+        "기타": 63,
+        "동사": 682,
+        "동사+전치사": 195,
+        "명사": 1679,
+        "부사": 208,
+        "전치사": 40,
+        "형용사": 371
+    }
+}

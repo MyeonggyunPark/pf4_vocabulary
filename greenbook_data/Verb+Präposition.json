@@ -1,0 +1,4682 @@
+[
+    {
+        "type": "동사+전치사",
+        "word": "erinnern",
+        "korean": "~을 기억하다, 상기하다",
+        "fixed_preposition": "an (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er erinnert",
+            "praeteritum": "er erinnerte",
+            "perfekt": "er hat erinnert",
+            "partizip_2_form": "erinnert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "erinnernd",
+                "korean": "기억하는, 상기시키는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "erinnert",
+                "korean": "기억된, 상기된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "fahren",
+        "korean": "~로 가다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fährt",
+            "praeteritum": "fuhr",
+            "perfekt": "ist gefahren",
+            "partizip_2_form": "gefahren"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fahrend",
+                "korean": "운전하는, 가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefahren",
+                "korean": "운전된, 간"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bleiben",
+        "korean": "~에 머무르다, ~을 고수하다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "bleibt",
+            "praeteritum": "blieb",
+            "perfekt": "ist geblieben",
+            "partizip_2_form": "geblieben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bleibend",
+                "korean": "남아 있는, 지속적인"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geblieben",
+                "korean": "남아 있던"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "stehen",
+        "korean": "~에 서 있다 (an dem의 축약형)",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "steht",
+            "praeteritum": "stand",
+            "perfekt": "hat gestanden",
+            "partizip_2_form": "gestanden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "stehend",
+                "korean": "서 있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gestanden",
+                "korean": "서 있었던"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "gehen",
+        "korean": "~로 가다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er geht",
+            "praeteritum": "er ging",
+            "perfekt": "er ist gegangen",
+            "partizip_2_form": "gegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gehend",
+                "korean": "가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gegangen",
+                "korean": "간"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "studieren",
+        "korean": "~에서 공부하다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "studiert",
+            "praeteritum": "studierte",
+            "perfekt": "hat studiert",
+            "partizip_2_form": "studiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "studierend",
+                "korean": "공부하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "studiert",
+                "korean": "공부된, 연구된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "warten",
+        "korean": "~을 기다리다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "wartet",
+            "praeteritum": "wartete",
+            "perfekt": "hat gewartet",
+            "partizip_2_form": "gewartet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wartend",
+                "korean": "기다리는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gewartet",
+                "korean": "기다려진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "kommen",
+        "korean": "오다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "kommt",
+            "praeteritum": "kam",
+            "perfekt": "ist gekommen",
+            "partizip_2_form": "gekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kommend",
+                "korean": "오는, 다가오는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "liegen",
+        "korean": "~위에 놓여 있다",
+        "fixed_preposition": "auf (Dativ)",
+        "verb_forms": {
+            "praesens_er": "liegt",
+            "praeteritum": "lag",
+            "perfekt": "hat gelegen",
+            "partizip_2_form": "gelegen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "liegend",
+                "korean": "놓여 있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelegen",
+                "korean": "놓여 있었던"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "leben",
+        "korean": "~으로 살아가다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "lebt",
+            "praeteritum": "lebte",
+            "perfekt": "hat gelebt",
+            "partizip_2_form": "gelebt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "lebend",
+                "korean": "살아있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelebt",
+                "korean": "살아온"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bilden mit",
+        "korean": "~으로 형성하다/만들다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "bildet",
+            "praeteritum": "bildete",
+            "perfekt": "hat gebildet",
+            "partizip_2_form": "gebildet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bildend",
+                "korean": "형성하는, 만드는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gebildet",
+                "korean": "형성된, 만들어진; 교양 있는"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "kommen zu",
+        "korean": "~에 오다, ~하게 되다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "kommt",
+            "praeteritum": "kam",
+            "perfekt": "ist gekommen",
+            "partizip_2_form": "gekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kommend",
+                "korean": "오는, 다가오는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gekommen",
+                "korean": "온, 도착한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "beginnen mit",
+        "korean": "~을 시작하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "beginnt",
+            "praeteritum": "begann",
+            "perfekt": "hat begonnen",
+            "partizip_2_form": "begonnen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "beginnend",
+                "korean": "시작하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "begonnen",
+                "korean": "시작된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "gehen zu",
+        "korean": "~로 가다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "geht",
+            "praeteritum": "ging",
+            "perfekt": "ist gegangen",
+            "partizip_2_form": "gegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gehend",
+                "korean": "가는, 걷는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gegangen",
+                "korean": "간, 지나간"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "denken an",
+        "korean": "~을 생각하다",
+        "fixed_preposition": "an (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "denkt",
+            "praeteritum": "dachte",
+            "perfekt": "hat gedacht",
+            "partizip_2_form": "gedacht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "denkend",
+                "korean": "생각하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gedacht",
+                "korean": "생각된, 의도된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sprechen mit",
+        "korean": "~와 이야기하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "spricht",
+            "praeteritum": "sprach",
+            "perfekt": "hat gesprochen",
+            "partizip_2_form": "gesprochen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sprechend",
+                "korean": "말하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesprochen",
+                "korean": "말해진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "kommen mit",
+        "korean": "~와 함께 오다, ~을 가지고 오다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "kommt",
+            "praeteritum": "kam",
+            "perfekt": "ist gekommen",
+            "partizip_2_form": "gekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kommend",
+                "korean": "오는, 다가오는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gekommen",
+                "korean": "온, 도착한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "ersetzen durch",
+        "korean": "~으로 대체하다",
+        "fixed_preposition": "durch (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "ersetzt",
+            "praeteritum": "ersetzte",
+            "perfekt": "hat ersetzt",
+            "partizip_2_form": "ersetzt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ersetzend",
+                "korean": "대체하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "ersetzt",
+                "korean": "대체된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sagen zu",
+        "korean": "~에 대해 말하다, ~에 동의하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "sagt",
+            "praeteritum": "sagte",
+            "perfekt": "hat gesagt",
+            "partizip_2_form": "gesagt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sagend",
+                "korean": "말하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesagt",
+                "korean": "말해진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sich bedanken für",
+        "korean": "~에 대해 감사하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "bedankt sich",
+            "praeteritum": "bedankte sich",
+            "perfekt": "hat sich bedankt",
+            "partizip_2_form": "bedankt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sich bedankend",
+                "korean": "감사하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "bedankt",
+                "korean": "감사받은"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "fragen nach",
+        "korean": "~에 대해 묻다, ~을 문의하다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fragt",
+            "praeteritum": "fragte",
+            "perfekt": "hat gefragt",
+            "partizip_2_form": "gefragt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fragend",
+                "korean": "묻는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefragt",
+                "korean": "질문받은, 인기 있는"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "erzählen von",
+        "korean": "~에 대해 이야기하다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "erzählt",
+            "praeteritum": "erzählte",
+            "perfekt": "hat erzählt",
+            "partizip_2_form": "erzählt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "erzählend",
+                "korean": "이야기하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "erzählt",
+                "korean": "이야기된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "wohnen bei",
+        "korean": "~의 집에 살다, ~와 함께 살다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "wohnt",
+            "praeteritum": "wohnte",
+            "perfekt": "hat gewohnt",
+            "partizip_2_form": "gewohnt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wohnend",
+                "korean": "거주하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gewohnt",
+                "korean": "익숙한, 습관적인"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "gehören von",
+        "korean": "~에 의해 소유되다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "gehört",
+            "praeteritum": "gehörte",
+            "perfekt": "hat gehört",
+            "partizip_2_form": "gehört"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gehörend",
+                "korean": "속하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gehört",
+                "korean": "들린, 속한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "gehen mit",
+        "korean": "~와 함께 가다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "geht",
+            "praeteritum": "ging",
+            "perfekt": "ist gegangen",
+            "partizip_2_form": "gegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gehend",
+                "korean": "가는, 걷는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gegangen",
+                "korean": "간, 지나간"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "diskutieren über",
+        "korean": "~에 대해 토론하다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "diskutiert",
+            "praeteritum": "diskutierte",
+            "perfekt": "hat diskutiert",
+            "partizip_2_form": "diskutiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "diskutierend",
+                "korean": "토론하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "diskutiert",
+                "korean": "토론된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sich interessieren für",
+        "korean": "~에 흥미를 가지다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "interessiert sich",
+            "praeteritum": "interessierte sich",
+            "perfekt": "hat sich interessiert",
+            "partizip_2_form": "interessiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sich interessierend",
+                "korean": "흥미를 가지는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "interessiert",
+                "korean": "흥미를 가진, 관심 있는"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bringen zu",
+        "korean": "~로 가져오다, ~하게 만들다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "bringt",
+            "praeteritum": "brachte",
+            "perfekt": "hat gebracht",
+            "partizip_2_form": "gebracht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bringend",
+                "korean": "가져오는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gebracht",
+                "korean": "가져와진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "fahren zu",
+        "korean": "~로 운전해 가다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fährt",
+            "praeteritum": "fuhr",
+            "perfekt": "ist gefahren",
+            "partizip_2_form": "gefahren"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fahrend",
+                "korean": "운전하는, 움직이는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefahren",
+                "korean": "운전된, 이동된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verzichten auf",
+        "korean": "~을 포기하다, ~없이 지내다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "verzichtet",
+            "praeteritum": "verzichtete",
+            "perfekt": "hat verzichtet",
+            "partizip_2_form": "verzichtet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verzichtend",
+                "korean": "포기하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verzichtet",
+                "korean": "포기된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "achten auf",
+        "korean": "~에 주의하다, ~을 신경 쓰다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "achtet",
+            "praeteritum": "achtete",
+            "perfekt": "hat geachtet",
+            "partizip_2_form": "geachtet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "achtend",
+                "korean": "주의하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geachtet",
+                "korean": "존경받는, 주의된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "spielen mit",
+        "korean": "~와 놀다, ~으로 연주하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "spielt",
+            "praeteritum": "spielte",
+            "perfekt": "hat gespielt",
+            "partizip_2_form": "gespielt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "spielend",
+                "korean": "노는, 연주하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gespielt",
+                "korean": "연주된, 연기된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sich freuen über",
+        "korean": "~에 대해 기뻐하다 (현재/과거의 일)",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "freut sich",
+            "praeteritum": "freute sich",
+            "perfekt": "hat sich gefreut",
+            "partizip_2_form": "gefreut"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sich freuend",
+                "korean": "기뻐하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefreut",
+                "korean": "기뻐했던"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "benutzen für",
+        "korean": "~을 위해 사용하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "benutzt",
+            "praeteritum": "benutzte",
+            "perfekt": "hat benutzt",
+            "partizip_2_form": "benutzt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "benutzend",
+                "korean": "사용하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "benutzt",
+                "korean": "사용된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "handeln",
+        "korean": "~에 대해 다루다, ~에 관한 것이다",
+        "fixed_preposition": "um (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "handelt",
+            "praeteritum": "handelte",
+            "perfekt": "hat gehandelt",
+            "partizip_2_form": "gehandelt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "handelnd",
+                "korean": "다루는, 행동하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gehandelt",
+                "korean": "다루어진, 행동된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verlassen",
+        "korean": "~을 믿다, ~에 의지하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "verlässt",
+            "praeteritum": "verließ",
+            "perfekt": "hat verlassen",
+            "partizip_2_form": "verlassen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verlassend",
+                "korean": "떠나는, 버리는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verlassen",
+                "korean": "버려진, 떠나진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sprechen",
+        "korean": "~와 이야기하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "spricht",
+            "praeteritum": "sprach",
+            "perfekt": "hat gesprochen",
+            "partizip_2_form": "gesprochen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sprechend",
+                "korean": "말하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesprochen",
+                "korean": "이야기된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "ziehen",
+        "korean": "~로 이사하다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "zieht",
+            "praeteritum": "zog",
+            "perfekt": "ist gezogen",
+            "partizip_2_form": "gezogen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ziehend",
+                "korean": "움직이는, 당기는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gezogen",
+                "korean": "당겨진, 이사한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "telefonieren",
+        "korean": "~와 전화하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "telefoniert",
+            "praeteritum": "telefonierte",
+            "perfekt": "hat telefoniert",
+            "partizip_2_form": "telefoniert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "telefonierend",
+                "korean": "전화하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": "telefoniert",
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "schützen",
+        "korean": "~로부터 보호하다",
+        "fixed_preposition": "vor (Dativ)",
+        "verb_forms": {
+            "praesens_er": "schützt",
+            "praeteritum": "schützte",
+            "perfekt": "hat geschützt",
+            "partizip_2_form": "geschützt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schützend",
+                "korean": "보호하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschützt",
+                "korean": "보호된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "gelten",
+        "korean": "~에 유효하다, ~에 적용되다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "gilt",
+            "praeteritum": "galt",
+            "perfekt": "hat gegolten",
+            "partizip_2_form": "gegolten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "geltend",
+                "korean": "유효한, 적용되는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "danken",
+        "korean": "~에 대해 감사하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "dankt",
+            "praeteritum": "dankte",
+            "perfekt": "hat gedankt",
+            "partizip_2_form": "gedankt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "dankend",
+                "korean": "감사하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gedankt",
+                "korean": "감사받은"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "beschweren",
+        "korean": "불평하다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "beschwert",
+            "praeteritum": "beschwerte",
+            "perfekt": "hat beschwert",
+            "partizip_2_form": "beschwert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "beschwerend",
+                "korean": "불평하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "beschwert",
+                "korean": "불평된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "kümmern",
+        "korean": "~을 돌보다, ~에 신경 쓰다",
+        "fixed_preposition": "um (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "kümmert",
+            "praeteritum": "kümmerte",
+            "perfekt": "hat gekümmert",
+            "partizip_2_form": "gekümmert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kümmernd",
+                "korean": "돌보는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gekümmert",
+                "korean": "돌보아진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verlieben",
+        "korean": "~와 사랑에 빠지다",
+        "fixed_preposition": "in (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "verliebt",
+            "praeteritum": "verliebte",
+            "perfekt": "hat verliebt",
+            "partizip_2_form": "verliebt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verliebend",
+                "korean": "사랑에 빠지게 하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verliebt",
+                "korean": "사랑에 빠진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "wundern",
+        "korean": "~에 놀라다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er wundert",
+            "praeteritum": "er wunderte",
+            "perfekt": "er hat sich gewundert",
+            "partizip_2_form": "gewundert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wundernd",
+                "korean": "놀라는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bedanken",
+        "korean": "~에게 감사하다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "bedankt",
+            "praeteritum": "bedankte",
+            "perfekt": "hat bedankt",
+            "partizip_2_form": "bedankt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bedankend",
+                "korean": "감사하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "bedankt",
+                "korean": "감사받은"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bitten",
+        "korean": "~을 위해 간청하다, 부탁하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "bittet",
+            "praeteritum": "bat",
+            "perfekt": "hat gebeten",
+            "partizip_2_form": "gebeten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bittend",
+                "korean": "간청하는, 부탁하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gebeten",
+                "korean": "간청된, 부탁된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sorgen",
+        "korean": "~을 돌보다, ~을 책임지다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "sorgt",
+            "praeteritum": "sorgte",
+            "perfekt": "hat gesorgt",
+            "partizip_2_form": "gesorgt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sorgend",
+                "korean": "돌보는, 걱정하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesorgt",
+                "korean": "돌보아진, 걱정된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "protestieren",
+        "korean": "~에 반대하여 시위하다",
+        "fixed_preposition": "gegen (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "protestiert",
+            "praeteritum": "protestierte",
+            "perfekt": "hat protestiert",
+            "partizip_2_form": "protestiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "protestierend",
+                "korean": "시위하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "protestiert",
+                "korean": "시위된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "gratulieren",
+        "korean": "축하하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "gratuliert",
+            "praeteritum": "gratulierte",
+            "perfekt": "hat gratuliert",
+            "partizip_2_form": "gratuliert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "informieren",
+        "korean": "~에 대해 정보를 얻다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "informiert",
+            "praeteritum": "informierte",
+            "perfekt": "hat informiert",
+            "partizip_2_form": "informiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "informierend",
+                "korean": "정보를 주는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "informiert",
+                "korean": "정보를 받은, 정보에 밝은"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "abhängen",
+        "korean": "~에 달려있다, ~에 의존하다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "hängt ab",
+            "praeteritum": "hing ab",
+            "perfekt": "hat abgehangen",
+            "partizip_2_form": "abgehangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "abhängend",
+                "korean": "의존하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "abgehangen",
+                "korean": "의존된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "gehören",
+        "korean": "~에 속하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er gehört",
+            "praeteritum": "er gehörte",
+            "perfekt": "er hat gehört",
+            "partizip_2_form": "gehört"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gehörend",
+                "korean": "속하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "antworten",
+        "korean": "대답하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "antwortet",
+            "praeteritum": "antwortete",
+            "perfekt": "hat geantwortet",
+            "partizip_2_form": "geantwortet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "antwortend",
+                "korean": "대답하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geantwortet",
+                "korean": "대답된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "vorbereiten",
+        "korean": "~을 준비하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er bereitet vor",
+            "praeteritum": "er bereitete vor",
+            "perfekt": "er hat vorbereitet",
+            "partizip_2_form": "vorbereitet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vorbereitend",
+                "korean": "준비하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vorbereitet",
+                "korean": "준비된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "teilnehmen",
+        "korean": "참가하다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "nimmt teil",
+            "praeteritum": "nahm teil",
+            "perfekt": "hat teilgenommen",
+            "partizip_2_form": "teilgenommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "teilnehmend",
+                "korean": "참가하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "teilgenommen",
+                "korean": "참가된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verwenden",
+        "korean": "~을 위해 사용하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er verwendet",
+            "praeteritum": "er verwendete",
+            "perfekt": "er hat verwendet",
+            "partizip_2_form": "verwendet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verwendend",
+                "korean": "사용하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verwendet",
+                "korean": "사용된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "befinden",
+        "korean": "~에 위치하다, 있다",
+        "fixed_preposition": "in (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er befindet",
+            "praeteritum": "er befand",
+            "perfekt": "er hat sich befunden",
+            "partizip_2_form": "befunden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "befindend",
+                "korean": "위치한"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "erkundigen",
+        "korean": "~에 대해 문의하다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er erkundigt",
+            "praeteritum": "er erkundigte",
+            "perfekt": "er hat sich erkundigt",
+            "partizip_2_form": "erkundigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "erkundigend",
+                "korean": "문의하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "wenden",
+        "korean": "~에게 문의하다, 향하다",
+        "fixed_preposition": "an (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er wendet",
+            "praeteritum": "er wandte",
+            "perfekt": "er hat sich gewandt",
+            "partizip_2_form": "gewandt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wendend",
+                "korean": "향하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gewandt",
+                "korean": "능숙한, 향해진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "suchen",
+        "korean": "~을 찾다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er sucht",
+            "praeteritum": "er suchte",
+            "perfekt": "er hat gesucht",
+            "partizip_2_form": "gesucht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "suchend",
+                "korean": "찾는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesucht",
+                "korean": "찾아진, 인기 있는"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "arbeiten",
+        "korean": "~와 일하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "arbeitet",
+            "praeteritum": "arbeitete",
+            "perfekt": "hat gearbeitet",
+            "partizip_2_form": "gearbeitet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "arbeitend",
+                "korean": "일하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gearbeitet",
+                "korean": "일한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sehen",
+        "korean": "보다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "sieht",
+            "praeteritum": "sah",
+            "perfekt": "hat gesehen",
+            "partizip_2_form": "gesehen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sehend",
+                "korean": "보는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "rechnen",
+        "korean": "~을 계산하다, ~을 기대하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "rechnet",
+            "praeteritum": "rechnete",
+            "perfekt": "hat gerechnet",
+            "partizip_2_form": "gerechnet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "rechnend",
+                "korean": "계산하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gerechnet",
+                "korean": "계산된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "warnen",
+        "korean": "~에 대해 경고하다",
+        "fixed_preposition": "vor (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er warnt",
+            "praeteritum": "er warnte",
+            "perfekt": "er hat gewarnt",
+            "partizip_2_form": "gewarnt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "warnend",
+                "korean": "경고하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gewarnt",
+                "korean": "경고된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "berichten",
+        "korean": "~에 대해 보고하다/이야기하다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er berichtet",
+            "praeteritum": "er berichtete",
+            "perfekt": "er hat berichtet",
+            "partizip_2_form": "berichtet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "berichtend",
+                "korean": "보고하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "berichtet",
+                "korean": "보고된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verbringen",
+        "korean": "보내다 (시간을)",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "verbringt",
+            "praeteritum": "verbrachte",
+            "perfekt": "hat verbracht",
+            "partizip_2_form": "verbracht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verbringend",
+                "korean": "보내는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verbracht",
+                "korean": "보내진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "trennen",
+        "korean": "분리하다, 헤어지다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "trennt",
+            "praeteritum": "trennte",
+            "perfekt": "hat getrennt",
+            "partizip_2_form": "getrennt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "trennend",
+                "korean": "분리하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "getrennt",
+                "korean": "분리된, 헤어진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "machen",
+        "korean": "하다, 만들다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "macht",
+            "praeteritum": "machte",
+            "perfekt": "hat gemacht",
+            "partizip_2_form": "gemacht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gemacht",
+                "korean": "만들어진, 행해진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "schicken",
+        "korean": "보내다",
+        "fixed_preposition": "an (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "schickt",
+            "praeteritum": "schickte",
+            "perfekt": "hat geschickt",
+            "partizip_2_form": "geschickt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schickend",
+                "korean": "보내는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschickt",
+                "korean": "보내진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "ärgern",
+        "korean": "화나게 하다, 짜증내다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "ärgert",
+            "praeteritum": "ärgerte",
+            "perfekt": "hat geärgert",
+            "partizip_2_form": "geärgert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ärgernd",
+                "korean": "화나게 하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geärgert",
+                "korean": "화난, 짜증난"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "freuen",
+        "korean": "~를 위해 기뻐하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er freut sich",
+            "praeteritum": "er freute sich",
+            "perfekt": "er hat sich gefreut",
+            "partizip_2_form": "gefreut"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "freuend",
+                "korean": "기뻐하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "schreiben",
+        "korean": "~를 위해 쓰다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er schreibt",
+            "praeteritum": "er schrieb",
+            "perfekt": "er hat geschrieben",
+            "partizip_2_form": "geschrieben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schreibend",
+                "korean": "쓰는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschrieben",
+                "korean": "쓰여진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "unterscheiden",
+        "korean": "구별하다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "unterscheidet",
+            "praeteritum": "unterschied",
+            "perfekt": "hat unterschieden",
+            "partizip_2_form": "unterschieden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "unterscheidend",
+                "korean": "구별하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "unterschieden",
+                "korean": "구별된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "holen",
+        "korean": "가져오다, 데려오다",
+        "fixed_preposition": "aus (Dativ)",
+        "verb_forms": {
+            "praesens_er": "holt",
+            "praeteritum": "holte",
+            "perfekt": "hat geholt",
+            "partizip_2_form": "geholt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "holend",
+                "korean": "가져오는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geholt",
+                "korean": "가져와진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "kämpfen",
+        "korean": "싸우다, 투쟁하다",
+        "fixed_preposition": "gegen (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "kämpft",
+            "praeteritum": "kämpfte",
+            "perfekt": "hat gekämpft",
+            "partizip_2_form": "gekämpft"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kämpfend",
+                "korean": "싸우는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gekämpft",
+                "korean": "싸워진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bestehen",
+        "korean": "~로 구성되다",
+        "fixed_preposition": "aus (Dativ)",
+        "verb_forms": {
+            "praesens_er": "besteht",
+            "praeteritum": "bestand",
+            "perfekt": "hat bestanden",
+            "partizip_2_form": "bestanden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bestehend",
+                "korean": "구성되는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "bestanden",
+                "korean": "구성된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verabreden",
+        "korean": "약속하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "verabredet",
+            "praeteritum": "verabredete",
+            "perfekt": "hat verabredet",
+            "partizip_2_form": "verabredet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verabredend",
+                "korean": "약속하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verabredet",
+                "korean": "약속된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "entschuldigen",
+        "korean": "사과하다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "entschuldigt",
+            "praeteritum": "entschuldigte",
+            "perfekt": "hat entschuldigt",
+            "partizip_2_form": "entschuldigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "entschuldigend",
+                "korean": "사과하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "entschuldigt",
+                "korean": "사과된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verwechseln",
+        "korean": "혼동하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "verwechselt",
+            "praeteritum": "verwechselte",
+            "perfekt": "hat verwechselt",
+            "partizip_2_form": "verwechselt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verwechselnd",
+                "korean": "혼동하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verwechselt",
+                "korean": "혼동된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "stoßen",
+        "korean": "~에 부딪히다",
+        "fixed_preposition": "gegen (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "stößt",
+            "praeteritum": "stieß",
+            "perfekt": "hat gestoßen",
+            "partizip_2_form": "gestoßen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "stoßend",
+                "korean": "부딪히는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gestoßen",
+                "korean": "부딪힌"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bemühen",
+        "korean": "노력하다",
+        "fixed_preposition": "um (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "bemüht",
+            "praeteritum": "bemühte",
+            "perfekt": "hat bemüht",
+            "partizip_2_form": "bemüht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bemühend",
+                "korean": "노력하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "bemüht",
+                "korean": "노력한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "beginnen",
+        "korean": "시작하다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "beginnt",
+            "praeteritum": "begann",
+            "perfekt": "hat begonnen",
+            "partizip_2_form": "begonnen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "beginnend",
+                "korean": "시작하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "begonnen",
+                "korean": "시작된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "blättern",
+        "korean": "(책 등을) 넘겨보다, 훑어보다",
+        "fixed_preposition": "in (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er blättert",
+            "praeteritum": "er blätterte",
+            "perfekt": "er hat geblättert",
+            "partizip_2_form": "geblättert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "blätternd",
+                "korean": "넘겨보는, 훑어보는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geblättert",
+                "korean": "넘겨본, 훑어본"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "auswandern",
+        "korean": "~로 이주하다, 이민 가다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er wandert aus",
+            "praeteritum": "er wanderte aus",
+            "perfekt": "er ist ausgewandert",
+            "partizip_2_form": "ausgewandert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "auswandernd",
+                "korean": "이주하는, 이민 가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "ausgewandert",
+                "korean": "이주한, 이민 간"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "zurückkehren",
+        "korean": "~로 돌아오다, 귀환하다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er kehrt zurück",
+            "praeteritum": "er kehrte zurück",
+            "perfekt": "er ist zurückgekehrt",
+            "partizip_2_form": "zurückgekehrt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "zurückkehrend",
+                "korean": "돌아오는, 귀환하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "zurückgekehrt",
+                "korean": "돌아온, 귀환한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "lesen",
+        "korean": "~위에서 읽다, ~에서 읽다 (화면 등)",
+        "fixed_preposition": "auf (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er liest",
+            "praeteritum": "er las",
+            "perfekt": "er hat gelesen",
+            "partizip_2_form": "gelesen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "lesend",
+                "korean": "읽는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelesen",
+                "korean": "읽힌"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "hervorgehen",
+        "korean": "~에서 나오다, ~에서 유래하다",
+        "fixed_preposition": "aus (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er geht hervor",
+            "praeteritum": "er ging hervor",
+            "perfekt": "er ist hervorgegangen",
+            "partizip_2_form": "hervorgegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "hervorgehend",
+                "korean": "나오는, 유래하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "hervorgegangen",
+                "korean": "나온, 유래한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "erscheinen",
+        "korean": "~에 나타나다, ~에 출판되다",
+        "fixed_preposition": "in (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er erscheint",
+            "praeteritum": "er erschien",
+            "perfekt": "er ist erschienen",
+            "partizip_2_form": "erschienen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "erscheinend",
+                "korean": "나타나는, 출판되는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "erschienen",
+                "korean": "나타난, 출판된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "hineinschreiben",
+        "korean": "~안에 써넣다",
+        "fixed_preposition": "in (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er schreibt hinein",
+            "praeteritum": "er schrieb hinein",
+            "perfekt": "er hat hineingeschrieben",
+            "partizip_2_form": "hineingeschrieben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "hineinschreibend",
+                "korean": "안에 써넣는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "hineingeschrieben",
+                "korean": "안에 써넣어진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "orientieren",
+        "korean": "~에 맞추다, ~에 따라 방향을 잡다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er orientiert",
+            "praeteritum": "er orientierte",
+            "perfekt": "er hat orientiert",
+            "partizip_2_form": "orientiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "orientierend",
+                "korean": "맞추는, 방향을 잡는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "orientiert",
+                "korean": "맞춰진, 방향이 잡힌"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "eignen",
+        "korean": "~에 적합하다, ~에 알맞다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er eignet",
+            "praeteritum": "er eignete",
+            "perfekt": "er hat geeignet",
+            "partizip_2_form": "geeignet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "eignend",
+                "korean": "적합한, 알맞은"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geeignet",
+                "korean": "적합한, 알맞은"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "treten",
+        "korean": "~를 발로 차다, ~를 쫓아가다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er tritt",
+            "praeteritum": "er trat",
+            "perfekt": "er hat getreten",
+            "partizip_2_form": "getreten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "tretend",
+                "korean": "밟는, 차는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "getreten",
+                "korean": "밟힌, 차인"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "halten",
+        "korean": "~를 찾다, ~를 멈추다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er hält",
+            "praeteritum": "er hielt",
+            "perfekt": "er hat gehalten",
+            "partizip_2_form": "gehalten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "haltend",
+                "korean": "잡는, 멈추는, 유지하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gehalten",
+                "korean": "잡힌, 멈춰진, 유지된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bitten um",
+        "korean": "~을 부탁하다, 간청하다",
+        "fixed_preposition": "um (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "bittet",
+            "praeteritum": "bat",
+            "perfekt": "hat gebeten",
+            "partizip_2_form": "gebeten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bittend",
+                "korean": "간청하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gebeten",
+                "korean": "부탁받은, 간청된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "arbeiten an",
+        "korean": "~에 종사하다, ~을 작업하다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "arbeitet",
+            "praeteritum": "arbeitete",
+            "perfekt": "hat gearbeitet",
+            "partizip_2_form": "gearbeitet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "arbeitend",
+                "korean": "일하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "laden zu",
+        "korean": "~로 초대하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "lädt",
+            "praeteritum": "lud",
+            "perfekt": "hat geladen",
+            "partizip_2_form": "geladen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ladend",
+                "korean": "싣는, 초대하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geladen",
+                "korean": "실린, 초대된, 충전된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "laden nach",
+        "korean": "~로 초대하다, ~을 재장전하다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "lädt",
+            "praeteritum": "lud",
+            "perfekt": "hat geladen",
+            "partizip_2_form": "geladen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ladend",
+                "korean": "싣는, 초대하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geladen",
+                "korean": "실린, 초대된, 충전된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "kochen über",
+        "korean": "끓어 넘치다, (비유적으로) 격분하다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "kocht",
+            "praeteritum": "kochte",
+            "perfekt": "hat gekocht",
+            "partizip_2_form": "gekocht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kochend",
+                "korean": "끓는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gekocht",
+                "korean": "요리된, 끓여진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "anmelden zu",
+        "korean": "~에 등록하다, 신청하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "meldet an",
+            "praeteritum": "meldete an",
+            "perfekt": "hat angemeldet",
+            "partizip_2_form": "angemeldet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "anmeldend",
+                "korean": "등록하는, 신청하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "angemeldet",
+                "korean": "등록된, 신청된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "anfangen mit",
+        "korean": "~을 시작하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fängt an",
+            "praeteritum": "fing an",
+            "perfekt": "hat angefangen",
+            "partizip_2_form": "angefangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "anfangend",
+                "korean": "시작하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "melden zu",
+        "korean": "~에 지원하다, ~에 보고하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "meldet",
+            "praeteritum": "meldete",
+            "perfekt": "hat gemeldet",
+            "partizip_2_form": "gemeldet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "meldend",
+                "korean": "보고하는, 알리는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gemeldet",
+                "korean": "보고된, 알려진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "melden an",
+        "korean": "~에게 연락하다, 보고하다",
+        "fixed_preposition": "an (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "meldet",
+            "praeteritum": "meldete",
+            "perfekt": "hat gemeldet",
+            "partizip_2_form": "gemeldet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "meldend",
+                "korean": "보고하는, 알리는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gemeldet",
+                "korean": "보고된, 알려진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "vorbeifahren an",
+        "korean": "~을 지나쳐 가다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fährt vorbei",
+            "praeteritum": "fuhr vorbei",
+            "perfekt": "ist vorbeigefahren",
+            "partizip_2_form": "vorbeigefahren"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vorbeifahrend",
+                "korean": "지나쳐 가는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "herauskommen aus",
+        "korean": "~에서 나오다",
+        "fixed_preposition": "aus (Dativ)",
+        "verb_forms": {
+            "praesens_er": "kommt heraus",
+            "praeteritum": "kam heraus",
+            "perfekt": "ist herausgekommen",
+            "partizip_2_form": "herausgekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "herauskommend",
+                "korean": "나오는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "einsteigen in",
+        "korean": "~에 탑승하다",
+        "fixed_preposition": "in (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "steigt ein",
+            "praeteritum": "stieg ein",
+            "perfekt": "ist eingestiegen",
+            "partizip_2_form": "eingestiegen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "einsteigend",
+                "korean": "탑승하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verhandeln mit",
+        "korean": "~와 협상하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "verhandelt",
+            "praeteritum": "verhandelte",
+            "perfekt": "hat verhandelt",
+            "partizip_2_form": "verhandelt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verhandelnd",
+                "korean": "협상하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verhandelt",
+                "korean": "협상된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verhandeln über",
+        "korean": "~에 대해 협상하다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "verhandelt",
+            "praeteritum": "verhandelte",
+            "perfekt": "hat verhandelt",
+            "partizip_2_form": "verhandelt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verhandelnd",
+                "korean": "협상하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verhandelt",
+                "korean": "협상된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bewerben um",
+        "korean": "~에 지원하다, 신청하다",
+        "fixed_preposition": "um (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "bewirbt",
+            "praeteritum": "bewarb",
+            "perfekt": "hat beworben",
+            "partizip_2_form": "beworben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bewerbend",
+                "korean": "지원하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "beworben",
+                "korean": "지원된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "erholen von",
+        "korean": "~로부터 회복하다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "erholt",
+            "praeteritum": "erholte",
+            "perfekt": "hat erholt",
+            "partizip_2_form": "erholt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "erholend",
+                "korean": "회복하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "erholt",
+                "korean": "회복된, 휴식을 취한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "irren in",
+        "korean": "~에서 착각하다, 실수하다",
+        "fixed_preposition": "in (Dativ)",
+        "verb_forms": {
+            "praesens_er": "irrt",
+            "praeteritum": "irrte",
+            "perfekt": "hat geirrt",
+            "partizip_2_form": "geirrt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "irrend",
+                "korean": "착각하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geirrt",
+                "korean": "착각된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "vorstellen bei",
+        "korean": "~에게 자신을 소개하다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "stellt vor",
+            "praeteritum": "stellte vor",
+            "perfekt": "hat vorgestellt",
+            "partizip_2_form": "vorgestellt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vorstellend",
+                "korean": "소개하는, 상상하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vorgestellt",
+                "korean": "소개된, 상상된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "herrschen",
+        "korean": "~을 지배하다, 통치하다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "herrscht",
+            "praeteritum": "herrschte",
+            "perfekt": "hat geherrscht",
+            "partizip_2_form": "geherrscht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "herrschend",
+                "korean": "지배하는, 통치하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "geschehen",
+        "korean": "~에게 일어나다, 발생하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "geschieht",
+            "praeteritum": "geschah",
+            "perfekt": "ist geschehen",
+            "partizip_2_form": "geschehen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "geschehend",
+                "korean": "일어나는, 발생하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschehen",
+                "korean": "일어난, 발생한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "reden",
+        "korean": "~와 이야기하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "redet",
+            "praeteritum": "redete",
+            "perfekt": "hat geredet",
+            "partizip_2_form": "geredet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "redend",
+                "korean": "이야기하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geredet",
+                "korean": "이야기된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "umgehen",
+        "korean": "다루다, 처리하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "geht um",
+            "praeteritum": "ging um",
+            "perfekt": "ist umgegangen",
+            "partizip_2_form": "umgegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "umgehend",
+                "korean": "즉시의, 다루는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "hinweisen",
+        "korean": "가리키다, 지적하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "weist hin",
+            "praeteritum": "wies hin",
+            "perfekt": "hat hingewiesen",
+            "partizip_2_form": "hingewiesen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "meinen",
+        "korean": "의미하다, 생각하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "meint",
+            "praeteritum": "meinte",
+            "perfekt": "hat gemeint",
+            "partizip_2_form": "gemeint"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gemeint",
+                "korean": "의미된, 의도된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "vorlegen",
+        "korean": "제출하다, 제시하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "legt vor",
+            "praeteritum": "legte vor",
+            "perfekt": "hat vorgelegt",
+            "partizip_2_form": "vorgelegt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vorgelegt",
+                "korean": "제출된, 제시된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "nehmen",
+        "korean": "가지다, 취하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "nimmt",
+            "praeteritum": "nahm",
+            "perfekt": "hat genommen",
+            "partizip_2_form": "genommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "entscheiden",
+        "korean": "결정하다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "entscheidet",
+            "praeteritum": "entschied",
+            "perfekt": "hat entschieden",
+            "partizip_2_form": "entschieden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "entscheidend",
+                "korean": "결정적인"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "entschieden",
+                "korean": "결정된, 단호한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bezahlen",
+        "korean": "지불하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "bezahlt",
+            "praeteritum": "bezahlte",
+            "perfekt": "hat bezahlt",
+            "partizip_2_form": "bezahlt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "bezahlt",
+                "korean": "지불된, 유급의"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "trinken",
+        "korean": "마시다",
+        "fixed_preposition": "aus (Dativ)",
+        "verb_forms": {
+            "praesens_er": "trinkt",
+            "praeteritum": "trank",
+            "perfekt": "hat getrunken",
+            "partizip_2_form": "getrunken"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "ausziehen",
+        "korean": "~에서 이사하다, ~을 벗다",
+        "fixed_preposition": "aus (Dativ)",
+        "verb_forms": {
+            "praesens_er": "zieht aus",
+            "praeteritum": "zog aus",
+            "perfekt": "ist ausgezogen",
+            "partizip_2_form": "ausgezogen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ausziehend",
+                "korean": "이사하는, 벗는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "ausgezogen",
+                "korean": "이사한, 벗겨진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "teilen",
+        "korean": "~와 나누다, ~에게 알리다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "teilt",
+            "praeteritum": "teilte",
+            "perfekt": "hat geteilt",
+            "partizip_2_form": "geteilt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "teilend",
+                "korean": "나누는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geteilt",
+                "korean": "나뉜, 공유된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "spielen",
+        "korean": "~에서 놀다, ~을 연주하다",
+        "fixed_preposition": "auf (Akkusativ/Dativ)",
+        "verb_forms": {
+            "praesens_er": "spielt",
+            "praeteritum": "spielte",
+            "perfekt": "hat gespielt",
+            "partizip_2_form": "gespielt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "spielend",
+                "korean": "노는, 연주하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gespielt",
+                "korean": "연주된, 놀아진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "einladen",
+        "korean": "~에 초대하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "lädt ein",
+            "praeteritum": "lud ein",
+            "perfekt": "hat eingeladen",
+            "partizip_2_form": "eingeladen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "einladend",
+                "korean": "초대하는, 매력적인"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "eingeladen",
+                "korean": "초대된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "träumen",
+        "korean": "~을 꿈꾸다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "träumt",
+            "praeteritum": "träumte",
+            "perfekt": "hat geträumt",
+            "partizip_2_form": "geträumt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "träumend",
+                "korean": "꿈꾸는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geträumt",
+                "korean": "꿈꾼"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bestehen zwischen",
+        "korean": "~사이에 존재하다/이루어지다",
+        "fixed_preposition": "zwischen (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er besteht",
+            "praeteritum": "er bestand",
+            "perfekt": "er hat bestanden",
+            "partizip_2_form": "bestanden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bestehend",
+                "korean": "존재하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "bestanden",
+                "korean": "존재했던, 이루어진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "helfen bei",
+        "korean": "~을 돕다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er hilft",
+            "praeteritum": "er half",
+            "perfekt": "er hat geholfen",
+            "partizip_2_form": "geholfen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "helfend",
+                "korean": "돕는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geholfen",
+                "korean": "도움을 받은"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "liegen an",
+        "korean": "~에 달려있다, ~때문이다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er liegt",
+            "praeteritum": "er lag",
+            "perfekt": "er hat gelegen",
+            "partizip_2_form": "gelegen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "liegend",
+                "korean": "놓여 있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelegen",
+                "korean": "놓여 있던"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "befestigen an",
+        "korean": "~에 고정시키다",
+        "fixed_preposition": "an (Dativ/Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er befestigt",
+            "praeteritum": "er befestigte",
+            "perfekt": "er hat befestigt",
+            "partizip_2_form": "befestigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "befestigend",
+                "korean": "고정시키는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "befestigt",
+                "korean": "고정된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "halten für",
+        "korean": "~라고 여기다/생각하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er hält",
+            "praeteritum": "er hielt",
+            "perfekt": "er hat gehalten",
+            "partizip_2_form": "gehalten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "haltend",
+                "korean": "잡고 있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gehalten",
+                "korean": "잡힌"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "danken bei",
+        "korean": "~에게 감사하다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er dankt",
+            "praeteritum": "er dankte",
+            "perfekt": "er hat gedankt",
+            "partizip_2_form": "gedankt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "dankend",
+                "korean": "감사하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gedankt",
+                "korean": "감사받은"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "erkennen an",
+        "korean": "~으로 알아보다/인식하다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er erkennt",
+            "praeteritum": "er erkannte",
+            "perfekt": "er hat erkannt",
+            "partizip_2_form": "erkannt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "erkennend",
+                "korean": "인식하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "erkannt",
+                "korean": "인식된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "fehlen an",
+        "korean": "~이 부족하다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "es fehlt",
+            "praeteritum": "es fehlte",
+            "perfekt": "es hat gefehlt",
+            "partizip_2_form": "gefehlt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fehlend",
+                "korean": "부족한"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefehlt",
+                "korean": "부족했던"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "leiden an",
+        "korean": "~으로 고통받다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er leidet",
+            "praeteritum": "er litt",
+            "perfekt": "er hat gelitten",
+            "partizip_2_form": "gelitten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "leidend",
+                "korean": "고통받는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelitten",
+                "korean": "고통받았던"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sterben an",
+        "korean": "~으로 죽다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er stirbt",
+            "praeteritum": "er starb",
+            "perfekt": "er ist gestorben",
+            "partizip_2_form": "gestorben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sterbend",
+                "korean": "죽어가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gestorben",
+                "korean": "죽은"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "zweifeln an",
+        "korean": "~을 의심하다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er zweifelt",
+            "praeteritum": "er zweifelte",
+            "perfekt": "er hat gezweifelt",
+            "partizip_2_form": "gezweifelt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "zweifelnd",
+                "korean": "의심하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gezweifelt",
+                "korean": "의심받은"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "glauben an",
+        "korean": "~을 믿다",
+        "fixed_preposition": "an (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "glaubt",
+            "praeteritum": "glaubte",
+            "perfekt": "hat geglaubt",
+            "partizip_2_form": "geglaubt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "glaubend",
+                "korean": "믿는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geglaubt",
+                "korean": "믿어진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "hoffen auf",
+        "korean": "~을 바라다, 기대하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "hofft",
+            "praeteritum": "hoffte",
+            "perfekt": "hat gehofft",
+            "partizip_2_form": "gehofft"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "hoffend",
+                "korean": "바라는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gehofft",
+                "korean": "바라진, 기대된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "konzentrieren auf",
+        "korean": "~에 집중하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "konzentriert",
+            "praeteritum": "konzentrierte",
+            "perfekt": "hat konzentriert",
+            "partizip_2_form": "konzentriert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "konzentrierend",
+                "korean": "집중하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "konzentriert",
+                "korean": "집중된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "spezialisieren auf",
+        "korean": "~을 전문으로 하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "spezialisiert",
+            "praeteritum": "spezialisierte",
+            "perfekt": "hat spezialisiert",
+            "partizip_2_form": "spezialisiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "spezialisierend",
+                "korean": "전문으로 하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "spezialisiert",
+                "korean": "전문화된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "stoßen auf",
+        "korean": "~을 우연히 발견하다, 마주치다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "stößt",
+            "praeteritum": "stieß",
+            "perfekt": "ist gestoßen",
+            "partizip_2_form": "gestoßen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "stoßend",
+                "korean": "부딪히는, 마주치는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gestoßen",
+                "korean": "부딪힌, 마주친"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bereiten auf",
+        "korean": "~을 준비하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "bereitet",
+            "praeteritum": "bereitete",
+            "perfekt": "hat bereitet",
+            "partizip_2_form": "bereitet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bereitend",
+                "korean": "준비하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "bereitet",
+                "korean": "준비된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "entschuldigen für",
+        "korean": "~에 대해 사과하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "entschuldigt",
+            "praeteritum": "entschuldigte",
+            "perfekt": "hat entschuldigt",
+            "partizip_2_form": "entschuldigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "entschuldigend",
+                "korean": "사과하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "entschuldigt",
+                "korean": "용서받은, 사과된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "treten für",
+        "korean": "~을 옹호하다, 지지하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "tritt",
+            "praeteritum": "trat",
+            "perfekt": "hat getreten",
+            "partizip_2_form": "getreten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "tretend",
+                "korean": "옹호하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "getreten",
+                "korean": "옹호된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "entscheiden für",
+        "korean": "~을 결정하다, 선택하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "entscheidet",
+            "praeteritum": "entschied",
+            "perfekt": "hat entschieden",
+            "partizip_2_form": "entschieden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "entscheidend",
+                "korean": "결정적인, 결정하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "entschieden",
+                "korean": "결정된, 단호한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "kämpfen für",
+        "korean": "~을 위해 싸우다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "kämpft",
+            "praeteritum": "kämpfte",
+            "perfekt": "hat gekämpft",
+            "partizip_2_form": "gekämpft"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kämpfend",
+                "korean": "싸우는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gekämpft",
+                "korean": "싸워진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verstoßen gegen",
+        "korean": "~을 위반하다, 어기다",
+        "fixed_preposition": "gegen (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "verstößt",
+            "praeteritum": "verstieß",
+            "perfekt": "hat verstoßen",
+            "partizip_2_form": "verstoßen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verstoßend",
+                "korean": "위반하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verstoßen",
+                "korean": "위반된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "wenden gegen",
+        "korean": "~에 반대하다, 대항하다",
+        "fixed_preposition": "gegen (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "wendet",
+            "praeteritum": "wendete",
+            "perfekt": "hat gewendet",
+            "partizip_2_form": "gewendet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wendend",
+                "korean": "돌리는, 대항하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gewendet",
+                "korean": "돌려진, 대항된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "diskutieren mit",
+        "korean": "~와 토론하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "diskutiert",
+            "praeteritum": "diskutierte",
+            "perfekt": "hat diskutiert",
+            "partizip_2_form": "diskutiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "diskutierend",
+                "korean": "토론하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "diskutiert",
+                "korean": "토론된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "hören auf",
+        "korean": "~의 말을 듣다, ~을 그만두다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "hört auf",
+            "praeteritum": "hörte auf",
+            "perfekt": "hat aufgehört",
+            "partizip_2_form": "aufgehört"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "aufhörend",
+                "korean": "그만두는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "aufgehört",
+                "korean": "그만두어진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "befassen mit",
+        "korean": "~을 다루다, ~에 종사하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "befasst",
+            "praeteritum": "befasste",
+            "perfekt": "hat befasst",
+            "partizip_2_form": "befasst"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "befassend",
+                "korean": "다루는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "befasst",
+                "korean": "다루어진, 종사하는"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "beschäftigen mit",
+        "korean": "~에 몰두하다, ~을 다루다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "beschäftigt",
+            "praeteritum": "beschäftigte",
+            "perfekt": "hat beschäftigt",
+            "partizip_2_form": "beschäftigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "beschäftigend",
+                "korean": "몰두하게 하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "beschäftigt",
+                "korean": "몰두한, 바쁜"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "handeln mit",
+        "korean": "~을 거래하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "handelt",
+            "praeteritum": "handelte",
+            "perfekt": "hat gehandelt",
+            "partizip_2_form": "gehandelt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "handelnd",
+                "korean": "거래하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gehandelt",
+                "korean": "거래된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "vergleichen mit",
+        "korean": "~와 비교하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "vergleicht",
+            "praeteritum": "verglich",
+            "perfekt": "hat verglichen",
+            "partizip_2_form": "verglichen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vergleichend",
+                "korean": "비교하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verglichen",
+                "korean": "비교된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "regen über",
+        "korean": "~에 대해 움직이다/동요하다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "regt",
+            "praeteritum": "regte",
+            "perfekt": "hat geregt",
+            "partizip_2_form": "geregt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "regend",
+                "korean": "움직이는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geregt",
+                "korean": "움직여진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "klagen über",
+        "korean": "~에 대해 불평하다, 한탄하다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "klagt",
+            "praeteritum": "klagte",
+            "perfekt": "hat geklagt",
+            "partizip_2_form": "geklagt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "klagend",
+                "korean": "불평하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geklagt",
+                "korean": "불평된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "nachdenken über",
+        "korean": "~에 대해 숙고하다, 생각하다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "denkt nach",
+            "praeteritum": "dachte nach",
+            "perfekt": "hat nachgedacht",
+            "partizip_2_form": "nachgedacht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "nachdenkend",
+                "korean": "숙고하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "nachgedacht",
+                "korean": "숙고된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sorgen um",
+        "korean": "~을 걱정하다",
+        "fixed_preposition": "um (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "sorgt",
+            "praeteritum": "sorgte",
+            "perfekt": "hat gesorgt",
+            "partizip_2_form": "gesorgt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sorgend",
+                "korean": "걱정하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesorgt",
+                "korean": "걱정된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "trauern um",
+        "korean": "~을 애도하다, 슬퍼하다",
+        "fixed_preposition": "um (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "trauert",
+            "praeteritum": "trauerte",
+            "perfekt": "hat getrauert",
+            "partizip_2_form": "getrauert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "trauernd",
+                "korean": "애도하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "getrauert",
+                "korean": "애도된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "leiden unter",
+        "korean": "~으로 고통받다",
+        "fixed_preposition": "unter (Dativ)",
+        "verb_forms": {
+            "praesens_er": "leidet",
+            "praeteritum": "litt",
+            "perfekt": "hat gelitten",
+            "partizip_2_form": "gelitten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "leidend",
+                "korean": "고통받는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelitten",
+                "korean": "고통받은"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verabschieden von",
+        "korean": "~와 작별하다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "verabschiedet",
+            "praeteritum": "verabschiedete",
+            "perfekt": "hat verabschiedet",
+            "partizip_2_form": "verabschiedet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verabschiedend",
+                "korean": "작별하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verabschiedet",
+                "korean": "작별된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "fliehen vor",
+        "korean": "~로부터 도망치다",
+        "fixed_preposition": "vor (Dativ)",
+        "verb_forms": {
+            "praesens_er": "flieht",
+            "praeteritum": "floh",
+            "perfekt": "ist geflohen",
+            "partizip_2_form": "geflohen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fliehend",
+                "korean": "도망치는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geflohen",
+                "korean": "도망친"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "fürchten vor",
+        "korean": "~을 두려워하다",
+        "fixed_preposition": "vor (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fürchtet",
+            "praeteritum": "fürchtete",
+            "perfekt": "hat gefürchtet",
+            "partizip_2_form": "gefürchtet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fürchtend",
+                "korean": "두려워하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefürchtet",
+                "korean": "두려워진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "überreden zu",
+        "korean": "~하도록 설득하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "überredet",
+            "praeteritum": "überredete",
+            "perfekt": "hat überredet",
+            "partizip_2_form": "überredet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "überredend",
+                "korean": "설득하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "überredet",
+                "korean": "설득된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "fehlen in",
+        "korean": "~에 부족하다, ~에 없다",
+        "fixed_preposition": "in (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fehlt",
+            "praeteritum": "fehlte",
+            "perfekt": "hat gefehlt",
+            "partizip_2_form": "gefehlt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fehlend",
+                "korean": "부족한, 없는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefehlt",
+                "korean": "부족했던"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "berechtigen zu",
+        "korean": "~에 대한 권한을 주다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "berechtigt",
+            "praeteritum": "berechtigte",
+            "perfekt": "hat berechtigt",
+            "partizip_2_form": "berechtigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "berechtigend",
+                "korean": "권한을 주는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "berechtigt",
+                "korean": "권한이 있는, 정당한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "überzeugen von",
+        "korean": "~을 확신시키다, 납득시키다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "überzeugt",
+            "praeteritum": "überzeugte",
+            "perfekt": "hat überzeugt",
+            "partizip_2_form": "überzeugt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "überzeugend",
+                "korean": "설득력 있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "überzeugt",
+                "korean": "확신하는, 납득된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "gewöhnen",
+        "korean": "~에 익숙해지다",
+        "fixed_preposition": "an (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "gewöhnt",
+            "praeteritum": "gewöhnte",
+            "perfekt": "hat gewöhnt",
+            "partizip_2_form": "gewöhnt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gewöhnend",
+                "korean": "익숙하게 하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gewöhnt",
+                "korean": "익숙해진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "ankommen",
+        "korean": "~에 달려있다, ~이 중요하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "kommt an",
+            "praeteritum": "kam an",
+            "perfekt": "ist angekommen",
+            "partizip_2_form": "angekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ankommend",
+                "korean": "도착하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "angekommen",
+                "korean": "도착한"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "schließen",
+        "korean": "~을 통해 결론을 내리다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "schließt",
+            "praeteritum": "schloss",
+            "perfekt": "hat geschlossen",
+            "partizip_2_form": "geschlossen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schließend",
+                "korean": "닫는, 결론 내리는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschlossen",
+                "korean": "닫힌, 결론 내려진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "fühlen",
+        "korean": "~을 더듬어 찾다, ~을 느끼다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fühlt",
+            "praeteritum": "fühlte",
+            "perfekt": "hat gefühlt",
+            "partizip_2_form": "gefühlt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fühlend",
+                "korean": "느끼는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefühlt",
+                "korean": "느껴진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "melden",
+        "korean": "~에 등록하다, ~에 지원하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "meldet",
+            "praeteritum": "meldete",
+            "perfekt": "hat gemeldet",
+            "partizip_2_form": "gemeldet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "meldend",
+                "korean": "보고하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gemeldet",
+                "korean": "보고된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "schauen",
+        "korean": "~을 찾다, ~을 돌보다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "schaut",
+            "praeteritum": "schaute",
+            "perfekt": "hat geschaut",
+            "partizip_2_form": "geschaut"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schauend",
+                "korean": "보고 있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschaut",
+                "korean": "본"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "geben",
+        "korean": "~을 알리다, ~을 제시하다",
+        "fixed_preposition": "an (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "gibt",
+            "praeteritum": "gab",
+            "perfekt": "hat gegeben",
+            "partizip_2_form": "gegeben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gebend",
+                "korean": "주는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gegeben",
+                "korean": "주어진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "drehen",
+        "korean": "~주위를 돌다, ~를 돌리다",
+        "fixed_preposition": "um (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er dreht",
+            "praeteritum": "er drehte",
+            "perfekt": "er hat gedreht",
+            "partizip_2_form": "gedreht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "drehend",
+                "korean": "돌리는, 회전하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gedreht",
+                "korean": "돌려진, 회전된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "erben",
+        "korean": "~로부터 상속받다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er erbt",
+            "praeteritum": "er erbte",
+            "perfekt": "er hat geerbt",
+            "partizip_2_form": "geerbt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "erbend",
+                "korean": "상속하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geerbt",
+                "korean": "상속된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "übersetzen",
+        "korean": "~로 번역하다",
+        "fixed_preposition": "in (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er übersetzt",
+            "praeteritum": "er übersetzte",
+            "perfekt": "er hat übersetzt",
+            "partizip_2_form": "übersetzt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "übersetzend",
+                "korean": "번역하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "übersetzt",
+                "korean": "번역된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "lachen",
+        "korean": "~에 대해 웃다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er lacht",
+            "praeteritum": "er lachte",
+            "perfekt": "er hat gelacht",
+            "partizip_2_form": "gelacht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "lachend",
+                "korean": "웃는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "einziehen",
+        "korean": "~로 이사하다, ~안으로 들어가다",
+        "fixed_preposition": "in (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er zieht ein",
+            "praeteritum": "er zog ein",
+            "perfekt": "er ist eingezogen",
+            "partizip_2_form": "eingezogen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "einziehend",
+                "korean": "이사하는, 들어가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "eingezogen",
+                "korean": "이사한, 들어간"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "reservieren",
+        "korean": "~를 위해 예약하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er reserviert",
+            "praeteritum": "er reservierte",
+            "perfekt": "er hat reserviert",
+            "partizip_2_form": "reserviert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "reservierend",
+                "korean": "예약하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "reserviert",
+                "korean": "예약된, 내성적인"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "richten",
+        "korean": "~에 따르다, ~에 맞추다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er richtet",
+            "praeteritum": "er richtete",
+            "perfekt": "er hat gerichtet",
+            "partizip_2_form": "gerichtet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "richtend",
+                "korean": "향하게 하는, 판단하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gerichtet",
+                "korean": "향하게 된, 판단된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "einführen in",
+        "korean": "~에 도입하다, ~에 안내하다",
+        "fixed_preposition": "in (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "führt ein",
+            "praeteritum": "führte ein",
+            "perfekt": "hat eingeführt",
+            "partizip_2_form": "eingeführt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "einführend",
+                "korean": "도입하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "eingeführt",
+                "korean": "도입된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "beziehen auf",
+        "korean": "~에 관련시키다, ~을 참조하다 (sich beziehen auf)",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "bezieht",
+            "praeteritum": "bezog",
+            "perfekt": "hat bezogen",
+            "partizip_2_form": "bezogen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "beziehend",
+                "korean": "관련시키는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "bezogen",
+                "korean": "관련된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sprechen von",
+        "korean": "~에 대해 말하다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "spricht",
+            "praeteritum": "sprach",
+            "perfekt": "hat gesprochen",
+            "partizip_2_form": "gesprochen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sprechend",
+                "korean": "말하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesprochen",
+                "korean": "말해진"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "abgeben an",
+        "korean": "~에게 제출하다, ~에게 넘겨주다",
+        "fixed_preposition": "an (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "gibt ab",
+            "praeteritum": "gab ab",
+            "perfekt": "hat abgegeben",
+            "partizip_2_form": "abgegeben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "abgebend",
+                "korean": "제출하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "abgegeben",
+                "korean": "제출된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "unterhalten mit",
+        "korean": "~와 대화하다 (sich unterhalten mit)",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "unterhält",
+            "praeteritum": "unterhielt",
+            "perfekt": "hat unterhalten",
+            "partizip_2_form": "unterhalten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "unterhaltend",
+                "korean": "대화하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "unterhalten",
+                "korean": "대화된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "stehen unter",
+        "korean": "~아래에 있다, ~의 지배를 받다",
+        "fixed_preposition": "unter (Dativ)",
+        "verb_forms": {
+            "praesens_er": "steht",
+            "praeteritum": "stand",
+            "perfekt": "hat gestanden",
+            "partizip_2_form": "gestanden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "stehend",
+                "korean": "서 있는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "einladen zu",
+        "korean": "~로 초대하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "lädt ein",
+            "praeteritum": "lud ein",
+            "perfekt": "hat eingeladen",
+            "partizip_2_form": "eingeladen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "einladend",
+                "korean": "초대하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "eingeladen",
+                "korean": "초대된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "halten an",
+        "korean": "~을 지키다, ~에 멈추다",
+        "fixed_preposition": "an (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "hält",
+            "praeteritum": "hielt",
+            "perfekt": "hat gehalten",
+            "partizip_2_form": "gehalten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "haltend",
+                "korean": "붙잡는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gehalten",
+                "korean": "붙잡힌"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "einsetzen in",
+        "korean": "~에 투입하다, ~에 배치하다",
+        "fixed_preposition": "in (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "setzt ein",
+            "praeteritum": "setzte ein",
+            "perfekt": "hat eingesetzt",
+            "partizip_2_form": "eingesetzt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "einsetzend",
+                "korean": "투입하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "eingesetzt",
+                "korean": "투입된"
+            }
+        }
+    },
+    {
+        "type": "동사+전치사",
+        "word": "geben zu",
+        "korean": "인정하다, 시인하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "gibt zu",
+            "praeteritum": "gab zu",
+            "perfekt": "hat zugegeben",
+            "partizip_2_form": "zugegeben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "zugegeben",
+                "korean": "인정된, 시인된"
+            }
+        }
+    }
+]

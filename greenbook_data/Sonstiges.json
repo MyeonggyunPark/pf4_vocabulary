@@ -1,0 +1,317 @@
+[
+    {
+        "type": "기타",
+        "word": "Nein",
+        "korean": "아니요"
+    },
+    {
+        "type": "기타",
+        "word": "Dass",
+        "korean": "~라는 것 (접속사)"
+    },
+    {
+        "type": "기타",
+        "word": "Nee",
+        "korean": "아니, 아니요"
+    },
+    {
+        "type": "기타",
+        "word": "weil",
+        "korean": "~때문에"
+    },
+    {
+        "type": "기타",
+        "word": "mich",
+        "korean": "나를 (4격)"
+    },
+    {
+        "type": "기타",
+        "word": "welch",
+        "korean": "어떤, 어느"
+    },
+    {
+        "type": "기타",
+        "word": "woran",
+        "korean": "무엇에 대해, 무엇으로"
+    },
+    {
+        "type": "기타",
+        "word": "worüber",
+        "korean": "무엇에 대해, 무엇 때문에"
+    },
+    {
+        "type": "기타",
+        "word": "Wen",
+        "korean": "누구를"
+    },
+    {
+        "type": "기타",
+        "word": "Danke",
+        "korean": "고마워요, 감사합니다"
+    },
+    {
+        "type": "기타",
+        "word": "Wer",
+        "korean": "누구"
+    },
+    {
+        "type": "기타",
+        "word": "dich",
+        "korean": "너를 (4격)"
+    },
+    {
+        "type": "기타",
+        "word": "Sie",
+        "korean": "그녀, 그들, 당신"
+    },
+    {
+        "type": "기타",
+        "word": "euer",
+        "korean": "너희의"
+    },
+    {
+        "type": "기타",
+        "word": "Jemand",
+        "korean": "누군가"
+    },
+    {
+        "type": "기타",
+        "word": "etwas",
+        "korean": "무언가, 약간"
+    },
+    {
+        "type": "기타",
+        "word": "sodass",
+        "korean": "그래서 ~하다, ~하도록"
+    },
+    {
+        "type": "기타",
+        "word": "dass",
+        "korean": "~라는 것, ~하도록"
+    },
+    {
+        "type": "기타",
+        "word": "neun",
+        "korean": "아홉"
+    },
+    {
+        "type": "기타",
+        "word": "aha",
+        "korean": "아하!"
+    },
+    {
+        "type": "기타",
+        "word": "eure",
+        "korean": "너희들의"
+    },
+    {
+        "type": "기타",
+        "word": "ich",
+        "korean": "나"
+    },
+    {
+        "type": "기타",
+        "word": "dein",
+        "korean": "너의"
+    },
+    {
+        "type": "기타",
+        "word": "kein",
+        "korean": "어떤 ~도 아닌"
+    },
+    {
+        "type": "기타",
+        "word": "wessen",
+        "korean": "누구의"
+    },
+    {
+        "type": "기타",
+        "word": "eur",
+        "korean": "유로 (화폐 단위 약어)"
+    },
+    {
+        "type": "기타",
+        "word": "and",
+        "korean": "그리고 (영어)"
+    },
+    {
+        "type": "기타",
+        "word": "unser",
+        "korean": "우리의"
+    },
+    {
+        "type": "기타",
+        "word": "nee",
+        "korean": "아니, 아니요 (비격식)"
+    },
+    {
+        "type": "기타",
+        "word": "ein",
+        "korean": "하나의, 어떤"
+    },
+    {
+        "type": "기타",
+        "word": "denn",
+        "korean": "왜냐하면, (의문문에서) 도대체"
+    },
+    {
+        "type": "기타",
+        "word": "bevor",
+        "korean": "~하기 전에"
+    },
+    {
+        "type": "기타",
+        "word": "wenn",
+        "korean": "~할 때, 만약 ~라면"
+    },
+    {
+        "type": "기타",
+        "word": "nachdem",
+        "korean": "~한 후에"
+    },
+    {
+        "type": "기타",
+        "word": "solange",
+        "korean": "~하는 동안"
+    },
+    {
+        "type": "기타",
+        "word": "sobald",
+        "korean": "~하자마자"
+    },
+    {
+        "type": "기타",
+        "word": "irgendein",
+        "korean": "어떤, 아무"
+    },
+    {
+        "type": "기타",
+        "word": "jeder",
+        "korean": "각자의, 모든"
+    },
+    {
+        "type": "기타",
+        "word": "welcher",
+        "korean": "어떤, ~하는 (관계대명사)"
+    },
+    {
+        "type": "기타",
+        "word": "beide",
+        "korean": "둘 다의, 양쪽의"
+    },
+    {
+        "type": "기타",
+        "word": "all",
+        "korean": "모든, 전부"
+    },
+    {
+        "type": "기타",
+        "word": "mein",
+        "korean": "나의"
+    },
+    {
+        "type": "기타",
+        "word": "falls",
+        "korean": "만약 ~라면"
+    },
+    {
+        "type": "기타",
+        "word": "obwohl",
+        "korean": "~에도 불구하고"
+    },
+    {
+        "type": "기타",
+        "word": "obgleich",
+        "korean": "~에도 불구하고"
+    },
+    {
+        "type": "기타",
+        "word": "obschon",
+        "korean": "~에도 불구하고"
+    },
+    {
+        "type": "기타",
+        "word": "wodurch",
+        "korean": "무엇에 의해, 그로 인해"
+    },
+    {
+        "type": "기타",
+        "word": "indem",
+        "korean": "~함으로써, ~하는 동안에"
+    },
+    {
+        "type": "기타",
+        "word": "sondern",
+        "korean": "오히려, ~이 아니라"
+    },
+    {
+        "type": "기타",
+        "word": "deins",
+        "korean": "너의 것"
+    },
+    {
+        "type": "기타",
+        "word": "wenden wegen",
+        "korean": "~때문에 돌리다/향하다"
+    },
+    {
+        "type": "기타",
+        "word": "anfangen von",
+        "korean": "~로부터 시작하다"
+    },
+    {
+        "type": "기타",
+        "word": "diskutieren bei",
+        "korean": "~에서 토론하다"
+    },
+    {
+        "type": "기타",
+        "word": "fangen mit",
+        "korean": "~으로 잡다"
+    },
+    {
+        "type": "기타",
+        "word": "hören mit",
+        "korean": "~으로 듣다"
+    },
+    {
+        "type": "기타",
+        "word": "handeln bei",
+        "korean": "~의 경우에 행동하다"
+    },
+    {
+        "type": "기타",
+        "word": "fangen um",
+        "korean": "~을 잡으려고 하다"
+    },
+    {
+        "type": "기타",
+        "word": "aufhören um",
+        "korean": "~을 위해 멈추다"
+    },
+    {
+        "type": "기타",
+        "word": "verwanden mit",
+        "korean": "변형시키다 (~으로)"
+    },
+    {
+        "type": "기타",
+        "word": "besuchen vor",
+        "korean": "~전에 방문하다"
+    },
+    {
+        "type": "기타",
+        "word": "ankommen um",
+        "korean": "~경에 도착하다"
+    },
+    {
+        "type": "기타",
+        "word": "besichtigen mit",
+        "korean": "~와 함께 구경하다"
+    },
+    {
+        "type": "기타",
+        "word": "fahren am",
+        "korean": "~에서 운전하다"
+    }
+]
