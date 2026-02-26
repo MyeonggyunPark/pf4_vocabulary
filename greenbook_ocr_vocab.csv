@@ -1,0 +1,4802 @@
+Type,Word,Frequency
+명사,Kind,112
+명사,Haus,99
+명사,Frau,82
+명사,Freund,81
+명사,Student,78
+명사,Buch,68
+명사,Auto,66
+명사,Frage,63
+명사,Verb,58
+명사,Zug,57
+명사,Herr,55
+명사,Verb,51
+명사,Eltern,50
+명사,Prädikat,47
+명사,Satz,47
+명사,Artikel,45
+명사,Jahr,45
+명사,Zimmer,44
+명사,Bruder,43
+명사,Mann,42
+명사,Fahrrad,41
+명사,Perfekt,39
+명사,Präposition,39
+명사,Uhr,39
+명사,Vater,38
+명사,Prüfung,37
+명사,Ergänzung,36
+명사,Mutter,35
+명사,Freundin,35
+명사,Angabe,32
+명사,Leute,31
+명사,Deutsch,30
+명사,Zeit,30
+명사,Endung,30
+명사,Stadt,30
+명사,Bus,30
+명사,Wohnung,30
+명사,Form,29
+명사,Subjekt,29
+명사,Temporalsätze,29
+명사,Arbeit,29
+명사,Geld,28
+명사,Präteritum,27
+명사,Hauptsatz,27
+명사,Tür,27
+명사,Familie,27
+명사,Nachbar,27
+명사,Mensch,27
+명사,Ferien,26
+명사,Schwester,25
+명사,Passiv,24
+명사,Bahnhof,24
+명사,Tag,24
+명사,Lehrer,23
+명사,Studium,22
+명사,Person,22
+명사,Abend,22
+명사,Text,22
+명사,Arzt,22
+명사,Ende,22
+명사,Land,22
+명사,Reise,21
+명사,Kino,21
+명사,Attribute,20
+명사,Name,20
+명사,Brief,20
+명사,Straße,20
+명사,Zeitung,20
+명사,Fenster,20
+명사,Modalverben,19
+명사,Hilfe,19
+명사,Sprachkurs,19
+명사,Kollege,19
+명사,Unterricht,19
+명사,Roman,18
+명사,Film,18
+명사,Problem,18
+명사,Subjunktion,17
+명사,Unfall,17
+명사,Tisch,17
+명사,Relativpronomen,17
+명사,Adjektive,16
+명사,Position,16
+명사,Negation,16
+명사,Miete,16
+명사,Studentin,16
+명사,Taxi,16
+명사,Hotel,16
+명사,Nebensatz,16
+명사,Relativsatz,15
+명사,Antwort,15
+명사,Essen,15
+명사,Gebrauch,14
+명사,Modalverbe,14
+명사,Deklination,14
+명사,Adjektiv,14
+명사,Seite,14
+명사,Sprache,14
+명사,Geschehen,14
+명사,Professor,14
+명사,Bett,14
+명사,Tochter,14
+명사,Woche,14
+명사,Satzglieder,14
+명사,Angabesatz,13
+명사,Plan,13
+명사,Brot,13
+명사,Monat,13
+명사,Gast,13
+명사,Schüler,13
+명사,Esel,13
+명사,Partizip,13
+명사,Sohn,13
+명사,Übungsgrammatik,12
+명사,Verben,12
+명사,Anhang,12
+명사,Nebensätz,12
+명사,Singular,12
+명사,Schlüssel,12
+명사,Hausaufgabe,12
+명사,Stunde,12
+명사,Tee,12
+명사,Kaffee,12
+명사,Geschenk,12
+명사,Nacht,12
+명사,Foto,12
+명사,Nom,12
+명사,Wetter,12
+명사,Nein,12
+명사,Regel,11
+명사,Imperativ,11
+명사,Pronome,11
+명사,Adverbie,11
+명사,Infinitiv,11
+명사,Plural,11
+명사,Bilde,11
+명사,Regierung,11
+명사,Wort,11
+명사,Fehler,11
+명사,Sache,11
+명사,Tourist,11
+명사,Wasser,11
+명사,Studentenheim,11
+명사,Futur,11
+명사,Abitur,11
+명사,Hand,11
+명사,Mantel,11
+명사,Bild,11
+명사,Stellung,10
+명사,Doppelkonjunktion,10
+명사,Sonne,10
+명사,Wochenende,10
+명사,Reflexivpronomen,10
+명사,Rathaus,10
+명사,Hund,10
+명사,Wein,10
+명사,Blume,10
+명사,Altstadt,10
+명사,Kugelschreiber,10
+명사,Lampe,10
+명사,Ausland,10
+명사,Leid,10
+명사,Übung,9
+명사,Nominalgruppe,9
+명사,Ergänzungssatz,9
+명사,Universität,9
+명사,Aufgabe,9
+명사,Geburtstag,9
+명사,Polizei,9
+명사,Flugzeug,9
+명사,Urlaub,9
+명사,Berg,9
+명사,Konzert,9
+명사,Adresse,9
+명사,Grund,9
+명사,Brille,9
+명사,Kartoffel,9
+명사,Nachmittag,9
+명사,Dass,9
+명사,Nee,9
+명사,Bezugswort,9
+명사,Deutsche,8
+명사,Personalpronomen,8
+명사,Fragesatz,8
+명사,Satzglied,8
+명사,Vorschlag,8
+명사,Stuhl,8
+명사,Telefonnummer,8
+명사,Chef,8
+명사,Präfix,8
+명사,Firma,8
+명사,Grammatik,8
+명사,Koffer,8
+명사,Minute,8
+명사,Rauchen,8
+명사,Radio,8
+명사,Welt,8
+명사,Fuß,8
+명사,Tempus,8
+명사,Baum,8
+명사,Garage,8
+명사,Meisten,8
+명사,Schwierigkeit,8
+명사,Medizin,8
+명사,Ampel,8
+명사,Wörterbuch,8
+명사,Nome,8
+명사,Wand,8
+명사,Krankheit,8
+명사,Geschwister,8
+명사,Großelter,8
+명사,Relativpronome,8
+명사,Einstein,8
+명사,Infinitivsatz,7
+명사,Satzverbindung,7
+명사,Apposition,7
+명사,Preis,7
+명사,Konjunktion,7
+명사,Garten,7
+명사,Wagen,7
+명사,Großmutter,7
+명사,Geschichte,7
+명사,Bier,7
+명사,Lernen,7
+명사,Tasche,7
+명사,Polizist,7
+명사,Akkusativ,7
+명사,Beispiel,7
+명사,Auskunft,7
+명사,Wecker,7
+명사,Zukunft,7
+명사,Stipendium,7
+명사,Kennst,7
+명사,Computer,7
+명사,Attribut,7
+명사,Superlativ,7
+명사,Onkel,7
+명사,Regen,7
+명사,Personalform,7
+명사,Arbeitsplatz,7
+명사,Hauptstadt,7
+명사,Fahrer,7
+명사,Grundstufe,6
+명사,Nomen,6
+명사,Fragewörter,6
+명사,Kausalsätze,6
+명사,Konditionalsätze,6
+명사,Lösung,6
+명사,Raum,6
+명사,Kollegin,6
+명사,Präsens,6
+명사,Dieb,6
+명사,Nachricht,6
+명사,Milch,6
+명사,Patient,6
+명사,Kurs,6
+명사,Lärm,6
+명사,Studienplatz,6
+명사,Bank,6
+명사,Haar,6
+명사,Vergangenheit,6
+명사,Gegenwart,6
+명사,Erde,6
+명사,Verwandte,6
+명사,Rechnung,6
+명사,Formular,6
+명사,Pullover,6
+명사,Party,6
+명사,Fach,6
+명사,Bedingung,6
+명사,Schrank,6
+명사,Bauer,6
+명사,Mädchen,6
+명사,Eva,6
+명사,Alt,6
+명사,Recht,6
+명사,Katrin,6
+명사,Schule,6
+명사,Weg,6
+명사,Katze,6
+명사,Teil,6
+명사,Vortrag,6
+명사,Witz,6
+명사,Besuch,6
+명사,Finalsätz,6
+명사,Adverb,6
+명사,Fremdsprache,5
+명사,Vergleich,5
+명사,Kongruenz,5
+명사,Konsekutivsatz,5
+명사,Studierend,5
+명사,Autor,5
+명사,Komparation,5
+명사,Hauptsätze,5
+명사,Angabesätze,5
+명사,Vorgang,5
+명사,Baby,5
+명사,Setzen,5
+명사,Wäsche,5
+명사,Fußballspiel,5
+명사,Fatma,5
+명사,Morgen,5
+명사,Steuer,5
+명사,Ferienhaus,5
+명사,See,5
+명사,Einladung,5
+명사,Ball,5
+명사,Ärztin,5
+명사,Platz,5
+명사,Bedeutung,5
+명사,Licht,5
+명사,Pass,5
+명사,Gepäck,5
+명사,Fernseher,5
+명사,Stelle,5
+명사,Glas,5
+명사,Erfolg,5
+명사,Schiff,5
+명사,Anzeige,5
+명사,Büro,5
+명사,Setze,5
+명사,Bürger,5
+명사,Kundin,5
+명사,Zahn,5
+명사,Folge,5
+명사,Tier,5
+명사,Luft,5
+명사,Absicht,5
+명사,Kunde,5
+명사,Bekannte,5
+명사,Obst,5
+명사,Farbe,5
+명사,Käse,5
+명사,Ergänzen,5
+명사,Haustür,5
+명사,Handy,5
+명사,Gib,5
+명사,Euro,5
+명사,Ankunft,5
+명사,Zentrum,5
+명사,Bevölkerung,5
+명사,Prädikatsteil,5
+명사,Küche,5
+명사,Frühstück,5
+명사,Sonntag,5
+명사,Gesundheit,5
+명사,Schloss,5
+명사,Dame,5
+명사,Angst,5
+명사,Konditionalsatz,5
+명사,Art,5
+명사,Praktikum,5
+명사,Job,5
+명사,Samstag,5
+명사,Kasus,5
+명사,Niveau,4
+명사,Vorwort,4
+명사,Präsen,4
+명사,Trennbar,4
+명사,Konzessivsätze,4
+명사,Modalsatz,4
+명사,Punkt,4
+명사,Hinweis,4
+명사,Wortschatz,4
+명사,Januar,4
+명사,Stammformen,4
+명사,Rat,4
+명사,Leben,4
+명사,Lücke,4
+명사,Fernsehen,4
+명사,Rad,4
+명사,Brötchen,4
+명사,Post,4
+명사,Sommer,4
+명사,Lehrerin,4
+명사,Politiker,4
+명사,Präsident,4
+명사,Aussagesätz,4
+명사,Restaurant,4
+명사,Prädikate,4
+명사,Bitte,4
+명사,Eis,4
+명사,Keller,4
+명사,Radfahrer,4
+명사,Tomate,4
+명사,Fußball,4
+명사,Stock,4
+명사,Feuer,4
+명사,Abendessen,4
+명사,Hunger,4
+명사,Lied,4
+명사,Portemonnaie,4
+명사,Winter,4
+명사,Glück,4
+명사,Stadtzentrum,4
+명사,Wald,4
+명사,Bau,4
+명사,Korb,4
+명사,Denfilm,4
+명사,Ersatzinfinitiv,4
+명사,Plusquamperfekt,4
+명사,Märchen,4
+명사,Französisch,4
+명사,Passivsatz,4
+명사,Autofahrer,4
+명사,Heizung,4
+명사,Aktiv,4
+명사,Butter,4
+명사,Möglichkeit,4
+명사,Beantworten,4
+명사,Angestellter,4
+명사,Original,4
+명사,Fotokopie,4
+명사,Waschmaschine,4
+명사,Artikelwörter,4
+명사,Gemüse,4
+명사,Teppich,4
+명사,Möbel,4
+명사,Ruhe,4
+명사,Spanisch,4
+명사,Schriftsteller,4
+명사,Fortsetzung,4
+명사,Gute,4
+명사,Komparativ,4
+명사,Verkehrsmittel,4
+명사,Gebrauchtwag,4
+명사,Note,4
+명사,Handtuch,4
+명사,Examen,4
+명사,Spaziergang,4
+명사,Vorlesung,4
+명사,Mensa,4
+명사,Abfahrt,4
+명사,Abreise,4
+명사,Besucher,4
+명사,Kopfschmerz,4
+명사,Ware,4
+명사,Semester,4
+명사,Sorge,4
+명사,Mal,4
+명사,Kleidung,4
+명사,Abiturnot,4
+명사,Konjunktiv,4
+명사,Konzessivsatz,4
+명사,Liste,3
+명사,Verlag,3
+명사,Inhaltsverzeichnis,3
+명사,Tempora,3
+명사,Aufl,3
+명사,Finalsätze,3
+명사,Mittelstufe,3
+명사,Fall,3
+명사,Satzzeichen,3
+명사,Konditionalsätz,3
+명사,Konsonant,3
+명사,Lesen,3
+명사,Bildung,3
+명사,Pers,3
+명사,Verbformen,3
+명사,Vogel,3
+명사,Boden,3
+명사,Sofa,3
+명사,Cafe,3
+명사,Meter,3
+명사,Krankenhaus,3
+명사,Großvater,3
+명사,Ter,3
+명사,Suchen,3
+명사,Himmel,3
+명사,Arbeiter,3
+명사,Warteraum,3
+명사,Sofort,3
+명사,Hochhaus,3
+명사,Rede,3
+명사,Schuh,3
+명사,Dativ,3
+명사,Schreiben,3
+명사,Äpfel,3
+명사,Partei,3
+명사,Temperatur,3
+명사,Politik,3
+명사,Zuhörer,3
+명사,Produkt,3
+명사,Makler,3
+명사,Ausländer,3
+명사,Voraus,3
+명사,Schildbürger,3
+명사,Stück,3
+명사,Baumstamm,3
+명사,Erzählen,3
+명사,Nasreddin,3
+명사,Markt,3
+명사,Dorf,3
+명사,Spaß,3
+명사,Kuchen,3
+명사,Hose,3
+명사,Strafe,3
+명사,König,3
+명사,Anfang,3
+명사,Gespräch,3
+명사,Kramer,3
+명사,Geschwindigkeit,3
+명사,Sekretärin,3
+명사,Verkehrsunfall,3
+명사,Beamtin,3
+명사,Gesetz,3
+명사,Musste,3
+명사,Verletzter,3
+명사,Tausend,3
+명사,Oktoberfest,3
+명사,Fährt,3
+명사,Kühlschrank,3
+명사,Zigarette,3
+명사,Staat,3
+명사,Arbeitslose,3
+명사,Uniform,3
+명사,Schülerin,3
+명사,Tante,3
+명사,Sachbearbeiter,3
+명사,Gutachten,3
+명사,Genitiv,3
+명사,Assistent,3
+명사,Soldat,3
+명사,Pole,3
+명사,Motorrad,3
+명사,Handschuhe,3
+명사,Kälte,3
+명사,Kamera,3
+명사,Rucksack,3
+명사,Beruf,3
+명사,Chefin,3
+명사,Insel,3
+명사,Teur,3
+명사,Fernsehgerät,3
+명사,Pflanze,3
+명사,Musik,3
+명사,Drucker,3
+명사,Verkehr,3
+명사,Gleichheit,3
+명사,Ungleichheit,3
+명사,Kreuzung,3
+명사,Füller,3
+명사,Meier,3
+명사,Zeig,3
+명사,Kannst,3
+명사,Wohin,3
+명사,Ecke,3
+명사,Einkaufen,3
+명사,Telefon,3
+명사,Wann,3
+명사,Fachstudium,3
+명사,Kirche,3
+명사,Schwimmbad,3
+명사,Aussagesatz,3
+명사,Imperativsatz,3
+명사,Paket,3
+명사,Minister,3
+명사,Scheckkart,3
+명사,Klasse,3
+명사,Heimat,3
+명사,Bundesrepublik,3
+명사,Bahnsteig,3
+명사,Stimme,3
+명사,Verspätung,3
+명사,Thema,3
+명사,Kellner,3
+명사,Museum,3
+명사,Verhalten,3
+명사,Lachen,3
+명사,Frühling,3
+명사,Wofür,3
+명사,Beginn,3
+명사,Temporalsatz,3
+명사,Reparatur,3
+명사,Meer,3
+명사,Kausalsatz,3
+명사,Pralin,3
+명사,Tennis,3
+명사,Modalsätz,3
+명사,Weise,3
+명사,Kleinstadt,3
+명사,Junge,3
+명사,Rechtsattribut,3
+명사,Komma,3
+명사,Hörtext,3
+명사,Fassung,2
+명사,Mitarbeit,2
+명사,Empfehlung,2
+명사,Wortart,2
+명사,Index,2
+명사,Stammforme,2
+명사,Mittelstufengrammatik,2
+명사,Erwachsene,2
+명사,Abfolge,2
+명사,Maß,2
+명사,Morphologie,2
+명사,Fragesätz,2
+명사,Präsensformen,2
+명사,Verblist,2
+명사,Öffn,2
+명사,Klingeln,2
+명사,Schokolade,2
+명사,Familienname,2
+명사,Grüne,2
+명사,Taschenrechner,2
+명사,Mietwohnung,2
+명사,Spieler,2
+명사,Rücksicht,2
+명사,Mitbewohner,2
+명사,Fisch,2
+명사,Rand,2
+명사,Theater,2
+명사,Couch,2
+명사,Vorsilbe,2
+명사,Missling,2
+명사,Versuch,2
+명사,Journalist,2
+명사,Flasche,2
+명사,Ferienreise,2
+명사,Zettel,2
+명사,Tafel,2
+명사,Flughafengebäude,2
+명사,Flug,2
+명사,Landung,2
+명사,Innenstadt,2
+명사,Gebäude,2
+명사,Aufforderung,2
+명사,Müller,2
+명사,Mund,2
+명사,Arm,2
+명사,Kochen,2
+명사,Ding,2
+명사,Alkohol,2
+명사,Tablette,2
+명사,Spiegel,2
+명사,Kauf,2
+명사,Arbeitsmöglichkeit,2
+명사,Entschuldigung,2
+명사,Haushalt,2
+명사,Spreche,2
+명사,Lage,2
+명사,Segelboot,2
+명사,Jack,2
+명사,Wahl,2
+명사,Spiel,2
+명사,Bein,2
+명사,Abschied,2
+명사,Spielplatz,2
+명사,Tor,2
+명사,Frisör,2
+명사,Motor,2
+명사,Bibel,2
+명사,Gott,2
+명사,Streit,2
+명사,Wolke,2
+명사,Mai,2
+명사,Bescheinigung,2
+명사,Sekretariat,2
+명사,Sport,2
+명사,Dreizimmerwohnung,2
+명사,Monatsmiet,2
+명사,Angebot,2
+명사,Einzug,2
+명사,Säck,2
+명사,Kiste,2
+명사,Sonnenlicht,2
+명사,Heu,2
+명사,Sack,2
+명사,Hauptverb,2
+명사,Stamm,2
+명사,Rakete,2
+명사,Kopf,2
+명사,Laden,2
+명사,Wartezimmer,2
+명사,Gestern,2
+명사,Italienisch,2
+명사,Zurzeit,2
+명사,Anekdote,2
+명사,Ausnahme,2
+명사,Vorzeitigkeit,2
+명사,Vermutung,2
+명사,Lotto,2
+명사,Gymnasium,2
+명사,Rückkehr,2
+명사,Nordfriesland,2
+명사,Krankenpfleger,2
+명사,Tätigkeit,2
+명사,Wissenschaftler,2
+명사,Hausmeister,2
+명사,Spielzeug,2
+명사,Versicherung,2
+명사,Institut,2
+명사,Protokoll,2
+명사,Abgeordneter,2
+명사,Gewerkschaft,2
+명사,Schließung,2
+명사,Fabrik,2
+명사,Presse,2
+명사,Passivsätz,2
+명사,Täter,2
+명사,Aufnahme,2
+명사,Batterie,2
+명사,Pilot,2
+명사,Müll,2
+명사,Rohstoff,2
+명사,Zeitungsartikel,2
+명사,Dolmetscher,2
+명사,Zeugin,2
+명사,Fähigkeit,2
+명사,Erlaubnis,2
+명사,Weil,2
+명사,Schrift,2
+명사,Missverständnis,2
+명사,Kontrolle,2
+명사,Aufenthaltserlaubnis,2
+명사,Termin,2
+명사,Erkrankung,2
+명사,Leistung,2
+명사,Datum,2
+명사,Dank,2
+명사,Programm,2
+명사,Erlaubt,2
+명사,Geologe,2
+명사,Diplomat,2
+명사,Griech,2
+명사,Pluralbildung,2
+명사,Besonderheit,2
+명사,Erganz,2
+명사,Messer,2
+명사,Löffel,2
+명사,Personal,2
+명사,Nachbarin,2
+명사,Bäcker,2
+명사,Zeugnis,2
+명사,Kleid,2
+명사,Ruf,2
+명사,Papier,2
+명사,Kindheit,2
+명사,Regal,2
+명사,Mich,2
+명사,Besitzer,2
+명사,Buchhandlung,2
+명사,Banane,2
+명사,Sammlung,2
+명사,Diskussion,2
+명사,Erzählung,2
+명사,Studentinn,2
+명사,Zweit,2
+명사,Arbeitslosigkeit,2
+명사,Schritt,2
+명사,Gerät,2
+명사,Räd,2
+명사,Helfer,2
+명사,Glücksspiele,2
+명사,Tulpe,2
+명사,Vorsicht,2
+명사,Kilo,2
+명사,Krawatte,2
+명사,Neue,2
+명사,Studierender,2
+명사,Nominal,2
+명사,Beamter,2
+명사,Bekannter,2
+명사,Zahl,2
+명사,Kontakt,2
+명사,Medikament,2
+명사,Minimum,2
+명사,Tennisspieler,2
+명사,Kontinent,2
+명사,Komparative,2
+명사,Bleistift,2
+명사,Fernsehturm,2
+명사,Pronomen,2
+명사,Anruf,2
+명사,Rente,2
+명사,Womit,2
+명사,Wieso,2
+명사,Wozu,2
+명사,Possessivpronom,2
+명사,Gehört,2
+명사,Rektor,2
+명사,Schwiegerelter,2
+명사,Präpositionen,2
+명사,Park,2
+명사,Geschäft,2
+명사,Dezember,2
+명사,Sprachprüfung,2
+명사,Nähe,2
+명사,Jugendliche,2
+명사,Armee,2
+명사,Badezimmer,2
+명사,Satzende,2
+명사,Einstufungstest,2
+명사,Eisenbahn,2
+명사,Arbeitsstelle,2
+명사,Reiseführer,2
+명사,Gastgeber,2
+명사,Briefmark,2
+명사,Mauer,2
+명사,Schreibtisch,2
+명사,Stein,2
+명사,Verbform,2
+명사,Welch,2
+명사,Verkäufer,2
+명사,Englisch,2
+명사,Türkisch,2
+명사,Armut,2
+명사,Kranke,2
+명사,Schmerz,2
+명사,Hitze,2
+명사,Witze,2
+명사,Fleiß,2
+명사,Erdbeben,2
+명사,Professorin,2
+명사,Radfahren,2
+명사,Hoffnung,2
+명사,Korrelat,2
+명사,Woran,2
+명사,Worüber,2
+명사,Sommerferien,2
+명사,Infinitivkonstruktion,2
+명사,Astronomie,2
+명사,Gleis,2
+명사,Sonnenbrille,2
+명사,Deutschlern,2
+명사,Untersuchung,2
+명사,Karte,2
+명사,Training,2
+명사,Adversativsatz,2
+명사,Linkshänd,2
+명사,Uni,2
+명사,Heirat,2
+명사,Endpunkt,2
+명사,Panne,2
+명사,Zweck,2
+명사,Kredit,2
+명사,Führerschein,2
+명사,Flügel,2
+명사,Gegenteil,2
+명사,Taxifahrer,2
+명사,Notebook,2
+명사,Sportler,2
+명사,Regenschirm,2
+명사,Japaner,2
+명사,Müsste,2
+명사,Grenze,2
+명사,Konjunktio,2
+명사,Diplomprüfung,2
+명사,Doktorarbeit,2
+명사,Diplom,2
+명사,Praktikantenstelle,2
+명사,Stellungsregel,2
+명사,Verständigungsproblem,2
+명사,Stadtstaat,2
+명사,Handwerk,2
+명사,Beziehung,2
+명사,Verbindung,2
+명사,Schneit,2
+명사,Muttersprache,2
+명사,Satzgliedern,2
+명사,Eigenname,2
+명사,Genus,2
+명사,Rolle,2
+명사,Anne,2
+명사,Mitschüler,2
+명사,Aztek,2
+명사,Golf,2
+명사,Feuerwehr,2
+명사,Gebühr,2
+명사,Lust,2
+명사,Freizeit,2
+명사,Negationswörter,2
+명사,Rabe,2
+명사,Schnabel,2
+명사,Koreanerin,2
+명사,Chilene,2
+명사,Streichholz,2
+명사,Physiker,2
+명사,Geselligkeit,2
+명사,Besucherinn,2
+명사,Zitat,2
+명사,Begleiter,2
+명사,Nen,2
+명사,Lösungsheft,2
+명사,Leseverstehen,2
+명사,Transkription,2
+명사,Übungsgr,1
+명사,Heil,1
+명사,Nominalisiert,1
+명사,Eräpoaitinnen,1
+명사,Druckerei,1
+명사,Wiesbaum,1
+명사,Nebensätze,1
+명사,Zuspruch,1
+명사,Gleich,1
+명사,Material,1
+명사,Kurzregel,1
+명사,Lernlist,1
+명사,Praxis,1
+명사,Lehrgebiet,1
+명사,Studienkolleg,1
+명사,Ursprung,1
+명사,Ten,1
+명사,Quelle,1
+명사,Veröffentlichung,1
+명사,Zielsetzung,1
+명사,Adressatenkreis,1
+명사,Modell,1
+명사,Valenzgrammatik,1
+명사,Schrecken,1
+명사,Grammatikunterricht,1
+명사,Wiederholungszwecke,1
+명사,Selbstlerner,1
+명사,Vorkenntnissen,1
+명사,Anleitung,1
+명사,Sprachlehrer,1
+명사,Anregung,1
+명사,April,1
+명사,Auflage,1
+명사,Überarbeitung,1
+명사,Schenzeit,1
+명사,Orthografie,1
+명사,Währung,1
+명사,Lebenswelt,1
+명사,Bereich,1
+명사,Kapitel,1
+명사,Syntax,1
+명사,Pronominaladverbie,1
+명사,Verwendung,1
+명사,Reflexivverben,1
+명사,Anrede,1
+명사,Vokalwechsel,1
+명사,Lädst,1
+명사,Keininhnicw,1
+명사,Präsensbildung,1
+명사,Ändern,1
+명사,Gebe,1
+명사,Nehmen,1
+명사,Heizen,1
+명사,Warten,1
+명사,Sitzen,1
+명사,Benutze,1
+명사,Schlafen,1
+명사,Schinken,1
+명사,Ellbogen,1
+명사,Physik,1
+명사,Stehlen,1
+명사,Kerl,1
+명사,Kontaktlinse,1
+명사,Briefmarke,1
+명사,Kriminalromane,1
+명사,Reihe,1
+명사,Paula,1
+명사,Supermarkt,1
+명사,Freundinn,1
+명사,Wen,1
+명사,Honig,1
+명사,Sekunde,1
+명사,Meister,1
+명사,Münster,1
+명사,Tankstelle,1
+명사,Personalforme,1
+명사,Staatsbürger,1
+명사,Gas,1
+명사,Lehmann,1
+명사,Personalformen,1
+명사,Anfangsschwierigkeite,1
+명사,Wohnheim,1
+명사,Danke,1
+명사,Dentenwerk,1
+명사,Bushaltestelle,1
+명사,Hinterlass,1
+명사,Faden,1
+명사,Erkältung,1
+명사,Infinitive,1
+명사,Mieterhöhung,1
+명사,Fußgänger,1
+명사,Nordwesten,1
+명사,Betreten,1
+명사,Schnellrestaurant,1
+명사,Begriff,1
+명사,Unterrichtsstunde,1
+명사,Deutschkenntnisse,1
+명사,Mäzxch,1
+명사,Vorlesen,1
+명사,Werr,1
+명사,Einchecken,1
+명사,Ticket,1
+명사,Sicherheitsbeamter,1
+명사,Halle,1
+명사,Gepäckband,1
+명사,Passagier,1
+명사,Fengebäude,1
+명사,Geschäftspartner,1
+명사,Portauftrag,1
+명사,Sing,1
+명사,Ler,1
+명사,Komm,1
+명사,Setz,1
+명사,Steh,1
+명사,Präfixe,1
+명사,Imperativformen,1
+명사,Öffne,1
+명사,Entschuldige,1
+명사,Handle,1
+명사,Erinn,1
+명사,Stammuvokal,1
+명사,Iss,1
+명사,Sieh,1
+명사,Käamm,1
+명사,Sen,1
+명사,Tellerchol,1
+명사,Besteck,1
+명사,Diceh,1
+명사,Bkinderleisesem,1
+명사,Zunge,1
+명사,Oberkörper,1
+명사,Atem,1
+명사,Eranelhe,1
+명사,Dassäch,1
+명사,Onen,1
+명사,Nnaseenn,1
+명사,Waage,1
+명사,Zwiebelsuppe,1
+명사,Toilette,1
+명사,Hast,1
+명사,Abbieg,1
+명사,Telefonrechnung,1
+명사,Hören,1
+명사,Lese,1
+명사,Rechn,1
+명사,Ichhabe,1
+명사,Freitagnachmittag,1
+명사,Reflexivpronome,1
+명사,Krieg,1
+명사,Begrüßung,1
+명사,Arroganz,1
+명사,Lernie,1
+명사,Senden,1
+명사,Wusste,1
+명사,Hunde,1
+명사,Brat,1
+명사,Einbieg,1
+명사,Aufenthaltsgenehmigung,1
+명사,Verbrecher,1
+명사,Räuber,1
+명사,Arbeitswoche,1
+명사,Nil,1
+명사,Schnitzel,1
+명사,Nebenstraße,1
+명사,Zigarettenrauch,1
+명사,Gesicht,1
+명사,Fußballverein,1
+명사,Skilaufen,1
+명사,Hafen,1
+명사,Zen,1
+명사,Gewicht,1
+명사,Papierkorb,1
+명사,Parfum,1
+명사,Krankenschwester,1
+명사,Neandertaler,1
+명사,Rheuma,1
+명사,Haltestelle,1
+명사,Frauenstraße,1
+명사,Nähen,1
+명사,Nadel,1
+명사,Fleisch,1
+명사,Plakat,1
+명사,Sie,1
+명사,Tageblatt,1
+명사,Mietvertrag,1
+명사,Monatsmiete,1
+명사,Men,1
+명사,Volkszeitung,1
+명사,Maklerbüro,1
+명사,Höhe,1
+명사,Vermittlungsgebühr,1
+명사,Vorort,1
+명사,Enttäuschung,1
+명사,Schild,1
+명사,Beiihm,1
+명사,Schilda,1
+명사,Mühe,1
+명사,Schleppen,1
+명사,Holz,1
+명사,Hinauftragen,1
+명사,Klugheit,1
+명사,Ratsversammlung,1
+명사,Ger,1
+명사,Gedanke,1
+명사,Tüchern,1
+명사,Gefäß,1
+명사,Wiese,1
+명사,Zwiebel,1
+명사,Stall,1
+명사,Sprit,1
+명사,Nenn,1
+명사,Verwenden,1
+명사,Präsensform,1
+명사,Konto,1
+명사,Ortsveränderung,1
+명사,Zustandsveränderung,1
+명사,Lingen,1
+명사,Rasieren,1
+명사,Informatiker,1
+명사,Raketentest,1
+명사,Start,1
+명사,Nebel,1
+명사,Stadtverwaltung,1
+명사,Airbus,1
+명사,Schlange,1
+명사,Grad,1
+명사,Kantine,1
+명사,Vollverben,1
+명사,Verkehrsschild,1
+명사,Spielte,1
+명사,Beispielsätze,1
+명사,Ewigkeit,1
+명사,Mond,1
+명사,Schloß,1
+명사,Teratur,1
+명사,Wüst,1
+명사,Voraussage,1
+명사,Brauch,1
+명사,Terrassentür,1
+명사,Schreibmaschine,1
+명사,Hausschlüssel,1
+명사,Kernspaltung,1
+명사,Atombombe,1
+명사,Benutz,1
+명사,Ferienwohnung,1
+명사,Weißbrot,1
+명사,Rotwein,1
+명사,Teepunsch,1
+명사,Kälter,1
+명사,Veränderung,1
+명사,Englische,1
+명사,Term,1
+명사,Darren,1
+명사,Verbotsschild,1
+명사,Mechaniker,1
+명사,Heizungsfirma,1
+명사,Marie,1
+명사,Curie,1
+명사,Stoff,1
+명사,Glühbirne,1
+명사,Glaser,1
+명사,Fensterscheibe,1
+명사,Passivforme,1
+명사,Schaden,1
+명사,Mitarbeiter,1
+명사,Stellenabbau,1
+명사,Behördenleiter,1
+명사,Beförderung,1
+명사,Verlesung,1
+명사,Opfer,1
+명사,Katastrophe,1
+명사,Verkehrsnachricht,1
+명사,Konferenz,1
+명사,Sanierung,1
+명사,Imperativsätz,1
+명사,Nalform,1
+명사,Umstellung,1
+명사,Bombe,1
+명사,Falschgeld,1
+명사,Akkus,1
+명사,Waffe,1
+명사,Umweltschützer,1
+명사,Rmeide,1
+명사,Mehrwegflaschen,1
+명사,Getränk,1
+명사,Dose,1
+명사,Kunstdünger,1
+명사,Aktivsätz,1
+명사,Stange,1
+명사,Autoabgase,1
+명사,Telefonbuch,1
+명사,Beschluss,1
+명사,Veranstaltung,1
+명사,Code,1
+명사,Wille,1
+명사,Wunsch,1
+명사,Notwendigkeit,1
+명사,Auftrag,1
+명사,Präteritumform,1
+명사,Perfektforme,1
+명사,Präs,1
+명사,Brät,1
+명사,Plusqu,1
+명사,Fut,1
+명사,Willst,1
+명사,Muss,1
+명사,Satzbildung,1
+명사,Musst,1
+명사,Papstbesuch,1
+명사,Zulassungsbeschränkung,1
+명사,Kothek,1
+명사,Oberammergau,1
+명사,Studentensekretariat,1
+명사,Abiturzeugnis,1
+명사,Kopie,1
+명사,Ordnung,1
+명사,Akt,1
+명사,Wiedersehe,1
+명사,Seminar,1
+명사,Kenntnis,1
+명사,Antrag,1
+명사,Dokument,1
+명사,Wichtige,1
+명사,Folgend,1
+명사,Stipendiengeber,1
+명사,Mitte,1
+명사,Zasse,1
+명사,Elektriker,1
+명사,Korrigierst,1
+명사,Könnt,1
+명사,Bewerbung,1
+명사,Grenzpolizist,1
+명사,Vjel,1
+명사,Genitivendung,1
+명사,Demonstrant,1
+명사,Praktikant,1
+명사,Musikant,1
+명사,Sozialist,1
+명사,Jurist,1
+명사,Biologe,1
+명사,Soziologe,1
+명사,Demokrat,1
+명사,Franzose,1
+명사,Tschech,1
+명사,Türk,1
+명사,Russe,1
+명사,Jung,1
+명사,Kamerad,1
+명사,Aff,1
+명사,Teller,1
+명사,Taß,1
+명사,Französin,1
+명사,Nieur,1
+명사,Amerikaner,1
+명사,Sängerin,1
+명사,Höhle,1
+명사,Mäntel,1
+명사,Spanier,1
+명사,Clown,1
+명사,Inneren,1
+명사,Vergesst,1
+명사,Kamin,1
+명사,Nenne,1
+명사,Geburtsdater,1
+명사,Eure,1
+명사,Seniorenheim,1
+명사,Sandkiste,1
+명사,Adresse,1
+명사,Wasserflasche,1
+명사,Könntest,1
+명사,Puppe,1
+명사,Hündchen,1
+명사,Notizbuch,1
+명사,Elternhau,1
+명사,Zirkus,1
+명사,Zulassung,1
+명사,Gartenmöbel,1
+명사,Gärtner,1
+명사,Nett,1
+명사,Labor,1
+명사,Adiektiv,1
+명사,Ikel,1
+명사,Vorinformation,1
+명사,Auswahl,1
+명사,Maler,1
+명사,Hbeunanach,1
+명사,Fuchs,1
+명사,Diet,1
+명사,Perser,1
+명사,Brotf,1
+명사,Lieblingsfarbe,1
+명사,Preunde,1
+명사,Macht,1
+명사,Gurke,1
+명사,Bol,1
+명사,Gelschreib,1
+명사,Ichkaufeeinenwarm,1
+명사,Wagens,1
+명사,Wind,1
+명사,Liebhaber,1
+명사,Olivenöls,1
+명사,Kunst,1
+명사,Kirsche,1
+명사,Pflaume,1
+명사,Pfirsiche,1
+명사,Bohnen,1
+명사,Karott,1
+명사,Leiben,1
+명사,Bewohner,1
+명사,Kaktee,1
+명사,Orchidee,1
+명사,Katalysator,1
+명사,Bremse,1
+명사,Steil,1
+명사,Gang,1
+명사,Link,1
+명사,Seitenfenster,1
+명사,Rauch,1
+명사,Lautstärke,1
+명사,Älter,1
+명사,Tinte,1
+명사,Tintenpatron,1
+명사,Komponist,1
+명사,Nachtmusik,1
+명사,Schulfreund,1
+명사,Jünger,1
+명사,Salzen,1
+명사,Spielsache,1
+명사,Neuigkeit,1
+명사,Meprüfung,1
+명사,Kriminalfilm,1
+명사,Adjektivendung,1
+명사,Erlebnis,1
+명사,Berufschance,1
+명사,Gedächtnis,1
+명사,Antiquariat,1
+명사,Mehre,1
+명사,Romanfabrik,1
+명사,Französischer,1
+명사,Musketiere,1
+명사,Abenteuerroman,1
+명사,Idee,1
+명사,Handlung,1
+명사,Fortsetzunge,1
+명사,Rätsel,1
+명사,Dritt,1
+명사,Ended,1
+명사,Topf,1
+명사,Frühjahr,1
+명사,Wasserhahn,1
+명사,Jacke,1
+명사,Trainer,1
+명사,Marktfrau,1
+명사,Tüte,1
+명사,Hähne,1
+명사,Krawatt,1
+명사,Hemd,1
+명사,Caf,1
+명사,Nominalisierte,1
+명사,Portier,1
+명사,Angeklagter,1
+명사,Vorsitzend,1
+명사,Betrunkener,1
+명사,Gefangener,1
+명사,Überlebend,1
+명사,Blinde,1
+명사,Vorgesetzter,1
+명사,Angeklagt,1
+명사,Richter,1
+명사,Parlament,1
+명사,Lieb,1
+명사,Gut,1
+명사,Reisend,1
+명사,Polizeibeamt,1
+명사,Arbeitslos,1
+명사,Jugendlich,1
+명사,Spielkasino,1
+명사,Fremd,1
+명사,Verwandt,1
+명사,Erwachsen,1
+명사,Tot,1
+명사,Russisch,1
+명사,Gefange,1
+명사,Krank,1
+명사,Parteivorsitzend,1
+명사,Blind,1
+명사,Einäugig,1
+명사,Glied,1
+명사,Vergleichsglied,1
+명사,Satzklammer,1
+명사,Zwillingsschwester,1
+명사,Einkommen,1
+명사,Schmuck,1
+명사,Schwägerin,1
+명사,Maximum,1
+명사,Vergleiche,1
+명사,Drücken,1
+명사,Petra,1
+명사,Komparationsforme,1
+명사,Umlaut,1
+명사,Amer,1
+명사,Bupere,1
+명사,Paul,1
+명사,Nieiat,1
+명사,Rekord,1
+명사,Eindang,1
+명사,Tirläuft,1
+명사,Ortistes,1
+명사,Bute,1
+명사,Kirchturm,1
+명사,Nordpol,1
+명사,Stadtpark,1
+명사,Model,1
+명사,Acer,1
+명사,Personalpronome,1
+명사,Rose,1
+명사,Durst,1
+명사,Besorgtum,1
+명사,Geschwester,1
+명사,Demlehrer,1
+명사,Normalfall,1
+명사,Computerspiel,1
+명사,Wirst,1
+명사,Ohrringe,1
+명사,Rasenmäher,1
+명사,Aufihn,1
+명사,Fragepronomen,1
+명사,Pronominalform,1
+명사,Direktor,1
+명사,Stromrechnung,1
+명사,Zweifelst,1
+명사,Gesprächspartner,1
+명사,Wesweg,1
+명사,Staubsauger,1
+명사,Panama,1
+명사,Pianist,1
+명사,Vermieterin,1
+명사,Akzent,1
+명사,Wintersache,1
+명사,Sorte,1
+명사,Rees,1
+명사,Münze,1
+명사,Orang,1
+명사,Stadtplan,1
+명사,Reißverschlüs,1
+명사,Stift,1
+명사,Karteikarte,1
+명사,Heft,1
+명사,Renat,1
+명사,Barbaras,1
+명사,Vereinten,1
+명사,Retten,1
+명사,Diskothek,1
+명사,Sprechstunde,1
+명사,Radiound,1
+명사,Temporaler,1
+명사,Früfung,1
+명사,Feiertag,1
+명사,Trennung,1
+명사,Nimm,1
+명사,Jahrhundert,1
+명사,Schieb,1
+명사,August,1
+명사,September,1
+명사,Ergebnis,1
+명사,Weihnachtsferi,1
+명사,Drogenhandel,1
+명사,Brücke,1
+명사,Mitternacht,1
+명사,Sally,1
+명사,Gönül,1
+명사,Ergingand,1
+명사,Spiegelihängt,1
+명사,Mietpreis,1
+명사,Jemand,1
+명사,Kinderwag,1
+명사,Sprachenzentrum,1
+명사,Mittagspause,1
+명사,Mittwoch,1
+명사,Mietpreise,1
+명사,Durebschnitt,1
+명사,Stadtmitte,1
+명사,Kirchturmuhr,1
+명사,Einzelsubjekt,1
+명사,Sonalform,1
+명사,Sommerferie,1
+명사,Drittel,1
+명사,Wüste,1
+명사,Bring,1
+명사,Marmelade,1
+명사,Fahrt,1
+명사,Kursraum,1
+명사,Nebensatzbildung,1
+명사,Oktober,1
+명사,Fahrradtour,1
+명사,Flur,1
+명사,Treppe,1
+명사,Intensivkurs,1
+명사,Anwesenheitspflicht,1
+명사,Kursgebühr,1
+명사,Sportplatz,1
+명사,Wurst,1
+명사,Sonntagabend,1
+명사,Arn,1
+명사,Schlosstheater,1
+명사,Abendhimmel,1
+명사,Stern,1
+명사,Begleitung,1
+명사,Direktorin,1
+명사,Sturm,1
+명사,Suppe,1
+명사,Leidtun,1
+명사,Opposition,1
+명사,Tasse,1
+명사,Patientin,1
+명사,Reisebüro,1
+명사,Bahnhofshotel,1
+명사,Autoabgabe,1
+명사,Abwaschen,1
+명사,Zirkusclown,1
+명사,Türundall,1
+명사,Erklärung,1
+명사,Glocke,1
+명사,Leg,1
+명사,Dat,1
+명사,Decke,1
+명사,Hörsaal,1
+명사,Kindergarten,1
+명사,Abwässer,1
+명사,Kleider,1
+명사,Terrasse,1
+명사,Augenarzt,1
+명사,Waschbecken,1
+명사,Brieftasch,1
+명사,Haken,1
+명사,Zimme,1
+명사,Schornsteinfeger,1
+명사,Schatten,1
+명사,Sessel,1
+명사,Stecker,1
+명사,Steckdose,1
+명사,Steeken,1
+명사,Hosentasch,1
+명사,Mülleimer,1
+명사,Schaukelpferd,1
+명사,Goethestraße,1
+명사,Autod,1
+명사,Pferd,1
+명사,Hausbewohner,1
+명사,Affe,1
+명사,Bananeind,1
+명사,Preisunterschied,1
+명사,Zoogeschäft,1
+명사,Spezialisieren,1
+명사,Krebs,1
+명사,Ehrlichkeit,1
+명사,Fortschritt,1
+명사,Sozialamt,1
+명사,Busfahrer,1
+명사,Gegenverkehr,1
+명사,Produktion,1
+명사,Ersatzteil,1
+명사,Lektüre,1
+명사,Honorar,1
+명사,Krach,1
+명사,Verkürzung,1
+명사,Schulzeit,1
+명사,Türke,1
+명사,Grieche,1
+명사,Chancengleichheit,1
+명사,Fahrpreiserhöhung,1
+명사,Vorwurf,1
+명사,Handeln,1
+명사,Trauern,1
+명사,Wiederholung,1
+명사,Heimatstadt,1
+명사,Dollar,1
+명사,Rücken,1
+명사,Studienplan,1
+명사,Stimmung,1
+명사,Zwillingsbruder,1
+명사,Terrorist,1
+명사,Gewitter,1
+명사,Gefahr,1
+명사,Gefährlichkeit,1
+명사,Experiment,1
+명사,Mitkommen,1
+명사,Terrorismus,1
+명사,Arbeitsbedingung,1
+명사,Lottogewinn,1
+명사,Mode,1
+명사,Mathematiklehrerin,1
+명사,Gastfreundschaft,1
+명사,Verstand,1
+명사,Maschinenbau,1
+명사,Ingenieur,1
+명사,Mittagessen,1
+명사,Zusage,1
+명사,Diktat,1
+명사,Darfich,1
+명사,Kabinett,1
+명사,Eigentum,1
+명사,Internet,1
+명사,Flugmöglichkeit,1
+명사,Sinfonie,1
+명사,Bezahlung,1
+명사,Kusin,1
+명사,Chinesin,1
+명사,Boutique,1
+명사,Teilnahme,1
+명사,Klima,1
+명사,Cousin,1
+명사,Chirurg,1
+명사,Herztransplantation,1
+명사,Verkehrszeichen,1
+명사,Senkung,1
+명사,Umweltverschmutzung,1
+명사,Studienbescheinigung,1
+명사,Mitbewohnerin,1
+명사,Unterlegen,1
+명사,Schachweltmeister,1
+명사,Gegner,1
+명사,Reich,1
+명사,Schuld,1
+명사,Einlösung,1
+명사,Scheck,1
+명사,Feuchtigkeit,1
+명사,Trope,1
+명사,Benehmen,1
+명사,Anfänger,1
+명사,Geburt,1
+명사,Fremdsprachenkenntnis,1
+명사,Bodenschätz,1
+명사,Qualität,1
+명사,Marathonstrecke,1
+명사,Künstler,1
+명사,Ausgang,1
+명사,Droge,1
+명사,Erfahrung,1
+명사,Reis,1
+명사,Mannschaft,1
+명사,Mannschafte,1
+명사,Konservierungsmittel,1
+명사,Brotschneide,1
+명사,Einsteigen,1
+명사,Teilnehmer,1
+명사,Kängurus,1
+명사,Kalorie,1
+명사,Militär,1
+명사,Sturz,1
+명사,Strahle,1
+명사,Sechzehnjährige,1
+명사,Autofahren,1
+명사,Illustrierten,1
+명사,Wahlergebnis,1
+명사,Meinung,1
+명사,Maier,1
+명사,Reaktion,1
+명사,Überfallene,1
+명사,Gemüsehändler,1
+명사,Kneipe,1
+명사,Spüle,1
+명사,Vermieter,1
+명사,Fremde,1
+명사,Tageszeit,1
+명사,Bahn,1
+명사,Medizinstudium,1
+명사,Verbstamm,1
+명사,Krankenversicherung,1
+명사,Gelegenheit,1
+명사,Studienort,1
+명사,Zweifel,1
+명사,Ungewissheit,1
+명사,Fragewort,1
+명사,Ahnuns,1
+명사,Schlafwag,1
+명사,Speisewag,1
+명사,Geburtsdatum,1
+명사,Schwiegermutter,1
+명사,Fehlen,1
+명사,Test,1
+명사,Aspirin,1
+명사,Lineal,1
+명사,Ziehen,1
+명사,Linie,1
+명사,Prädikatsverb,1
+명사,Auge,1
+명사,Paco,1
+명사,Glatteis,1
+명사,Zeitpunkt,1
+명사,Ferienbeginn,1
+명사,Papst,1
+명사,Geschäftsreise,1
+명사,Blatt,1
+명사,Herbst,1
+명사,Urgroßvater,1
+명사,Brunnen,1
+명사,Strom,1
+명사,Sportlerin,1
+명사,Pfeif,1
+명사,Rückwärtsfahren,1
+명사,Telefonieren,1
+명사,Zugfahrt,1
+명사,Aussteigen,1
+명사,Unterhaltung,1
+명사,Monopoly,1
+명사,Gegensatz,1
+명사,Harz,1
+명사,Krokusse,1
+명사,Rechtshänder,1
+명사,Großstadt,1
+명사,Agrarland,1
+명사,Industrie,1
+명사,Briefkasten,1
+명사,Stehen,1
+명사,Bestehen,1
+명사,Ginn,1
+명사,Erstes,1
+명사,Beendigung,1
+명사,Berufsausbildung,1
+명사,Duschen,1
+명사,Schlafengehe,1
+명사,Fahrkarte,1
+명사,Musiker,1
+명사,Instrument,1
+명사,Sperrung,1
+명사,Visum,1
+명사,Orchester,1
+명사,Auslandsreise,1
+명사,Tan,1
+명사,Diplomarbeit,1
+명사,Tennisspielen,1
+명사,Reporter,1
+명사,Presseclub,1
+명사,Hauptsatzgeschehen,1
+명사,Abschluss,1
+명사,Kaufen,1
+명사,Tanken,1
+명사,Berührung,1
+명사,Schalter,1
+명사,Aufstehen,1
+명사,Überqueren,1
+명사,Zusammenstoß,1
+명사,Besichtigung,1
+명사,Treffen,1
+명사,Rettung,1
+명사,Erdbebenopfer,1
+명사,Linksverkehr,1
+명사,Kreditzinse,1
+명사,Zeitunglesen,1
+명사,Zahlung,1
+명사,Lösegeld,1
+명사,Geisel,1
+명사,Kausalsätz,1
+명사,Ursache,1
+명사,Lie,1
+명사,Behinderung,1
+명사,Ausaängst,1
+명사,Satzgefug,1
+명사,Bibliothek,1
+명사,Lederjacke,1
+명사,Fahrplan,1
+명사,Mittag,1
+명사,Weshalb,1
+명사,Carme,1
+명사,Aziz,1
+명사,Zugverspätung,1
+명사,Alter,1
+명사,Krankheitsgründe,1
+명사,Schnee,1
+명사,Trockenheit,1
+명사,Korn,1
+명사,Eifersucht,1
+명사,Finalsatz,1
+명사,Inge,1
+명사,Bürgeramt,1
+명사,Kontoauszug,1
+명사,Schauspieler,1
+명사,Verbesserung,1
+명사,Sprachkenntnisse,1
+명사,Korrektur,1
+명사,Kennenlern,1
+명사,Kursteilnehmer,1
+명사,Schutz,1
+명사,Einbrechern,1
+명사,Juwelier,1
+명사,Alarmanlage,1
+명사,Beruhigung,1
+명사,Straßenglätte,1
+명사,Zins,1
+명사,Tank,1
+명사,Tanke,1
+명사,Gardin,1
+명사,Sonnenschein,1
+명사,Komplikation,1
+명사,Originalzeugnis,1
+명사,Antragstellung,1
+명사,Vöglein,1
+명사,Engel,1
+명사,Frieden,1
+명사,Fieber,1
+명사,Gegengrund,1
+명사,Urlaubsreise,1
+명사,Deutschkurs,1
+명사,Parken,1
+명사,Langem,1
+명사,Teilzeitarbeit,1
+명사,Protest,1
+명사,Picknicke,1
+명사,Aufmerksamkeit,1
+명사,Markus,1
+명사,Windpock,1
+명사,Schwimmen,1
+명사,Kanal,1
+명사,Schiffsverkehr,1
+명사,Fachliteratur,1
+명사,Sparsamkeit,1
+명사,Motorradfahrer,1
+명사,Kopfverletzung,1
+명사,Helm,1
+명사,Tion,1
+명사,Freude,1
+명사,Such,1
+명사,Bakterie,1
+명사,Teilung,1
+명사,Unfallrisiko,1
+명사,Satzgefüge,1
+명사,Voraussetzung,1
+명사,Nebenjob,1
+명사,Jobvermittlung,1
+명사,Referat,1
+명사,Literatur,1
+명사,Mailbox,1
+명사,Kontaktlinsen,1
+명사,Disco,1
+명사,Knopf,1
+명사,Telefonzelle,1
+명사,Fahrausweis,1
+명사,Schlimme,1
+명사,Terpentin,1
+명사,Pier,1
+명사,Endete,1
+명사,Langsamer,1
+명사,Öffnung,1
+명사,Nachbarland,1
+명사,Verlassen,1
+명사,Sonnenaufgang,1
+명사,Mitleid,1
+명사,Bettler,1
+명사,Vorzeigen,1
+명사,Beachtung,1
+명사,Erweiterung,1
+명사,Verlust,1
+명사,Nummer,1
+명사,Üben,1
+명사,Klavierspieler,1
+명사,Ausfüllen,1
+명사,Großtante,1
+명사,Stadtsparkasse,1
+명사,Kolleginn,1
+명사,Gehaltserhöhung,1
+명사,Stellenanzeig,1
+명사,Rundschau,1
+명사,Privatbank,1
+명사,Abteilungsleiter,1
+명사,Breuer,1
+명사,Entfernung,1
+명사,Stadtwald,1
+명사,Haupt,1
+명사,Schwager,1
+명사,Französische,1
+명사,Gras,1
+명사,Kaufhaus,1
+명사,Unterschreibe,1
+명사,Vertrag,1
+명사,Ärger,1
+명사,Bericht,1
+명사,Pizza,1
+명사,Studentenwerk,1
+명사,Geldautomat,1
+명사,Kürze,1
+명사,Knall,1
+명사,Studiengebühr,1
+명사,Studierendenzahle,1
+명사,Dom,1
+명사,Ausstellung,1
+명사,Gedicht,1
+명사,Abendbrot,1
+명사,Linksattribute,1
+명사,Rechtsattribute,1
+명사,Carola,1
+명사,Zugswort,1
+명사,Notiz,1
+명사,Assistentin,1
+명사,Aftributsatz,1
+명사,Galileis,1
+명사,Behauptung,1
+명사,Entschluss,1
+명사,Mathematik,1
+명사,Lang,1
+명사,Nominativ,1
+명사,Cinema,1
+명사,Brasilianer,1
+명사,Sprachproblem,1
+명사,Woist,1
+명사,Pause,1
+명사,Kaiserhof,1
+명사,Hochzeit,1
+명사,Palästinenser,1
+명사,Stadtrand,1
+명사,Schluck,1
+명사,Vertrauen,1
+명사,Emanzipation,1
+명사,Crem,1
+명사,Klammer,1
+명사,Schulbus,1
+명사,Hassan,1
+명사,Kostas,1
+명사,Wanderer,1
+명사,Ersatzbus,1
+명사,Beleuchtung,1
+명사,Aussprache,1
+명사,Garantiezeit,1
+명사,Nebenhaus,1
+명사,Protestaktion,1
+명사,Unterstützung,1
+명사,Deutschlehrerin,1
+명사,Zynismus,1
+명사,Klassenbest,1
+명사,Englischlehrerin,1
+명사,Tanzkurs,1
+명사,Geschichtslehrer,1
+명사,Kleine,1
+명사,Flohmarkt,1
+명사,Fachgeschäft,1
+명사,Inhaber,1
+명사,Bluse,1
+명사,Nette,1
+명사,Aue,1
+명사,Mammut,1
+명사,Elefantenart,1
+명사,Konsul,1
+명사,Türkin,1
+명사,Ostseeküste,1
+명사,Zwergstaat,1
+명사,Nominalform,1
+명사,Erinnerung,1
+명사,Pyramide,1
+명사,Europäer,1
+명사,Ureinwohner,1
+명사,Aborigines,1
+명사,Interessiert,1
+명사,Hörst,1
+명사,Überweist,1
+명사,Kasten,1
+명사,Arbeitszimmer,1
+명사,Breschreibe,1
+명사,Verwend,1
+명사,Bart,1
+명사,Jeans,1
+명사,Ökologie,1
+명사,Interesse,1
+명사,Jazz,1
+명사,Doppelnegation,1
+명사,Verneinen,1
+명사,Ausdruck,1
+명사,Lest,1
+명사,Dinosaurier,1
+명사,Beantwortung,1
+명사,Tionswörter,1
+명사,Faustregel,1
+명사,Sein,1
+명사,Schläft,1
+명사,Orten,1
+명사,Ust,1
+명사,Son,1
+명사,Hafenstädte,1
+명사,Säugetier,1
+명사,Situation,1
+명사,Kontext,1
+명사,Etwas,1
+명사,Generalisierung,1
+명사,Bezeichnung,1
+명사,Rab,1
+명사,Käseaus,1
+명사,Nullform,1
+명사,Pluralform,1
+명사,Brüder,1
+명사,Stoffname,1
+명사,Ring,1
+명사,Gold,1
+명사,Personennam,1
+명사,Städtename,1
+명사,Neutrum,1
+명사,Gruppenbezeichnung,1
+명사,Nationalität,1
+명사,Religion,1
+명사,Christ,1
+명사,Sprichwörter,1
+명사,Zwillingsformel,1
+명사,Reihung,1
+명사,Weltreise,1
+명사,Schlagzeile,1
+명사,Medium,1
+명사,Gebraucht,1
+명사,Paar,1
+명사,Braucht,1
+명사,Benzin,1
+명사,Diesel,1
+명사,Traum,1
+명사,Alpen,1
+명사,Gebirge,1
+명사,Hector,1
+명사,Sauerstoff,1
+명사,Kerze,1
+명사,Nichtraucher,1
+명사,Einreise,1
+명사,Paß,1
+명사,Druckfehler,1
+명사,Ausgabe,1
+명사,Besitzerin,1
+명사,Villa,1
+명사,Fahrzeugpapier,1
+명사,Testament,1
+명사,Begründer,1
+명사,Relativitätstheorie,1
+명사,Vergnügen,1
+명사,Filmschauspielerin,1
+명사,Aussehen,1
+명사,Intelligenz,1
+명사,Bedenken,1
+명사,Satzzeiche,1
+명사,Semikolon,1
+명사,Fragezeichen,1
+명사,Fragesätze,1
+명사,Ausrufezeichen,1
+명사,Ausruf,1
+명사,Imperativen,1
+명사,Doppelpunkt,1
+명사,Anführungszeichen,1
+명사,Trag,1
+명사,Saal,1
+명사,Einzelheit,1
+명사,Publikum,1
+명사,Großbuchstaben,1
+명사,Vollverb,1
+명사,Hilfsverb,1
+명사,Modalverb,1
+명사,Demonstrativpronomen,1
+명사,Indefinitpronom,1
+명사,Possessivpronomen,1
+명사,Aktivsatz,1
+명사,Häufig,1
+명사,Kuss,1
+명사,Wange,1
+명사,Modal,1
+명사,Attributsatz,1
+명사,Hilfsverben,1
+명사,Konjugation,1
+명사,Linksattribut,1
+명사,Allff,1
+명사,Übersetzung,1
+명사,Konn,1
+명사,Elend,1
+명사,Befahl,1
+명사,Begbnn,1
+명사,Band,1
+명사,Gebrat,1
+명사,Brennen,1
+명사,Brachte,1
+명사,Entscheiden,1
+명사,Floh,1
+명사,Gelingen,1
+명사,Genieße,1
+명사,Genoss,1
+명사,Genosse,1
+명사,Gewinnen,1
+명사,Schmelze,1
+명사,Schneiden,1
+명사,Griff,1
+명사,Kannte,1
+명사,Lieh,1
+명사,Las,1
+명사,Mied,1
+명사,Riet,1
+명사,Rieb,1
+명사,Rannte,1
+명사,Rang,1
+명사,Geschienen,1
+명사,Schlief,1
+명사,Schnitt,1
+명사,Schrie,1
+명사,Kureeereerrerer,1
+명사,Kerrernerere,1
+명사,Kurserenrerer,1
+명사,Kerserreeren,1
+명사,Kunssurerrererreernn,1
+명사,Kureerer,1
+명사,Keunussereerererererenenn,1
+명사,Kunsnereererene,1
+명사,Ner,1
+명사,Kerneerrerrer,1
+명사,Schwimm,1
+명사,Schwamm,1
+명사,Schwand,1
+명사,Springen,1
+명사,Stahl,1
+명사,Strich,1
+명사,Trank,1
+명사,Wandte,1
+명사,Verzieh,1
+명사,Zwang,1
+명사,Trenn,1
+명사,Kunennrrernen,1
+명사,Une,1
+명사,Reed,1
+명사,Base,1
+명사,Titel,1
+명사,Grammatikfertigkeit,1
+명사,Praxisorientiertes,1
+명사,Grammatikmodell,1
+명사,Lehrend,1
+명사,Deutschlerner,1
+명사,Tik,1
+명사,Struktur,1
+명사,Turtur,1
+명사,Schriftsprach,1
+명사,Information,1
+명사,Aspekt,1
+명사,Gesellschaft,1
+명사,Vorbereitung,1
+명사,Sprechen,1
+명사,Textproduktion,1
+명사,Prüfungsbeispiel,1
+명사,Satzblättern,1
+동사,kommen,147
+동사,haben,146
+동사,gehen,136
+동사,fahren,112
+동사,stehen,96
+동사,machen,92
+동사,geben,91
+동사,finden,59
+동사,bleiben,57
+동사,setzen,55
+동사,sehen,49
+동사,arbeiten,49
+동사,studieren,48
+동사,sprechen,47
+동사,lernen,44
+동사,liegen,43
+동사,kaufen,42
+동사,lesen,42
+동사,bilden,41
+동사,besuchen,41
+동사,helfen,40
+동사,gehören,40
+동사,wissen,39
+동사,nennen,38
+동사,lassen,37
+동사,wohnen,37
+동사,sitzen,36
+동사,muss,36
+동사,nehmen,34
+동사,schreiben,33
+동사,schlafen,33
+동사,beginnen,33
+동사,brauchen,33
+동사,bringen,32
+동사,sagen,30
+동사,benutzen,29
+동사,heißen,29
+동사,zeigen,28
+동사,spielen,27
+동사,leben,26
+동사,warten,25
+동사,essen,25
+동사,freuen,25
+동사,halten,23
+동사,fallen,22
+동사,tragen,22
+동사,stellen,22
+동사,laufen,21
+동사,denken,21
+동사,fliegen,21
+동사,ziehen,21
+동사,tun,21
+동사,öffnen,20
+동사,bezahlen,20
+동사,erzählen,20
+동사,treffen,19
+동사,empfehlen,19
+동사,waschen,19
+동사,hängen,19
+동사,schaffen,18
+동사,müssen,17
+동사,verstehen,17
+동사,beantworten,17
+동사,kennen,17
+동사,rennen,17
+동사,regnen,17
+동사,ergänzen,17
+동사,hören,16
+동사,bitten,16
+동사,trinken,16
+동사,operieren,16
+동사,rechnen,15
+동사,stoßen,15
+동사,bilde,15
+동사,suchen,15
+동사,schließen,15
+동사,übersetzen,15
+동사,anrufen,15
+동사,verwenden,15
+동사,schenken,15
+동사,vergessen,14
+동사,fragen,14
+동사,verlassen,14
+동사,wenden,14
+동사,fällen,14
+동사,rufen,14
+동사,steigen,14
+동사,laden,13
+동사,mitbringen,13
+동사,entscheiden,13
+동사,bekommen,13
+동사,ändern,12
+동사,wachsen,12
+동사,ankommen,12
+동사,wiederholen,12
+동사,bestehen,12
+동사,gelingen,11
+동사,treten,11
+동사,zahlen,11
+동사,verkaufen,11
+동사,bedanken,11
+동사,bestimmen,11
+동사,interessieren,11
+동사,dauern,10
+동사,spazieren,10
+동사,betreten,10
+동사,fehlen,10
+동사,ansehen,10
+동사,verlangen,10
+동사,sterben,10
+동사,ersetzen,10
+동사,geschehen,9
+동사,holen,9
+동사,entschuldigen,9
+동사,legen,9
+동사,erkundigen,9
+동사,gewinnen,9
+동사,werfen,9
+동사,passieren,9
+동사,haben,9
+동사,sorgen,9
+동사,schicken,9
+동사,stecken,9
+동사,ernennen,9
+동사,handeln,8
+동사,danken,8
+동사,atmen,8
+동사,begegnen,8
+동사,erinnern,8
+동사,antworten,8
+동사,untersuchen,8
+동사,erklären,8
+동사,beschweren,8
+동사,wundern,8
+동사,unterhalten,8
+동사,singen,8
+동사,leiden,8
+동사,informieren,8
+동사,verbringen,8
+동사,frühstücken,8
+동사,achten,8
+동사,musst,8
+동사,hoffen,8
+동사,gelten,7
+동사,verlieren,7
+동사,sammeln,7
+동사,isst,7
+동사,haben,7
+동사,kochen,7
+동사,diskutieren,7
+동사,unterscheiden,7
+동사,leisten,7
+동사,bauen,7
+동사,brennen,7
+동사,wechseln,7
+동사,verzichten,7
+동사,rauchen,7
+동사,lässt,7
+동사,schmecken,7
+동사,erreichen,7
+동사,telefonieren,7
+동사,kämpfen,7
+동사,schützen,7
+동사,vorbereiten,6
+동사,verändern,6
+동사,klingeln,6
+동사,stehlen,6
+동사,raten,6
+동사,abholen,6
+동사,ausziehen,6
+동사,heben,6
+동사,befinden,6
+동사,reisen,6
+동사,bieten,6
+동사,fliehen,6
+동사,scheinen,6
+동사,schieben,6
+동사,leihen,6
+동사,putzen,6
+동사,schlagen,6
+동사,gratulieren,6
+동사,stören,6
+동사,parken,6
+동사,deklinieren,6
+동사,ärgern,6
+동사,kennenlernen,6
+동사,versuchen,6
+동사,beenden,6
+동사,glauben,5
+동사,beobachten,5
+동사,entdecken,5
+동사,erkennen,5
+동사,beschäftigen,5
+동사,überlegen,5
+동사,nachdenken,5
+동사,teilnehmen,5
+동사,melden,5
+동사,abgeben,5
+동사,abfahren,5
+동사,bewerben,5
+동사,entschlossen,5
+동사,ereignen,5
+동사,irren,5
+동사,kümmern,5
+동사,vorstellen,5
+동사,kannst,5
+동사,brechen,5
+동사,schwimmen,5
+동사,sinken,5
+동사,treiben,5
+동사,wollen,5
+동사,besitzen,5
+동사,verletzen,5
+동사,reparieren,5
+동사,wiederfinden,5
+동사,protestieren,5
+동사,berichten,5
+동사,verbieten,5
+동사,kennst,5
+동사,trennen,5
+동사,geliehen,5
+동사,gebären,5
+동사,lieben,5
+동사,begrüßen,5
+동사,heiraten,5
+동사,gewöhnen,5
+동사,lachen,5
+동사,trainieren,5
+동사,reißen,4
+동사,einladen,4
+동사,erhalten,4
+동사,antworten,4
+동사,überqueren,4
+동사,anmelden,4
+동사,mitnehmen,4
+동사,kämmen,4
+동사,verlieben,4
+동사,merken,4
+동사,wunderen,4
+동사,kosten,4
+동사,rannen,4
+동사,fließen,4
+동사,vergleichen,4
+동사,schreien,4
+동사,schweigen,4
+동사,streiten,4
+동사,werben,4
+동사,abschließen,4
+동사,verheiraten,4
+동사,abbrechen,4
+동사,siehst,4
+동사,weisen,4
+동사,ausdrücken,4
+동사,warnen,4
+동사,zerstören,4
+동사,kommsen,4
+동사,ren,4
+동사,vorlegen,4
+동사,besorgen,4
+동사,erlauben,4
+동사,transportieren,4
+동사,beabsichtigen,4
+동사,besichtigen,4
+동사,blühen,4
+동사,springen,4
+동사,sodass,4
+동사,verbinden,4
+동사,kleben,4
+동사,verwechseln,4
+동사,bemühen,4
+동사,verabschieden,4
+동사,fangen,4
+동사,erscheinen,3
+동사,beachten,3
+동사,zeichnen,3
+동사,verbessern,3
+동사,lächeln,3
+동사,stiehlen,3
+동사,befehlen,3
+동사,schläfen,3
+동사,willst,3
+동사,fen,3
+동사,erinnern,3
+동사,zerreißen,3
+동사,betonen,3
+동사,unterstreichen,3
+동사,anfangen,3
+동사,vorlesen,3
+동사,zuhören,3
+동사,antworten,3
+동사,kontrollieren,3
+동사,anhalten,3
+동사,reden,3
+동사,entschließen,3
+동사,erholen,3
+동사,erkälten,3
+동사,schämen,3
+동사,verhalten,3
+동사,kannstn,3
+동사,können,3
+동사,bleibst,3
+동사,gießen,3
+동사,messen,3
+동사,vermeiden,3
+동사,weißen,3
+동사,verschwinden,3
+동사,wiegen,3
+동사,abreisen,3
+동사,mieten,3
+동사,findesen,3
+동사,feiern,3
+동사,einschlafen,3
+동사,gelangen,3
+동사,schneiden,3
+동사,reinigen,3
+동사,installieren,3
+동사,stimmen,3
+동사,einführen,3
+동사,hereinkommen,3
+동사,möchtest,3
+동사,verreisen,3
+동사,verbinden,3
+동사,meinen,3
+동사,ausgezogen,3
+동사,streichen,3
+동사,zustimmen,3
+동사,ausmachen,3
+동사,brauchsten,3
+동사,wasch,3
+동사,verpassen,3
+동사,aufstehen,3
+동사,nähern,3
+동사,schaden,3
+동사,anbieten,3
+동사,versprechen,3
+동사,packen,3
+동사,zweifeln,3
+동사,konzentrieren,3
+동사,verstoßen,3
+동사,klagen,3
+동사,abhängen,3
+동사,fürchten,3
+동사,überreden,3
+동사,überzeugen,3
+동사,einkaufen,3
+동사,erhöhen,3
+동사,kündigen,3
+동사,kehren,3
+동사,funktionieren,3
+동사,zurückgehen,3
+동사,fangen,3
+동사,graben,3
+동사,eignen,2
+동사,beweisen,2
+동사,heizen,2
+동사,hilfen,2
+동사,sprichen,2
+동사,siehen,2
+동사,fährst,2
+동사,schlafen,2
+동사,saufen,2
+동사,säufen,2
+동사,werden,2
+동사,gehst,2
+동사,weinen,2
+동사,behalten,2
+동사,fernsehen,2
+동사,einstellen,2
+동사,zurückgeben,2
+동사,durchlesen,2
+동사,ausschalten,2
+동사,empfangen,2
+동사,abfliegen,2
+동사,vorbeifahren,2
+동사,einsteigen,2
+동사,aussteigen,2
+동사,bestellen,2
+동사,verschreiben,2
+동사,vornehmen,2
+동사,wünschen,2
+동사,lernen,2
+동사,senden,2
+동사,wart,2
+동사,blasen,2
+동사,erschrecken,2
+동사,riechen,2
+동사,vergissen,2
+동사,stechen,2
+동사,verderben,2
+동사,verlässt,2
+동사,mitteilen,2
+동사,schauen,2
+동사,anstellen,2
+동사,erfinden,2
+동사,aufwachen,2
+동사,lösen,2
+동사,bewegen,2
+동사,träumen,2
+동사,konnen,2
+동사,baden,2
+동사,führen,2
+동사,füllen,2
+동사,einbauen,2
+동사,einsetzen,2
+동사,gegossen,2
+동사,anziehen,2
+동사,darfstn,2
+동사,sperren,2
+동사,erfüllen,2
+동사,erlauben,2
+동사,räumen,2
+동사,best,2
+동사,müssen,2
+동사,ben,2
+동사,stehlen,2
+동사,behindern,2
+동사,freilassen,2
+동사,abgereisen,2
+동사,rechnest,2
+동사,besuchst,2
+동사,gib,2
+동사,setzen,2
+동사,vermuten,2
+동사,einziehen,2
+동사,verabreden,2
+동사,aßen,2
+동사,einfallen,2
+동사,nützen,2
+동사,leih,2
+동사,befestigen,2
+동사,leiten,2
+동사,eilen,2
+동사,spezialisieren,2
+동사,aufhören,2
+동사,befassen,2
+동사,rege,2
+동사,trauern,2
+동사,erkennst,2
+동사,gehören,2
+동사,berechtigen,2
+동사,verwand,2
+동사,erwartest,2
+동사,erwarten,2
+동사,rauchst,2
+동사,enttäuschen,2
+동사,verpflichten,2
+동사,verdienen,2
+동사,blättern,2
+동사,telefoniern,2
+동사,fühlen,2
+동사,angeschnallen,2
+동사,ankündigen,2
+동사,aufnehmen,2
+동사,dass,2
+동사,vertrocknen,2
+동사,üben,2
+동사,aussehen,2
+동사,fällen,2
+동사,drehen,2
+동사,ansprechen,2
+동사,umziehen,2
+동사,auszuwandern,2
+동사,verwirklichen,2
+동사,fährstn,2
+동사,leihen,2
+동사,schaffsen,2
+동사,ner,2
+동사,zurückkehren,2
+동사,erfragen,2
+동사,fallen,2
+동사,beschreiben,2
+동사,gelitten,2
+동사,nen,2
+동사,weglassen,2
+동사,dringen,2
+동사,greifen,2
+동사,meiden,2
+동사,ringen,2
+동사,bestärken,1
+동사,zulegen,1
+동사,hervorgehen,1
+동사,speisen,1
+동사,auszeichnen,1
+동사,konzipieren,1
+동사,hineingeschrieben,1
+동사,definieren,1
+동사,orientieren,1
+동사,berücksichtigen,1
+동사,bearbeiten,1
+동사,lern,1
+동사,atme,1
+동사,trockn,1
+동사,änd,1
+동사,sammle,1
+동사,nimmst,1
+동사,befiehlen,1
+동사,empfiehlen,1
+동사,fällst,1
+동사,träg,1
+동사,wäschst,1
+동사,läufn,1
+동사,aürfen,1
+동사,müsst,1
+동사,wirst,1
+동사,stehlen,1
+동사,heiß,1
+동사,sammeln,1
+동사,empfehl,1
+동사,dürfen,1
+동사,schokolade,1
+동사,bestimmen,1
+동사,drüben,1
+동사,feieren,1
+동사,bitten,1
+동사,duschen,1
+동사,mitkommen,1
+동사,need,1
+동사,siezusammen,1
+동사,hinterlassen,1
+동사,misslingen,1
+동사,durchsüchen,1
+동사,umfähren,1
+동사,wiederhölen,1
+동사,widerspröchen,1
+동사,spiegeln,1
+동사,äbfahren,1
+동사,feststellen,1
+동사,freihalen,1
+동사,heimfahren,1
+동사,wiedersehen,1
+동사,behandeln,1
+동사,untergehen,1
+동사,unternehmen,1
+동사,durchstreichen,1
+동사,anklopfen,1
+동사,trennbar,1
+동사,verteilen,1
+동사,auffordern,1
+동사,fragen,1
+동사,umforme,1
+동사,entstehen,1
+동사,beklagen,1
+동사,erleichtern,1
+동사,anschreiben,1
+동사,abschreiben,1
+동사,wiederbringen,1
+동사,missverstehst,1
+동사,weggehen,1
+동사,misstrauen,1
+동사,lassen,1
+동사,vorzeigen,1
+동사,durchsuchen,1
+동사,hineingehen,1
+동사,hinsetzen,1
+동사,aufrufen,1
+동사,aufstellen,1
+동사,herunternehmen,1
+동사,herauskommen,1
+동사,hineingehen,1
+동사,verhandeln,1
+동사,lernen,1
+동사,duzt,1
+동사,siezt,1
+동사,antworten,1
+동사,atmen,1
+동사,öffnen,1
+동사,les,1
+동사,aisteh,1
+동사,nekeshkennensennsen,1
+동사,abtrockn,1
+동사,schndest,1
+동사,ussesnssenesesnssen,1
+동사,meldesen,1
+동사,wusch,1
+동사,seneehesäte,1
+동사,freimachen,1
+동사,umdreh,1
+동사,beibring,1
+동사,ssgenbadeehen,1
+동사,snessncenen,1
+동사,betrachten,1
+동사,söch,1
+동사,erwärmen,1
+동사,tigen,1
+동사,beeil,1
+동사,belügen,1
+동사,solltest,1
+동사,verhören,1
+동사,verlesen,1
+동사,verrechnen,1
+동사,setz,1
+동사,sollteen,1
+동사,abgewöhnen,1
+동사,beeilen,1
+동사,rasieren,1
+동사,lernen,1
+동사,arbeiten,1
+동사,arbeiteien,1
+동사,mögen,1
+동사,atmetest,1
+동사,atmeen,1
+동사,atmeen,1
+동사,gingt,1
+동사,ban,1
+동사,halten,1
+동사,entscheiden,1
+동사,stehen,1
+동사,lasest,1
+동사,bissest,1
+동사,saßeen,1
+동사,beißen,1
+동사,eindringen,1
+동사,frier,1
+동사,genießen,1
+동사,unterschreiben,1
+동사,miee,1
+동사,erleben,1
+동사,einfang,1
+동사,zubinde,1
+동사,bedecken,1
+동사,ausschütten,1
+동사,leihen,1
+동사,ned,1
+동사,neun,1
+동사,zwiebeln,1
+동사,probieren,1
+동사,abnehmen,1
+동사,überzogen,1
+동사,misslung,1
+동사,wegschwimmen,1
+동사,erziehen,1
+동사,zen,1
+동사,vorkommen,1
+동사,misslang,1
+동사,explodieren,1
+동사,missverstehst,1
+동사,zerbrechen,1
+동사,stoßen,1
+동사,schließen,1
+동사,hörst,1
+동사,bellen,1
+동사,herrschen,1
+동사,len,1
+동사,haltungen,1
+동사,konntest,1
+동사,weglaufen,1
+동사,abgeholen,1
+동사,abstellen,1
+동사,analysieren,1
+동사,berichtigen,1
+동사,verursachen,1
+동사,klären,1
+동사,durchsuchen,1
+동사,sortier,1
+동사,umgehen,1
+동사,aufbewahren,1
+동사,verschmutzen,1
+동사,hinweisen,1
+동사,entziffern,1
+동사,widersprechen,1
+동사,etage,1
+동사,brauchen,1
+동사,dürfen,1
+동사,wissen,1
+동사,abzuholen,1
+동사,weiterfahren,1
+동사,grüßen,1
+동사,reichen,1
+동사,verlieren,1
+동사,aha,1
+동사,verschieben,1
+동사,vergeben,1
+동사,übersenden,1
+동사,vorliegen,1
+동사,mailen,1
+동사,veranlassen,1
+동사,beauftragen,1
+동사,zulassen,1
+동사,konfigurieren,1
+동사,zusammengezogen,1
+동사,grieche,1
+동사,renovieren,1
+동사,triffst,1
+동사,vord,1
+동사,eure,1
+동사,fotografieren,1
+동사,hole,1
+동사,färben,1
+동사,hinabfuhr,1
+동사,nonro,1
+동사,trinken,1
+동사,vollbesetzen,1
+동사,rasen,1
+동사,entsorgen,1
+동사,sprochen,1
+동사,abschleppen,1
+동사,letzen,1
+동사,erschrak,1
+동사,alserd,1
+동사,teilen,1
+동사,schälen,1
+동사,stahl,1
+동사,tropfen,1
+동사,ablehnen,1
+동사,pumpen,1
+동사,verpacken,1
+동사,unbeschädigen,1
+동사,ertragen,1
+동사,nominalisieren,1
+동사,abordnen,1
+동사,anstellen,1
+동사,altisen,1
+동사,verkauf,1
+동사,zurückhaben,1
+동사,zurückbringen,1
+동사,wartest,1
+동사,wendest,1
+동사,ärgerst,1
+동사,arbeitest,1
+동사,gibst,1
+동사,dünn,1
+동사,ausfallen,1
+동사,wegpacken,1
+동사,entlassen,1
+동사,sanzn,1
+동사,ablegen,1
+동사,dürf,1
+동사,ich,1
+동사,willen,1
+동사,echhedken,1
+동사,heule,1
+동사,zurückfliegen,1
+동사,wiederkommen,1
+동사,tranken,1
+동사,abhängig,1
+동사,backen,1
+동사,gratuli,1
+동사,schwerfallen,1
+동사,folgen,1
+동사,gehorch,1
+동사,diktier,1
+동사,wegnehmen,1
+동사,liestihr,1
+동사,dein,1
+동사,gefield,1
+동사,form,1
+동사,stattfinden,1
+동사,kein,1
+동사,bieteen,1
+동사,beschädigen,1
+동사,gingin,1
+동사,eintreten,1
+동사,glauben,1
+동사,bereiten,1
+동사,interessierst,1
+동사,vergleichen,1
+동사,zusammenstoßen,1
+동사,aufregen,1
+동사,befasst,1
+동사,bewirben,1
+동사,zusammengestoßen,1
+동사,verstorben,1
+동사,mieren,1
+동사,spannen,1
+동사,kochst,1
+동사,bedienen,1
+동사,hörsben,1
+동사,wiederkommsen,1
+동사,senken,1
+동사,plansen,1
+동사,planen,1
+동사,wiederzusehen,1
+동사,möchtesen,1
+동사,umzuform,1
+동사,gratuliert,1
+동사,anmachen,1
+동사,ausgestiegen,1
+동사,verlaufen,1
+동사,näheren,1
+동사,kannen,1
+동사,schneit,1
+동사,drücken,1
+동사,ruhen,1
+동사,sparen,1
+동사,zufrieden,1
+동사,ausgefüllt,1
+동사,vergiss,1
+동사,machsen,1
+동사,abfähren,1
+동사,landen,1
+동사,umbringen,1
+동사,ausdrucken,1
+동사,schalten,1
+동사,öle,1
+동사,quietschen,1
+동사,verstecken,1
+동사,brauchen,1
+동사,zeigen,1
+동사,funktionieren,1
+동사,wegfallen,1
+동사,mussn,1
+동사,wussen,1
+동사,hättest,1
+동사,haben,1
+동사,müs,1
+동사,wüs,1
+동사,jobben,1
+동사,genügen,1
+동사,eingeschlafen,1
+동사,zugefroren,1
+동사,wiedererkannen,1
+동사,ausgeben,1
+동사,verbeugen,1
+동사,loswerden,1
+동사,wählen,1
+동사,vermehren,1
+동사,vermindern,1
+동사,mern,1
+동사,erfahren,1
+동사,tanzen,1
+동사,befürchten,1
+동사,hinzufügen,1
+동사,malen,1
+동사,erben,1
+동사,ausüben,1
+동사,befördern,1
+동사,begeistert,1
+동사,vertreiben,1
+동사,erhaben,1
+동사,schälen,1
+동사,pfiff,1
+동사,zurückgekommen,1
+동사,infolgedesse,1
+동사,infolgedesse,1
+동사,wussen,1
+동사,müssen,1
+동사,ersparen,1
+동사,schauen,1
+동사,erkranken,1
+동사,wessen,1
+동사,fassen,1
+동사,ausleih,1
+동사,sollen,1
+동사,ausfüllen,1
+동사,nommen,1
+동사,serie,1
+동사,fälsch,1
+동사,reservieren,1
+동사,richten,1
+동사,promovieren,1
+동사,rufen,1
+동사,telefonnummer,1
+동사,ablaufen,1
+동사,mien,1
+동사,stützen,1
+동사,men,1
+동사,adresse,1
+동사,litik,1
+동사,geschenk,1
+동사,freuen,1
+동사,angewiesen,1
+동사,zurückgegeben,1
+동사,findest,1
+동사,kaufst,1
+동사,leiben,1
+동사,bereisen,1
+동사,legen,1
+동사,arbeiten,1
+동사,bringen,1
+동사,issen,1
+동사,gefällen,1
+동사,negieren,1
+동사,tionswörtern,1
+동사,übernachten,1
+동사,bezeichnen,1
+동사,beziehen,1
+동사,schmeicheln,1
+동사,verspeisen,1
+동사,anzünden,1
+동사,angeben,1
+동사,probefahren,1
+동사,nehm,1
+동사,scherzen,1
+동사,unterhalten,1
+동사,satz,1
+동사,entgegnen,1
+동사,hinfahren,1
+동사,tauschen,1
+동사,überraschen,1
+동사,beruhigen,1
+동사,relativpronomen,1
+동사,nnenennennen,1
+동사,deornsnuonne,1
+동사,befehlen,1
+동사,befohle,1
+동사,beiß,1
+동사,gebissen,1
+동사,betragen,1
+동사,bieg,1
+동사,bogen,1
+동사,binden,1
+동사,blasen,1
+동사,blies,1
+동사,brat,1
+동사,braten,1
+동사,brichen,1
+동사,brannen,1
+동사,gegessen,1
+동사,fliegen,1
+동사,frieren,1
+동사,froren,1
+동사,gelten,1
+동사,gleich,1
+동사,lügen,1
+동사,reiben,1
+동사,misst,1
+동사,erschricken,1
+동사,gehange,1
+동사,gelieh,1
+동사,gelog,1
+동사,geraten,1
+동사,gerieben,1
+동사,gerissen,1
+동사,schieben,1
+동사,geschmolzen,1
+동사,geschnitten,1
+동사,erschrocken,1
+동사,ner,1
+동사,nnen,1
+동사,zerseeren,1
+동사,schreit,1
+동사,schwinden,1
+동사,stechen,1
+동사,sterben,1
+동사,verderben,1
+동사,verderben,1
+동사,wiegen,1
+동사,geschwiegen,1
+동사,geschwommen,1
+동사,schwund,1
+동사,gesesse,1
+동사,gestohl,1
+동사,verderben,1
+동사,gewasch,1
+동사,geworbe,1
+동사,gewoge,1
+동사,verzeihen,1
+동사,zwingen,1
+동사,ernenn,1
+동사,erweit,1
+동사,unterrichten,1
+동사,erweitern,1
+동사,enthalten,1
+동사,liefern,1
+형용사,passend,36
+형용사,gut,32
+형용사,neu,26
+형용사,alt,22
+형용사,klein,20
+형용사,bestimmt,17
+형용사,jung,16
+형용사,schön,14
+형용사,lang,13
+형용사,deutsch,13
+형용사,nächster,13
+형용사,anderer,12
+형용사,schlecht,12
+형용사,stark,11
+형용사,dein,11
+형용사,hoch,11
+형용사,erster,10
+형용사,untrennbar,9
+형용사,satzverbindend,9
+형용사,groß,9
+형용사,unbestimmt,9
+형용사,nominal,9
+형용사,folgend,8
+형용사,letzter,7
+형용사,teuer,7
+형용사,übrig,7
+형용사,indirekt,6
+형용사,schwer,6
+형용사,besonderer,6
+형용사,eigen,6
+형용사,frisch,6
+형용사,interessant,6
+형용사,schnell,6
+형용사,gleich,5
+형용사,trennbar,5
+형용사,eur,5
+형용사,ganz,5
+형용사,fehlend,5
+형용사,einfach,5
+형용사,weit,5
+형용사,rot,5
+형용사,kalt,5
+형용사,halb,5
+형용사,reflexiver,4
+형용사,krank,4
+형용사,modern,4
+형용사,zweiter,4
+형용사,kurz,4
+형용사,unterstrichen,4
+형용사,norddeutsch,4
+형용사,subjektlos,3
+형용사,unregelmäßig,3
+형용사,formell,3
+형용사,informell,3
+형용사,schwach,3
+형용사,geeignet,3
+형용사,offen,3
+형용사,warm,3
+형용사,verschieden,3
+형용사,dunkel,3
+형용사,and,3
+형용사,erfolgreich,3
+형용사,gebraucht,3
+형용사,reich,3
+형용사,fleißig,3
+형용사,zusammengesetzt,3
+형용사,negativ,3
+형용사,ernenn,3
+형용사,überarbeitet,2
+형용사,pronominale,2
+형용사,hypothetisch,2
+형용사,satzförmige,2
+형용사,unterschiedlich,2
+형용사,sinnvoll,2
+형용사,restlich,2
+형용사,irreal,2
+형용사,trockn,2
+형용사,französisch,2
+형용사,falsch,2
+형용사,wichtig,2
+형용사,reflexiv,2
+형용사,lustig,2
+형용사,aufihr,2
+형용사,aktiv,2
+형용사,frei,2
+형용사,freundlich,2
+형용사,einsilbig,2
+형용사,schneller,2
+형용사,lieber,2
+형용사,nette,2
+형용사,linker,2
+형용사,finanziell,2
+형용사,öffentlich,2
+형용사,häufig,2
+형용사,geschrieben,2
+형용사,wärm,2
+형용사,türkisch,2
+형용사,gesundheitlich,2
+형용사,temporal,2
+형용사,europäisch,2
+형용사,fröhlich,2
+형용사,berühmt,2
+형용사,wörtlich,2
+형용사,sprachlich,2
+형용사,didaktisch,1
+형용사,satzzeichen,1
+형용사,ausländisch,1
+형용사,verschüttet,1
+형용사,ähnlich,1
+형용사,vorgelegt,1
+형용사,deutschsprachig,1
+형용사,moderat,1
+형용사,hilfreich,1
+형용사,wasch,1
+형용사,befehel,1
+형용사,beweies,1
+형용사,einlad,1
+형용사,antwort,1
+형용사,matisch,1
+형용사,abwisch,1
+형용사,besteig,1
+형용사,enennssden,1
+형용사,esse,1
+형용사,bissch,1
+형용사,schöner,1
+형용사,beruhig,1
+형용사,dassichider,1
+형용사,kranke,1
+형용사,aufdi,1
+형용사,anneenrenen,1
+형용사,beeil,1
+형용사,ereign,1
+형용사,erkäln,1
+형용사,versprechen,1
+형용사,verrechn,1
+형용사,schwierig,1
+형용사,madagassisch,1
+형용사,unregelmäßige,1
+형용사,wendet,1
+형용사,atmet,1
+형용사,beiß,1
+형용사,schneid,1
+형용사,beweisen,1
+형용사,heiß,1
+형용사,göttinger,1
+형용사,studiert,1
+형용사,leipziger,1
+형용사,stolpern,1
+형용사,hinunterroll,1
+형용사,gangen,1
+형용사,nächste,1
+형용사,modal,1
+형용사,radioaktiv,1
+형용사,sogenannter,1
+형용사,halter,1
+형용사,raueh,1
+형용사,geehrt,1
+형용사,vergangen,1
+형용사,bisherig,1
+형용사,best,1
+형용사,franzos,1
+형용사,ler,1
+형용사,unl,1
+형용사,sportler,1
+형용사,nachbar,1
+형용사,bruder,1
+형용사,mehrer,1
+형용사,eingegrenzt,1
+형용사,bekannt,1
+형용사,blau,1
+형용사,griechisch,1
+형용사,altern,1
+형용사,sensibl,1
+형용사,saur,1
+형용사,verschiede,1
+형용사,botanisch,1
+형용사,vord,1
+형용사,nächst,1
+형용사,zweit,1
+형용사,link,1
+형용사,unfreundlich,1
+형용사,teur,1
+형용사,vergehen,1
+형용사,letzt,1
+형용사,spannend,1
+형용사,früh,1
+형용사,geschält,1
+형용사,blühend,1
+형용사,deutsche,1
+형용사,londoner,1
+형용사,analog,1
+형용사,entsprechend,1
+형용사,schwi,1
+형용사,mehi,1
+형용사,dick,1
+형용사,auffällig,1
+형용사,heine,1
+형용사,gesprochen,1
+형용사,kain,1
+형용사,voll,1
+형용사,selbstgebacken,1
+형용사,nser,1
+형용사,verbringen,1
+형용사,fer,1
+형용사,gehorch,1
+형용사,grün,1
+형용사,mitteil,1
+형용사,enkelkind,1
+형용사,katholisch,1
+형용사,stell,1
+형용사,stecken,1
+형용사,einzig,1
+형용사,schütz,1
+형용사,gratuli,1
+형용사,tot,1
+형용사,vorgeschlagen,1
+형용사,dritter,1
+형용사,ultraviolette,1
+형용사,niederländisch,1
+형용사,geplant,1
+형용사,feucht,1
+형용사,liberal,1
+형용사,indirekte,1
+형용사,hart,1
+형용사,einmalig,1
+형용사,wiederholt,1
+형용사,zukünftig,1
+형용사,rein,1
+형용사,vorzeitig,1
+형용사,nee,1
+형용사,gemeinsam,1
+형용사,verging,1
+형용사,bereiten,1
+형용사,final,1
+형용사,gründlich,1
+형용사,geschlossen,1
+형용사,auftretend,1
+형용사,abgeleitet,1
+형용사,gebildet,1
+형용사,wissenschaftliche,1
+형용사,täglich,1
+형용사,einsam,1
+형용사,vorsichtig,1
+형용사,günstig,1
+형용사,mittlerer,1
+형용사,gültig,1
+형용사,genau,1
+형용사,nächstgelegen,1
+형용사,spielenden,1
+형용사,kausal,1
+형용사,eng,1
+형용사,lokal,1
+형용사,konsekutiv,1
+형용사,komfortabl,1
+형용사,angegeben,1
+형용사,fremd,1
+형용사,niedlich,1
+형용사,liebst,1
+형용사,bequem,1
+형용사,ein,1
+형용사,sein,1
+형용사,ehemalig,1
+형용사,dümmst,1
+형용사,riesig,1
+형용사,irisch,1
+형용사,ält,1
+형용사,fünfter,1
+형용사,parallel,1
+형용사,preiswert,1
+형용사,lebend,1
+형용사,japanisch,1
+형용사,einzeln,1
+형용사,unbekannt,1
+형용사,gemütlich,1
+형용사,vorausgehend,1
+형용사,abstrakt,1
+형용사,vereinigt,1
+형용사,gebissen,1
+형용사,wunderschön,1
+형용사,östlich,1
+형용사,typisch,1
+형용사,sympathisch,1
+형용사,vorder,1
+형용사,hinterer,1
+형용사,öffnet,1
+형용사,hübsch,1
+형용사,zusätzlich,1
+형용사,nötig,1
+형용사,welcher,1
+형용사,renn,1
+형용사,betrüg,1
+형용사,bind,1
+형용사,flieh,1
+형용사,iemirtbencch,1
+형용사,geroch,1
+형용사,terr,1
+형용사,rer,1
+형용사,nenn,1
+형용사,nenne,1
+형용사,wusste,1
+형용사,verzeih,1
+형용사,zwingen,1
+형용사,geschritt,1
+형용사,gesprung,1
+형용사,une,1
+형용사,erweitert,1
+형용사,zugehöriges,1
+형용사,dependenzieller,1
+형용사,wissenschaftlich,1
+형용사,fortgeschritten,1
+형용사,bloß,1
+형용사,unzusammenhängend,1
+형용사,grundlegend,1
+형용사,landeskundlich,1
+부사,noch,111
+부사,sehr,108
+부사,ein,86
+부사,schon,77
+부사,immer,67
+부사,nur,63
+부사,auch,61
+부사,gut,57
+부사,wie,53
+부사,hier,52
+부사,dann,47
+부사,so,44
+부사,wieder,42
+부사,mehr,42
+부사,heute,38
+부사,lange,37
+부사,dort,37
+부사,oft,33
+부사,gestern,33
+부사,warum,30
+부사,alt,29
+부사,wo,27
+부사,wann,27
+부사,morgen,26
+부사,aber,24
+부사,selbst,24
+부사,schnell,23
+부사,jetzt,22
+부사,gern,21
+부사,bitte,20
+부사,sofort,20
+부사,neu,19
+부사,zuerst,19
+부사,krank,19
+부사,da,18
+부사,nie,18
+부사,gerne,18
+부사,einmal,18
+부사,spät,18
+부사,meistens,16
+부사,leider,16
+부사,schön,15
+부사,teuer,15
+부사,fast,14
+부사,langsam,14
+부사,doch,14
+부사,früh,14
+부사,müde,13
+부사,bald,13
+부사,zurück,13
+부사,danach,13
+부사,vorsichtig,13
+부사,vorher,13
+부사,kurz,13
+부사,groß,13
+부사,nötig,12
+부사,täglich,12
+부사,zufrieden,12
+부사,ebenso,12
+부사,bekannt,12
+부사,muss,12
+부사,hoch,11
+부사,fertig,11
+부사,nun,10
+부사,erst,10
+부사,trotzdem,10
+부사,hoffentlich,9
+부사,selten,9
+부사,traurig,9
+부사,möglich,9
+부사,schwer,9
+부사,interessant,9
+부사,direkt,8
+부사,leicht,8
+부사,stammauslaut,8
+부사,lieb,8
+부사,kalt,8
+부사,zusammen,8
+부사,deshalb,8
+부사,ganz,8
+부사,nenn,8
+부사,damit,8
+부사,negativ,8
+부사,stolz,8
+부사,klein,8
+부사,viel,8
+부사,lang,8
+부사,freundlich,8
+부사,abhängig,8
+부사,stark,7
+부사,kaputt,7
+부사,allein,7
+부사,rechtzeitig,7
+부사,abends,7
+부사,zwar,7
+부사,häufig,7
+부사,dein,7
+부사,jung,7
+부사,reich,7
+부사,besonders,7
+부사,deutsch,7
+부사,frisch,7
+부사,schlecht,7
+전치사,statt,7
+부사,manchmal,7
+부사,vielleicht,6
+부사,frei,6
+부사,ruhig,6
+부사,dunkel,6
+부사,endlich,6
+부사,sicher,6
+부사,links,6
+부사,niemals,6
+부사,weiter,6
+부사,eigentlich,6
+부사,natürlich,6
+부사,sympathisch,6
+부사,außerdem,6
+전치사,laut,6
+부사,falsch,6
+부사,beliebt,6
+부사,wahrscheinlich,6
+부사,worauf,6
+부사,billig,6
+부사,je,5
+부사,morgens,5
+부사,lieber,5
+부사,gleich,5
+부사,denn,5
+부사,fleißig,5
+부사,also,5
+부사,mittags,5
+부사,anders,5
+부사,meisten,5
+부사,glücklich,5
+부사,deswegen,5
+부사,schwierig,5
+부사,gar,5
+부사,weshalb,5
+부사,froh,5
+부사,ähnlich,5
+부사,seitdem,5
+부사,irgendwo,5
+부사,jedoch,4
+부사,genau,4
+부사,lernst,4
+부사,sing,4
+부사,gerade,4
+부사,weg,4
+부사,fest,4
+부사,warm,4
+부사,fern,4
+부사,plötzlich,4
+부사,dafür,4
+부사,schmutzig,4
+부사,arm,4
+부사,überhaupt,4
+부사,kompliziert,4
+부사,miteinander,4
+부사,weit,4
+부사,womit,4
+부사,wozu,4
+부사,arbeitslos,4
+부사,dorthin,4
+부사,angewiesen,4
+부사,bereit,4
+부사,dennoch,4
+부사,leise,4
+부사,wenig,3
+부사,passiv,3
+부사,darüber,3
+부사,schließlich,3
+부사,etwas,3
+부사,mindestens,3
+부사,oben,3
+부사,bequem,3
+부사,glaubst,3
+부사,leer,3
+부사,heiß,3
+부사,einig,3
+부사,ausländisch,3
+부사,genauso,3
+부사,weswegen,3
+부사,etwa,3
+부사,dazu,3
+부사,interessieren,3
+부사,interessiert,3
+부사,grammatisch,3
+부사,behilflich,3
+부사,dankbar,3
+부사,egal,3
+부사,bezeichnend,3
+부사,charakteristisch,3
+부사,einverstanden,3
+부사,entsetzt,3
+부사,erstaunt,3
+부사,fähig,3
+부사,neidisch,3
+부사,nützlich,3
+부사,schädlich,3
+부사,vergleichbar,3
+부사,unmöglich,3
+부사,gleichzeitig,3
+부사,bevor,3
+부사,rechts,3
+부사,genug,3
+부사,langweilig,3
+부사,fort,3
+부사,dabei,3
+부사,daher,3
+부사,drüben,3
+부사,eindeutig,3
+부사,niedrig,2
+부사,dadurch,2
+부사,didaktisch,2
+부사,parallel,2
+부사,hinten,2
+부사,untrennbar,2
+부사,unbetont,2
+부사,zrennbar,2
+부사,wider,2
+부사,aufmerksam,2
+부사,normalerweise,2
+부사,dassich,2
+부사,schadest,2
+부사,richtig,2
+부사,verspätet,2
+부사,warst,2
+부사,hell,2
+부사,gemeinsam,2
+부사,ja,2
+부사,ungebräuchlich,2
+부사,wohl,2
+부사,unterwegs,2
+부사,sonst,2
+부사,diesmal,2
+부사,überall,2
+부사,sparsam,2
+부사,ärgerlich,2
+부사,euer,2
+부사,sauer,2
+부사,japanisch,2
+부사,gemütlich,2
+부사,griechisch,2
+부사,nämlich,2
+부사,absolut,2
+부사,spannend,2
+부사,englisch,2
+부사,wichtig,2
+부사,vorbei,2
+부사,neulich,2
+부사,nah,2
+부사,akkusativ,2
+부사,daran,2
+부사,darauf,2
+부사,los,2
+부사,wohnst,2
+부사,woher,2
+부사,zweimal,2
+부사,draußen,2
+부사,vergeblich,2
+부사,nachmittags,2
+부사,nächst,2
+부사,sonntags,2
+부사,teil,2
+전치사,über,2
+부사,worüber,2
+부사,lich,2
+부사,politisch,2
+부사,breit,2
+부사,besorgt,2
+부사,erfreut,2
+부사,gespannt,2
+부사,besorgen,2
+부사,geeignet,2
+부사,schuld,2
+부사,wenn,2
+부사,kursiv,2
+부사,aufgeregt,2
+부사,deutlich,2
+부사,nachdem,2
+부사,solange,2
+부사,sobald,2
+부사,problemlos,2
+부사,tig,2
+부사,intelligent,2
+부사,betrunken,2
+부사,eben,2
+부사,unveränderlich,2
+부사,wirklich,2
+부사,ner,2
+부사,nirgendwo,2
+부사,nirgends,2
+부사,positiv,2
+부사,geistreich,2
+부사,zugrunde,2
+부사,bündig,2
+부사,inzwischen,1
+부사,benutzerfreundlich,1
+부사,ausnahmslos,1
+부사,konsequent,1
+부사,erlernbar,1
+부사,wiederum,1
+부사,hintereinander,1
+부사,atmest,1
+부사,betreten,1
+부사,her,1
+부사,fisch,1
+부사,herum,1
+부사,erihn,1
+부사,dürch,1
+부사,ünt,1
+부사,enthalten,1
+부사,gründlich,1
+부사,informell,1
+부사,sol,1
+부사,akk,1
+부사,kammer,1
+부사,dassachmich,1
+부사,fakultativ,1
+부사,ezch,1
+부사,obligatorisch,1
+부사,darfich,1
+부사,eh,1
+부사,unbedingt,1
+부사,arbeitetest,1
+부사,einladen,1
+부사,hupt,1
+부사,schlank,1
+부사,verzweifelt,1
+부사,komfortabel,1
+부사,entfernt,1
+부사,darin,1
+부사,finster,1
+부사,nachdenklich,1
+부사,angeblich,1
+부사,zuhause,1
+부사,darum,1
+부사,modal,1
+부사,men,1
+부사,verlegen,1
+부사,unverändert,1
+부사,anschließend,1
+부사,günstig,1
+부사,mussn,1
+부사,tagelang,1
+부사,ausführlich,1
+부사,bereits,1
+부사,anwesend,1
+부사,möglichst,1
+부사,streng,1
+부사,vorn,1
+부사,durstig,1
+부사,telefonisch,1
+부사,extra,1
+부사,durchfähren,1
+부사,mühelos,1
+부사,nominativ,1
+부사,neutral,1
+부사,barn,1
+부사,irgendein,1
+부사,jed,1
+부사,welch,1
+부사,beid,1
+부사,wolltest,1
+부사,mal,1
+부사,gelschreib,1
+부사,klug,1
+부사,sensibel,1
+부사,hend,1
+부사,gehend,1
+부사,kühl,1
+부사,bitter,1
+부사,holländisch,1
+부사,süß,1
+부사,saftig,1
+부사,gelb,1
+부사,keinealt,1
+부사,mitgut,1
+부사,tropisch,1
+부사,kanisch,1
+부사,dringend,1
+부사,defekt,1
+부사,ziemlich,1
+부사,höchst,1
+부사,international,1
+부사,nachbar,1
+부사,unruhig,1
+부사,voll,1
+부사,südlich,1
+부사,zentral,1
+부사,kaum,1
+부사,passend,1
+부사,klassisch,1
+부사,preiswert,1
+부사,restaurant,1
+부사,bunt,1
+부사,bulgarisch,1
+부사,türkisch,1
+부사,heutig,1
+부사,unwichtig,1
+부사,neuest,1
+부사,toll,1
+부사,französisch,1
+부사,einzig,1
+부사,unerwartet,1
+부사,merkwürdig,1
+부사,honorar,1
+부사,sorgfältig,1
+부사,infinitiv,1
+부사,komparativ,1
+부사,sportlich,1
+부사,weniger,1
+부사,eun,1
+부사,gesund,1
+부사,schenk,1
+부사,lies,1
+부사,schicken,1
+부사,wieso,1
+부사,heine,1
+부사,unbestimm,1
+부사,drinnen,1
+부사,dasist,1
+부사,pronominal,1
+부사,wohin,1
+부사,hinaus,1
+부사,uberd,1
+부사,halb,1
+부사,nachmittag,1
+부사,sienun,1
+부사,unzufrieden,1
+부사,zeigst,1
+부사,wach,1
+부사,griechin,1
+부사,sdach,1
+부사,mitein,1
+부사,zud,1
+부사,schwarz,1
+부사,verkäufer,1
+부사,ann,1
+부사,billigst,1
+부사,leidest,1
+부사,erinnerst,1
+부사,rücksichtslos,1
+부사,all,1
+부사,mein,1
+부사,gültig,1
+부사,berechtigt,1
+부사,entschlossen,1
+부사,eignen,1
+부사,überzeugen,1
+부사,verwandt,1
+부사,wohnen,1
+부사,grausam,1
+부사,erfreuen,1
+부사,bringstn,1
+부사,elch,1
+부사,wovon,1
+부사,pünktlich,1
+부사,dich,1
+부사,notwendig,1
+부사,ungewiss,1
+부사,erfolgreich,1
+부사,früher,1
+부사,dahin,1
+부사,verschieden,1
+부사,falls,1
+부사,glatt,1
+부사,krankenversichert,1
+부사,irreal,1
+부사,thetisch,1
+부사,verreisen,1
+부사,obwohl,1
+부사,obgleich,1
+부사,obschon,1
+부사,flißfigwar,1
+부사,nig,1
+부사,folglich,1
+부사,sodass,1
+부사,wodurch,1
+부사,indem,1
+부사,trocken,1
+부사,tief,1
+부사,überraschend,1
+부사,verärgern,1
+부사,neuerdings,1
+부사,nam,1
+부사,möglicherweise,1
+부사,flüssig,1
+부사,spiegelglatt,1
+부사,dauerend,1
+부사,zunächst,1
+부사,sondern,1
+부사,nichtnur,1
+부사,schwager,1
+부사,unhöflich,1
+부사,sinnlos,1
+부사,daneben,1
+부사,wunderschön,1
+부사,kannst,1
+부사,undeutlich,1
+부사,kostenlos,1
+부사,zurzeit,1
+부사,pleite,1
+부사,tot,1
+부사,sympathischsten,1
+부사,komisch,1
+부사,übrigens,1
+부사,aussiehst,1
+부사,liebst,1
+부사,hilfreich,1
+부사,aktuell,1
+부사,böse,1
+부사,ausgestorben,1
+부사,lebendig,1
+부사,weltberühmt,1
+부사,privat,1
+부사,mals,1
+부사,irgendwann,1
+부사,unbekannt,1
+부사,bestimmen,1
+부사,allgemein,1
+부사,einmalig,1
+부사,pablo,1
+부사,unbest,1
+부사,hin,1
+부사,nett,1
+부사,umgekehrt,1
+부사,fehlerfrei,1
+부사,einfach,1
+부사,abend,1
+부사,völlig,1
+부사,deins,1
+부사,schreibst,1
+부사,bestimmt,1
+부사,unbestimmt,1
+부사,superlativ,1
+부사,ennanueas,1
+부사,geboten,1
+부사,drang,1
+부사,gefangen,1
+부사,glich,1
+부사,geheißen,1
+부사,gelassen,1
+부사,roch,1
+부사,wusch,1
+부사,verlieren,1
+부사,wenden,1
+부사,urn,1
+부사,erhältlich,1
+부사,digend,1
+부사,heute,1
+전치사,nach,1
+전치사,in,615
+전치사,mit,334
+전치사,zu,239
+전치사,an,222
+전치사,auf,189
+전치사,von,177
+전치사,nach,149
+전치사,bei,140
+전치사,für,138
+전치사,vor,91
+전치사,über,81
+전치사,aus,72
+전치사,als,65
+전치사,um,60
+전치사,durch,40
+전치사,seit,34
+전치사,bis,24
+전치사,wie,20
+전치사,während,20
+전치사,gegen,19
+전치사,ohne,18
+전치사,zwischen,18
+전치사,wegen,17
+전치사,unter,16
+전치사,neben,12
+전치사,ab,11
+전치사,trotz,11
+전치사,hinter,10
+전치사,gegenüber,5
+전치사,statt,4
+전치사,aufgrund,4
+전치사,innerhalb,4
+전치사,außerhalb,3
+전치사,außer,3
+전치사,in,2
+전치사,auf,1
+전치사,per,1
+전치사,je,1
+전치사,entgegen,1
+전치사,ins,1
+전치사,dank,1
+동사+전치사,fahren mit,24
+동사+전치사,fahren nach,22
+동사+전치사,bleiben zu,21
+동사+전치사,stehen auf,20
+동사+전치사,gehen ins,19
+동사+전치사,studieren in,19
+동사+전치사,stehen vor,17
+동사+전치사,gehen zu,15
+동사+전치사,gehen in,15
+동사+전치사,warten auf,13
+동사+전치사,kommen an,13
+동사+전치사,stehen am,13
+동사+전치사,kommen nach,13
+동사+전치사,kommen aus,12
+동사+전치사,kommen in,11
+동사+전치사,liegen auf,11
+동사+전치사,leben in,11
+동사+전치사,bilden mit,11
+동사+전치사,kommen zum,11
+동사+전치사,beginnen mit,11
+동사+전치사,gehen zum,10
+동사+전치사,fahren in,9
+동사+전치사,denken an,9
+동사+전치사,rufen an,9
+동사+전치사,stehen in,9
+동사+전치사,wohnen in,9
+동사+전치사,sprechen mit,9
+동사+전치사,kommen mit,9
+동사+전치사,ersetzen durch,9
+동사+전치사,sagen zu,8
+동사+전치사,bedanken für,8
+동사+전치사,fliegen nach,8
+동사+전치사,gehen nach,8
+동사+전치사,fragen nach,8
+동사+전치사,geben in,8
+동사+전치사,stehen im,8
+동사+전치사,erzählen von,7
+동사+전치사,wohnen bei,7
+동사+전치사,setzen in,6
+동사+전치사,sitzen im,6
+동사+전치사,geben im,6
+동사+전치사,liegen im,6
+동사+전치사,stehen zwischen,6
+동사+전치사,wohnen im,6
+동사+전치사,leben seit,6
+동사+전치사,gehören von,6
+동사+전치사,fahren an,5
+동사+전치사,gehen mit,5
+동사+전치사,diskutieren über,5
+동사+전치사,ankommen in,5
+동사+전치사,setzen auf,5
+동사+전치사,interessieren für,5
+동사+전치사,bringen in,5
+동사+전치사,bringen zum,5
+동사+전치사,stellen in,5
+동사+전치사,ziehen an,5
+동사+전치사,fahren zur,5
+동사+전치사,kommen zu,5
+동사+전치사,verzichten auf,5
+동사+전치사,achten auf,5
+동사+전치사,spielen mit,5
+동사+전치사,freuen über,5
+동사+전치사,benutzen für,5
+동사+전치사,bleiben in,5
+동사+전치사,gehen zur,5
+동사+전치사,sitzen auf,5
+동사+전치사,leben im,5
+동사+전치사,finden in,5
+동사+전치사,handeln um,4
+동사+전치사,gehen um,4
+동사+전치사,verlassen auf,4
+동사+전치사,bieten an,4
+동사+전치사,muss bei,4
+동사+전치사,sprechen über,4
+동사+전치사,ziehen nach,4
+동사+전치사,erinnern an,4
+동사+전치사,regnen in,4
+동사+전치사,telefonieren mit,4
+동사+전치사,stehen hinter,4
+동사+전치사,liegen am,4
+동사+전치사,schützen vor,4
+동사+전치사,fahren zum,4
+동사+전치사,machen in,4
+동사+전치사,gelten für,3
+동사+전치사,danken für,3
+동사+전치사,kommen um,3
+동사+전치사,beschweren über,3
+동사+전치사,kümmern um,3
+동사+전치사,verlieben in,3
+동사+전치사,wunderen über,3
+동사+전치사,bedanken bei,3
+동사+전치사,bitten um,3
+동사+전치사,laufen im,3
+동사+전치사,sitzen neben,3
+동사+전치사,stehen bei,3
+동사+전치사,essen in,3
+동사+전치사,machen im,3
+동사+전치사,besuchen in,3
+동사+전치사,besuchen von,3
+동사+전치사,sorgen für,3
+동사+전치사,protestieren gegen,3
+동사+전치사,beginnen um,3
+동사+전치사,verbringen in,3
+동사+전치사,stellen vor,3
+동사+전치사,bleiben bei,3
+동사+전치사,studieren im,3
+동사+전치사,gratulieren zum,3
+동사+전치사,informieren über,3
+동사+전치사,hängen ab,3
+동사+전치사,gehören zu,3
+동사+전치사,fliegen in,3
+동사+전치사,machen bei,3
+동사+전치사,leben auf,3
+동사+전치사,liegen vor,3
+동사+전치사,antworten auf,3
+동사+전치사,ersetzen bei,3
+동사+전치사,regnen trotz,3
+동사+전치사,trainieren durch,3
+동사+전치사,warten seit,3
+동사+전치사,bestimmen durch,3
+동사+전치사,vorbereiten auf,2
+동사+전치사,benutzen im,2
+동사+전치사,verändern in,2
+동사+전치사,treffen im,2
+동사+전치사,erinnern an,2
+동사+전치사,besuchen im,2
+동사+전치사,fahren im,2
+동사+전치사,warten an,2
+동사+전치사,fahren um,2
+동사+전치사,fahren ab,2
+동사+전치사,ausziehen aus,2
+동사+전치사,antworten auf,2
+동사+전치사,teilnehmen an,2
+동사+전치사,abfahren in,2
+동사+전치사,verwenden für,2
+동사+전치사,legen ins,2
+동사+전치사,befinden im,2
+동사+전치사,erkundigen nach,2
+동사+전치사,wundern über,2
+동사+전치사,bleibst zu,2
+동사+전치사,werfen in,2
+동사+전치사,stehen an,2
+동사+전치사,wenden an,2
+동사+전치사,bringen mit,2
+동사+전치사,suchen nach,2
+동사+전치사,suchen für,2
+동사+전치사,gehören zum,2
+동사+전치사,verletzen beim,2
+동사+전치사,steigen in,2
+동사+전치사,legen auf,2
+동사+전치사,ziehen um,2
+동사+전치사,arbeiten bei,2
+동사+전치사,sehen nach,2
+동사+전치사,verwenden mit,2
+동사+전치사,gewinnen im,2
+동사+전치사,sehen in,2
+동사+전치사,trinken in,2
+동사+전치사,untersuchen von,2
+동사+전치사,füllen aus,2
+동사+전치사,reparieren vom,2
+동사+전치사,stimmen zu,2
+동사+전치사,rechnen mit,2
+동사+전치사,warnen vor,2
+동사+전치사,berichten über,2
+동사+전치사,bilde mit,2
+동사+전치사,finden im,2
+동사+전치사,übersetzen ins,2
+동사+전치사,geben aus,2
+동사+전치사,ziehen in,2
+동사+전치사,besuchen am,2
+동사+전치사,verbringen mit,2
+동사+전치사,trennen von,2
+동사+전치사,machen aus,2
+동사+전치사,schicken an,2
+동사+전치사,legen in,2
+동사+전치사,gehen durch,2
+동사+전치사,ärgern über,2
+동사+전치사,kommen von,2
+동사+전치사,sprechen von,2
+동사+전치사,freuen auf,2
+동사+전치사,schreiben an,2
+동사+전치사,schreiben mit,2
+동사+전치사,dauern bis,2
+동사+전치사,unterscheiden von,2
+동사+전치사,holen aus,2
+동사+전치사,liegen gegenüber,2
+동사+전치사,fahren trotz,2
+동사+전치사,hängen an,2
+동사+전치사,stehen neben,2
+동사+전치사,sitzen unter,2
+동사+전치사,bleiben zum,2
+동사+전치사,dauern von,2
+동사+전치사,bleiben wegen,2
+동사+전치사,kämpfen gegen,2
+동사+전치사,verlangen im,2
+동사+전치사,bestehen aus,2
+동사+전치사,brauchen zum,2
+동사+전치사,nehmen an,2
+동사+전치사,verabreden mit,2
+동사+전치사,gehen am,2
+동사+전치사,abholen vom,2
+동사+전치사,kleben auf,2
+동사+전치사,hängen neben,2
+동사+전치사,stecken in,2
+동사+전치사,antworten auf,2
+동사+전치사,kommen auf,2
+동사+전치사,beschweren bei,2
+동사+전치사,entschuldigen bei,2
+동사+전치사,verwechseln mit,2
+동사+전치사,stoßen mit,2
+동사+전치사,bemühen seit,2
+동사+전치사,bemühen um,2
+동사+전치사,hängen vom,2
+동사+전치사,entschlossen zur,2
+동사+전치사,geben auf,2
+동사+전치사,beginnen bei,2
+동사+전치사,abhängen vom,2
+동사+전치사,reisen nach,2
+동사+전치사,nehmen auf,2
+동사+전치사,blättern in,2
+동사+전치사,telefonieren während,2
+동사+전치사,essen mit,2
+동사+전치사,liegen nach,2
+동사+전치사,ankommen seit,2
+동사+전치사,schließen ab,2
+동사+전치사,machen an,2
+동사+전치사,stehen nach,2
+동사+전치사,rufen bei,2
+동사+전치사,benutzen bei,2
+동사+전치사,gehen trotz,2
+동사+전치사,nehmen mit,2
+동사+전치사,arbeiten als,2
+동사+전치사,gehen auf,2
+동사+전치사,rennen auf,2
+동사+전치사,schreiben nach,2
+동사+전치사,kehren in,2
+동사+전치사,zurückgehen in,2
+동사+전치사,haben vor,2
+동사+전치사,auszuwandern nach,2
+동사+전치사,zurückkehren nach,2
+동사+전치사,stehen vom,2
+동사+전치사,übersetzen mit,2
+동사+전치사,wohnen über,2
+동사+전치사,lesen in,2
+동사+전치사,beantworten mit,2
+동사+전치사,verlangen zum,2
+동사+전치사,hervorgehen aus,1
+동사+전치사,hervorgehen als,1
+동사+전치사,schreiben für,1
+동사+전치사,erscheinen in,1
+동사+전치사,gelingen mit,1
+동사+전치사,hineingeschrieben in,1
+동사+전치사,vorbereiten im,1
+동사+전치사,orientieren am,1
+동사+전치사,verlieren von,1
+동사+전치사,eignen für,1
+동사+전치사,beachten für,1
+동사+전치사,benutzen ohne,1
+동사+전치사,treten ohne,1
+동사+전치사,treten nach,1
+동사+전치사,halten ohne,1
+동사+전치사,halten nach,1
+동사+전치사,wissen ohne,1
+동사+전치사,gehst zum,1
+동사+전치사,beobachten im,1
+동사+전치사,lesen auf,1
+동사+전치사,schlafen bis,1
+동사+전치사,halten hinter,1
+동사+전치사,kaufen im,1
+동사+전치사,bitten um,1
+동사+전치사,arbeiten am,1
+동사+전치사,laufen in,1
+동사+전치사,waschen an,1
+동사+전치사,laden zu,1
+동사+전치사,laden nach,1
+동사+전치사,need auf,1
+동사+전치사,siezusammen zur,1
+동사+전치사,kochen über,1
+동사+전치사,stellen bei,1
+동사+전치사,untergehen am,1
+동사+전치사,anmelden zum,1
+동사+전치사,mitnehmen nach,1
+동사+전치사,anfangen mit,1
+동사+전치사,melden zum,1
+동사+전치사,melden an,1
+동사+전치사,vorzeigen beim,1
+동사+전치사,kontrollieren vor,1
+동사+전치사,hineingehen in,1
+동사+전치사,hinsetzen im,1
+동사+전치사,aufrufen um,1
+동사+전치사,abfliegen um,1
+동사+전치사,aufstellen am,1
+동사+전치사,vorbeifahren an,1
+동사+전치사,herauskommen aus,1
+동사+전치사,einsteigen in,1
+동사+전치사,anhalten vor,1
+동사+전치사,verhandeln mit,1
+동사+전치사,verhandeln über,1
+동사+전치사,meldesen an,1
+동사+전치사,söch im,1
+동사+전치사,tigen mit,1
+동사+전치사,bewerben um,1
+동사+전치사,entschlossen zum,1
+동사+전치사,erholen im,1
+동사+전치사,erholen von,1
+동사+전치사,irren in,1
+동사+전치사,verhalten beim,1
+동사+전치사,machen beim,1
+동사+전치사,beschweren vor,1
+동사+전치사,ereignen am,1
+동사+전치사,wünschen zum,1
+동사+전치사,vorstellen ohne,1
+동사+전치사,vorstellen bei,1
+동사+전치사,bewerben in,1
+동사+전치사,erkundigen am,1
+동사+전치사,fließen durch,1
+동사+전치사,muss für,1
+동사+전치사,laufen mit,1
+동사+전치사,rennen zum,1
+동사+전치사,schließen zu,1
+동사+전치사,lassen beim,1
+동사+전치사,weißen von,1
+동사+전치사,heißen im,1
+동사+전치사,warten vor,1
+동사+전치사,mieten an,1
+동사+전치사,betreten zur,1
+동사+전치사,scheinen mit,1
+동사+전치사,gehen auf,1
+동사+전치사,tragen im,1
+동사+전치사,holen von,1
+동사+전치사,leihen in,1
+동사+전치사,schreien im,1
+동사+전치사,schauen an,1
+동사+전치사,holen nach,1
+동사+전치사,rannen nach,1
+동사+전치사,explodieren nach,1
+동사+전치사,passieren im,1
+동사+전치사,zerbrechen über,1
+동사+전치사,fallen auf,1
+동사+전치사,sterben mit,1
+동사+전치사,frühstücken um,1
+동사+전치사,schließen zu,1
+동사+전치사,sinken in,1
+동사+전치사,frühstücken zu,1
+동사+전치사,verwenden ohne,1
+동사+전치사,studieren für,1
+동사+전치사,herrschen über,1
+동사+전치사,schaffen für,1
+동사+전치사,schaffen am,1
+동사+전치사,haltungen über,1
+동사+전치사,bitten für,1
+동사+전치사,kommen für,1
+동사+전치사,rufen aus,1
+동사+전치사,treffen vor,1
+동사+전치사,zeigen nach,1
+동사+전치사,essen im,1
+동사+전치사,sprechen in,1
+동사+전치사,geschehen mit,1
+동사+전치사,bringen ins,1
+동사+전치사,abgeholen von,1
+동사+전치사,bringen von,1
+동사+전치사,laden zum,1
+동사+전치사,führen durch,1
+동사+전치사,kontrollieren von,1
+동사+전치사,beachten von,1
+동사+전치사,einbauen von,1
+동사+전치사,erfinden von,1
+동사+전치사,anrufen von,1
+동사+전치사,verursachen durch,1
+동사+전치사,bezahlen von,1
+동사+전치사,öffnen von,1
+동사+전치사,öffnen vom,1
+동사+전치사,ersetzen von,1
+동사+전치사,helfen vom,1
+동사+전치사,diskutieren im,1
+동사+전치사,gratulieren zur,1
+동사+전치사,reden über,1
+동사+전치사,verschwinden bei,1
+동사+전치사,nennen in,1
+동사+전치사,benutzen statt,1
+동사+전치사,verbieten im,1
+동사+전치사,trinken zu,1
+동사+전치사,kaufen in,1
+동사+전치사,umgehen mit,1
+동사+전치사,verschmutzen durch,1
+동사+전치사,hinweisen auf,1
+동사+전치사,zerstören durch,1
+동사+전치사,wiederfinden in,1
+동사+전치사,machen von,1
+동사+전치사,widersprechen von,1
+동사+전치사,sagen von,1
+동사+전치사,meinen zur,1
+동사+전치사,sperren während,1
+동사+전치사,kommsen zur,1
+동사+전치사,abholen mit,1
+동사+전치사,weiterfahren bei,1
+동사+전치사,grüßen von,1
+동사+전치사,tun für,1
+동사+전치사,verlieren bei,1
+동사+전치사,vorlegen zur,1
+동사+전치사,vorlegen zum,1
+동사+전치사,sehen auf,1
+동사+전치사,fahren wegen,1
+동사+전치사,verschieben wegen,1
+동사+전치사,nehmen im,1
+동사+전치사,nehmen zur,1
+동사+전치사,entscheiden über,1
+동사+전치사,vorliegen bis,1
+동사+전치사,vorliegen in,1
+동사+전치사,zusammengezogen zu,1
+동사+전치사,bezahlen für,1
+동사+전치사,zeigen im,1
+동사+전치사,trinken aus,1
+동사+전치사,fällen bei,1
+동사+전치사,spielen in,1
+동사+전치사,räumen auf,1
+동사+전치사,machen mit,1
+동사+전치사,sehen aus,1
+동사+전치사,studieren an,1
+동사+전치사,muss mit,1
+동사+전치사,rechnen im,1
+동사+전치사,färben mit,1
+동사+전치사,haben bei,1
+동사+전치사,kommen durch,1
+동사+전치사,müssen im,1
+동사+전치사,ausgezogen aus,1
+동사+전치사,lassen mit,1
+동사+전치사,rasen mit,1
+동사+전치사,haben in,1
+동사+전치사,sprochen mit,1
+동사+전치사,sprochen über,1
+동사+전치사,ansehen in,1
+동사+전치사,schreiben unter,1
+동사+전치사,erscheinen unter,1
+동사+전치사,schreiben zu,1
+동사+전치사,teilen mit,1
+동사+전치사,bekommen von,1
+동사+전치사,blühen im,1
+동사+전치사,spielen auf,1
+동사+전치사,finden auf,1
+동사+전치사,pumpen auf,1
+동사+전치사,wiegen ab,1
+동사+전치사,kommen entgegen,1
+동사+전치사,gehen vor,1
+동사+전치사,fliehen aus,1
+동사+전치사,sehen vor,1
+동사+전치사,einladen zum,1
+동사+전치사,wünschen für,1
+동사+전치사,besuchen aus,1
+동사+전치사,geben bei,1
+동사+전치사,benutzen wie,1
+동사+전치사,stehen außerhalb,1
+동사+전치사,passieren an,1
+동사+전치사,haben im,1
+동사+전치사,verlieren im,1
+동사+전치사,verlieren vor,1
+동사+전치사,kennen ohne,1
+동사+전치사,brauchen vom,1
+동사+전치사,reden mit,1
+동사+전치사,arbeiten mit,1
+동사+전치사,leben von,1
+동사+전치사,träumen von,1
+동사+전치사,sprichen mit,1
+동사+전치사,bleibst bis,1
+동사+전치사,bleibst in,1
+동사+전치사,kommsen mit,1
+동사+전치사,schreiben aus,1
+동사+전치사,ausfallen wegen,1
+동사+전치사,verwenden in,1
+동사+전치사,arbeiten für,1
+동사+전치사,fahren gegen,1
+동사+전치사,gehen ohne,1
+동사+전치사,haben außer,1
+동사+전치사,kommen vom,1
+동사+전치사,entlassen aufgrund,1
+동사+전치사,besuchen außerhalb,1
+동사+전치사,mitbringen statt,1
+동사+전치사,regnen während,1
+동사+전치사,abbrechen wegen,1
+동사+전치사,bringen hinter,1
+동사+전치사,stellen neben,1
+동사+전치사,hängen über,1
+동사+전치사,laufen unter,1
+동사+전치사,scheinen durch,1
+동사+전치사,arbeiten trotz,1
+동사+전치사,finden am,1
+동사+전치사,bleiben bis,1
+동사+전치사,stellen ab,1
+동사+전치사,sitzen gegenüber,1
+동사+전치사,gebären im,1
+동사+전치사,müssen innerhalb,1
+동사+전치사,schaffen innerhalb,1
+동사+전치사,unterhalten während,1
+동사+전치사,liegen hinter,1
+동사+전치사,kommen vor,1
+동사+전치사,fahren über,1
+동사+전치사,mitbringen außer,1
+동사+전치사,willen mit,1
+동사+전치사,verpassen aufgrund,1
+동사+전치사,bestehen nach,1
+동사+전치사,bestehen vor,1
+동사+전치사,verbringen an,1
+동사+전치사,kennen im,1
+동사+전치사,kennen aus,1
+동사+전치사,aufstehen um,1
+동사+전치사,stehen um,1
+동사+전치사,brauchen von,1
+동사+전치사,brauchen ins,1
+동사+전치사,ankommen während,1
+동사+전치사,lesen im,1
+동사+전치사,lesen vor,1
+동사+전치사,zurückfliegen nach,1
+동사+전치사,ziehen aus,1
+동사+전치사,geben gegen,1
+동사+전치사,putzen in,1
+동사+전치사,nehmen ab,1
+동사+전치사,geben zum,1
+동사+전치사,bestehen zwischen,1
+동사+전치사,sehen seit,1
+동사+전치사,ereignen an,1
+동사+전치사,sehen am,1
+동사+전치사,empfangen am,1
+동사+전치사,begegnen am,1
+동사+전치사,folgen ins,1
+동사+전치사,helfen bei,1
+동사+전치사,nützen auf,1
+동사+전치사,hören zu,1
+동사+전치사,hilfen beim,1
+동사+전치사,haben nach,1
+동사+전치사,sitzen ins,1
+동사+전치사,liegen an,1
+동사+전치사,stecken auf,1
+동사+전치사,stecken im,1
+동사+전치사,kleben in,1
+동사+전치사,setzen über,1
+동사+전치사,hängen unter,1
+동사+전치사,hängen vor,1
+동사+전치사,stecken zwischen,1
+동사+전치사,befestigen an,1
+동사+전치사,gießen ins,1
+동사+전치사,laden ins,1
+동사+전치사,leiten in,1
+동사+전치사,packen in,1
+동사+전치사,schieben an,1
+동사+전치사,tragen auf,1
+동사+전치사,transportieren in,1
+동사+전치사,eilen ins,1
+동사+전치사,gelangen mit,1
+동사+전치사,laufen zum,1
+동사+전치사,rennen nach,1
+동사+전치사,springen über,1
+동사+전치사,steigen auf,1
+동사+전치사,ziehen im,1
+동사+전치사,legen neben,1
+동사+전치사,sitzen als,1
+동사+전치사,haben in,1
+동사+전치사,halten für,1
+동사+전치사,konzentrieren an,1
+동사+전치사,danken bei,1
+동사+전치사,halten bei,1
+동사+전치사,erkennen an,1
+동사+전치사,fehlen an,1
+동사+전치사,leiden an,1
+동사+전치사,sterben an,1
+동사+전치사,nehmen am,1
+동사+전치사,zweifeln an,1
+동사+전치사,gewöhnen an,1
+동사+전치사,glauben an,1
+동사+전치사,wenden wegen,1
+동사+전치사,hoffen auf,1
+동사+전치사,konzentrieren auf,1
+동사+전치사,spezialisieren auf,1
+동사+전치사,stoßen auf,1
+동사+전치사,bereiten auf,1
+동사+전치사,bereiten vor,1
+동사+전치사,entschuldigen für,1
+동사+전치사,treten für,1
+동사+전치사,entscheiden für,1
+동사+전치사,kämpfen für,1
+동사+전치사,verstoßen gegen,1
+동사+전치사,wenden gegen,1
+동사+전치사,anfangen von,1
+동사+전치사,diskutieren bei,1
+동사+전치사,diskutieren mit,1
+동사+전치사,irren im,1
+동사+전치사,fangen mit,1
+동사+전치사,fangen an,1
+동사+전치사,hören mit,1
+동사+전치사,hören auf,1
+동사+전치사,befasst mit,1
+동사+전치사,beschäftigen mit,1
+동사+전치사,handeln mit,1
+동사+전치사,vergleichen mit,1
+동사+전치사,regen über,1
+동사+전치사,regen auf,1
+동사+전치사,klagen über,1
+동사+전치사,nachdenken über,1
+동사+전치사,bewirben um,1
+동사+전치사,handeln bei,1
+동사+전치사,sorgen um,1
+동사+전치사,trauern um,1
+동사+전치사,leiden unter,1
+동사+전치사,verabschieden von,1
+동사+전치사,fliehen vor,1
+동사+전치사,fürchten vor,1
+동사+전치사,überreden zum,1
+동사+전치사,fehlen im,1
+동사+전치사,fangen um,1
+동사+전치사,mieren im,1
+동사+전치사,aufhören um,1
+동사+전치사,berechtigen zur,1
+동사+전치사,überzeugen von,1
+동사+전치사,verwanden mit,1
+동사+전치사,besuchen vor,1
+동사+전치사,ankommen um,1
+동사+전치사,besichtigen mit,1
+동사+전치사,fahren am,1
+동사+전치사,gehst in,1
+동사+전치사,hörsben an,1
+동사+전치사,wiederkommsen in,1
+동사+전치사,gewöhnen in,1
+동사+전치사,begrüßen zu,1
+동사+전치사,plansen für,1
+동사+전치사,suchen in,1
+동사+전치사,haben als,1
+동사+전치사,ankommen aus,1
+동사+전치사,ankommen auf,1
+동사+전치사,nehmen wegen,1
+동사+전치사,verdienen durch,1
+동사+전치사,schützen durch,1
+동사+전치사,lernen in,1
+동사+전치사,umzuformen in,1
+동사+전치사,waschen vor,1
+동사+전치사,gehen wegen,1
+동사+전치사,aufstehen mit,1
+동사+전치사,benutzen als,1
+동사+전치사,ankommen beim,1
+동사+전치사,steigen aus,1
+동사+전치사,fahren ins,1
+동사+전치사,fallen von,1
+동사+전치사,ausgestiegen aus,1
+동사+전치사,schreien als,1
+동사+전치사,rauchen beim,1
+동사+전치사,stoßen beim,1
+동사+전치사,stoßen gegen,1
+동사+전치사,stören beim,1
+동사+전치사,spielen zur,1
+동사+전치사,frühstücken während,1
+동사+전치사,räumen ab,1
+동사+전치사,telefoniern mit,1
+동사+전치사,machen zum,1
+동사+전치사,spielen während,1
+동사+전치사,rauchen am,1
+동사+전치사,blühen in,1
+동사+전치사,drücken durch,1
+동사+전치사,drücken aus,1
+동사+전치사,frühstücken nach,1
+동사+전치사,schließen auf,1
+동사+전치사,ruhen nach,1
+동사+전치사,ruhen aus,1
+동사+전치사,besuchen nach,1
+동사+전치사,besuchen als,1
+동사+전치사,machen nach,1
+동사+전치사,fühlen nach,1
+동사+전치사,essen vor,1
+동사+전치사,melden zur,1
+동사+전치사,stimmen vor,1
+동사+전치사,besuchen seit,1
+동사+전치사,beginnen in,1
+동사+전치사,schlafen seit,1
+동사+전치사,reisen in,1
+동사+전치사,arbeiten in,1
+동사+전치사,kehren nach,1
+동사+전치사,erscheinen im,1
+동사+전치사,wohnen bis,1
+동사+전치사,gehen bei,1
+동사+전치사,gehen an,1
+동사+전치사,schauen nach,1
+동사+전치사,schlafen nach,1
+동사+전치사,ren über,1
+동사+전치사,tragen beim,1
+동사+전치사,essen zu,1
+동사+전치사,finden wegen,1
+동사+전치사,bleiben aus,1
+동사+전치사,umbringen aus,1
+동사+전치사,bekommen um,1
+동사+전치사,schenken mit,1
+동사+전치사,lernen zum,1
+동사+전치사,ansehen mit,1
+동사+전치사,mitnehmen zu,1
+동사+전치사,besuchen zur,1
+동사+전치사,geben an,1
+동사+전치사,feiern zum,1
+동사+전치사,brauchen zur,1
+동사+전치사,lassen zum,1
+동사+전치사,halten zur,1
+동사+전치사,wiederfinden bei,1
+동사+전치사,vorlegen bei,1
+동사+전치사,nennen im,1
+동사+전치사,fliegen zu,1
+동사+전치사,bleiben im,1
+동사+전치사,erwarten bei,1
+동사+전치사,rannen zum,1
+동사+전치사,kommen ins,1
+동사+전치사,verbringen seit,1
+동사+전치사,spazieren ohne,1
+동사+전치사,müssen trotz,1
+동사+전치사,stehlen trotz,1
+동사+전치사,versuchen seit,1
+동사+전치사,wohnen seit,1
+동사+전치사,tanzen mit,1
+동사+전치사,drehen nach,1
+동사+전치사,malen aufs,1
+동사+전치사,ziehen von,1
+동사+전치사,müssen wegen,1
+동사+전치사,besuchen in,1
+동사+전치사,reisen ins,1
+동사+전치사,schließen vor,1
+동사+전치사,schlafen während,1
+동사+전치사,bringen zur,1
+동사+전치사,erhalten aufgrund,1
+동사+전치사,lesen zur,1
+동사+전치사,durchlesen in,1
+동사+전치사,ziehen aufs,1
+동사+전치사,erben von,1
+동사+전치사,ansprechen wegen,1
+동사+전치사,befördern zum,1
+동사+전치사,bleiben auf,1
+동사+전치사,schicken in,1
+동사+전치사,geben zwischen,1
+동사+전치사,ausdrücken mit,1
+동사+전치사,zurückgekommen aus,1
+동사+전치사,mitbringen von,1
+동사+전치사,regnen seit,1
+동사+전치사,verabschieden gegen,1
+동사+전치사,kommen zur,1
+동사+전치사,muss zum,1
+동사+전치사,beenden in,1
+동사+전치사,schauen in,1
+동사+전치사,einkaufen für,1
+동사+전치사,essen bei,1
+동사+전치사,warten bis,1
+동사+전치사,warten nach,1
+동사+전치사,übersetzen in,1
+동사+전치사,sitzen am,1
+동사+전치사,sitzen beim,1
+동사+전치사,lachen über,1
+동사+전치사,drehen um,1
+동사+전치사,fallen ins,1
+동사+전치사,bestimmen von,1
+동사+전치사,geliehen vor,1
+동사+전치사,einziehen in,1
+동사+전치사,haben zu,1
+동사+전치사,freuen für,1
+동사+전치사,lernen seit,1
+동사+전치사,kommen bei,1
+동사+전치사,gebären in,1
+동사+전치사,schützen zu,1
+동사+전치사,schützen auf,1
+동사+전치사,reservieren für,1
+동사+전치사,richten in,1
+동사+전치사,richten nach,1
+동사+전치사,promovieren vor,1
+동사+전치사,rufen an,1
+동사+전치사,berichten von,1
+동사+전치사,bestimmen hinter,1
+동사+전치사,zeigen mit,1
+동사+전치사,zeigen vor,1
+동사+전치사,machen vor,1
+동사+전치사,gehen über,1
+동사+전치사,entdecken im,1
+동사+전치사,entdecken von,1
+동사+전치사,verwenden beim,1
+동사+전치사,arbeiten für,1
+동사+전치사,regnen bei,1
+동사+전치사,bringen zum,1
+동사+전치사,schlafen bei,1
+동사+전치사,wohnen auf,1
+동사+전치사,geben für,1
+동사+전치사,übernachten in,1
+동사+전치사,einführen in,1
+동사+전치사,einführen beim,1
+동사+전치사,einführen mit,1
+동사+전치사,geben gegenüber,1
+동사+전치사,beziehen auf,1
+동사+전치사,beziehen mit,1
+동사+전치사,fangen an,1
+동사+전치사,fangen auf,1
+동사+전치사,verschwinden im,1
+동사+전치사,stehen ohne,1
+동사+전치사,sprechen vom,1
+동사+전치사,abgeben an,1
+동사+전치사,fliegen von,1
+동사+전치사,kontrollieren bei,1
+동사+전치사,anbieten für,1
+동사+전치사,zeigen in,1
+동사+전치사,fragen zum,1
+동사+전치사,verkaufen in,1
+동사+전치사,unterhalten mit,1
+동사+전치사,unterhalten mit,1
+동사+전치사,stehen unter,1
+동사+전치사,kündigen an,1
+동사+전치사,einladen zu,1
+동사+전치사,hinfahren vom,1
+동사+전치사,sagen nach,1
+동사+전치사,tauschen beim,1
+동사+전치사,sitzen in,1
+동사+전치사,sitzen während,1
+동사+전치사,halten am,1
+동사+전치사,bringen aus,1
+동사+전치사,einsetzen in,1
+동사+전치사,liegen über,1
+동사+전치사,empfehlen über,1
+동사+전치사,unterrichten im,1
+동사+전치사,unterrichten als,1
+동사+전치사,unterrichten auf,1
+동사+전치사,finden als,1
+동사+전치사,geben zu,1
