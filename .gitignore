@@ -34,5 +34,8 @@ Thumbs.db
 build/
 *.egg-info/
 
+# Binary assets
+*.pdf
+
 # Node modules
 node_modules/
