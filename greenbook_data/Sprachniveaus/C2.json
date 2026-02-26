@@ -1,0 +1,102 @@
+[
+    {
+        "type": "명사",
+        "word": "Rechtsattribut",
+        "korean": "우측 수식어",
+        "gender": "das",
+        "plural": "Rechtsattribute",
+        "cefr": "C2"
+    },
+    {
+        "type": "명사",
+        "word": "Valenzgrammatik",
+        "korean": "원자가 문법",
+        "gender": "die",
+        "plural": "Valenzgrammatiken",
+        "cefr": "C2"
+    },
+    {
+        "type": "명사",
+        "word": "Pronominaladverb",
+        "korean": "대명 부사",
+        "gender": "das",
+        "plural": "Pronominaladverbien",
+        "cefr": "C2"
+    },
+    {
+        "type": "명사",
+        "word": "Kernspaltung",
+        "korean": "핵분열",
+        "gender": "die",
+        "plural": "Kernspaltungen",
+        "cefr": "C2"
+    },
+    {
+        "type": "명사",
+        "word": "Linksattribut",
+        "korean": "좌속성",
+        "gender": "das",
+        "plural": "die Linksattribute",
+        "cefr": "C2"
+    },
+    {
+        "type": "명사",
+        "word": "Zugswort",
+        "korean": "견인어 (가상의 단어)",
+        "gender": "das",
+        "plural": "Zugswörter",
+        "cefr": "C2"
+    },
+    {
+        "type": "명사",
+        "word": "Tionswort",
+        "korean": "(-tion으로 끝나는) 단어",
+        "gender": "das",
+        "plural": "Tionswörter",
+        "cefr": "C2"
+    },
+    {
+        "type": "명사",
+        "word": "Nullform",
+        "korean": "영형 (문법)",
+        "gender": "die",
+        "plural": "Nullformen",
+        "cefr": "C2"
+    },
+    {
+        "type": "명사",
+        "word": "Zwillingsformel",
+        "korean": "쌍둥이 공식 (두 단어의 결합)",
+        "gender": "die",
+        "plural": "Zwillingsformeln",
+        "cefr": "C2"
+    },
+    {
+        "type": "명사",
+        "word": "Turtur",
+        "korean": "비둘기속 (학명)",
+        "gender": null,
+        "plural": null,
+        "cefr": "C2"
+    },
+    {
+        "type": "명사",
+        "word": "Stammauslaut",
+        "korean": "어간 말음",
+        "gender": "der",
+        "plural": null,
+        "cefr": "C2"
+    },
+    {
+        "type": "형용사",
+        "word": "thetisch",
+        "korean": "정립적인, 명제적인",
+        "cefr": "C2"
+    },
+    {
+        "type": "기타",
+        "word": "obschon",
+        "korean": "~에도 불구하고",
+        "cefr": "C2"
+    }
+]

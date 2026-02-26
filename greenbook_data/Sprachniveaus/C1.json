@@ -1,0 +1,1086 @@
+[
+    {
+        "type": "명사",
+        "word": "Angabesatz",
+        "korean": "부사절",
+        "gender": "der",
+        "plural": "Angabesätze",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Apposition",
+        "korean": "동격어",
+        "gender": "die",
+        "plural": "Appositionen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Finalsatz",
+        "korean": "목적절",
+        "gender": "der",
+        "plural": "Finalsätze",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Kongruenz",
+        "korean": "일치, 조화",
+        "gender": "die",
+        "plural": "Kongruenzen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Konsekutivsatz",
+        "korean": "결과절",
+        "gender": "der",
+        "plural": "Konsekutivsätze",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Komparation",
+        "korean": "비교급",
+        "gender": "die",
+        "plural": "Komparationen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Prädikatsteil",
+        "korean": "술어 부분",
+        "gender": "der",
+        "plural": "Prädikatsteile",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Konzessivsatz",
+        "korean": "양보절",
+        "gender": "der",
+        "plural": "Konzessivsätze",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Modalsatz",
+        "korean": "양태 부사절",
+        "gender": "der",
+        "plural": "Modalsätze",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Ersatzinfinitiv",
+        "korean": "대체 부정사 (문법 용어)",
+        "gender": "der",
+        "plural": "Ersatzinfinitive",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Schildbürger",
+        "korean": "쉴트부르거 (어리석은 사람을 일컫는 말)",
+        "gender": "der",
+        "plural": "Schildbürger",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Gutachten",
+        "korean": "감정서, 보고서",
+        "gender": "das",
+        "plural": "Gutachten",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Imperativsatz",
+        "korean": "명령문",
+        "gender": "der",
+        "plural": "Imperativsätze",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Temporalsatz",
+        "korean": "시간 부사절",
+        "gender": "der",
+        "plural": "Temporalsätze",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Mittelstufengrammatik",
+        "korean": "중급 문법",
+        "gender": "die",
+        "plural": "Mittelstufengrammatiken",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Morphologie",
+        "korean": "형태론",
+        "gender": "die",
+        "plural": null,
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Vorzeitigkeit",
+        "korean": "선행성, 시간적 선행",
+        "gender": "die",
+        "plural": null,
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Korrelat",
+        "korean": "상관물, 상관어",
+        "gender": "das",
+        "plural": "Korrelate",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Adversativsatz",
+        "korean": "대조절",
+        "gender": "der",
+        "plural": "Adversativsätze",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Doktorarbeit",
+        "korean": "박사 논문",
+        "gender": "die",
+        "plural": "Doktorarbeiten",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Heil",
+        "korean": "구원, 안녕",
+        "gender": "das",
+        "plural": null,
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "nominalisieren",
+        "korean": "명사화하다",
+        "verb_forms": {
+            "praesens_er": "nominalisiert",
+            "praeteritum": "nominalisierte",
+            "perfekt": "hat nominalisiert",
+            "partizip_2_form": "nominalisiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "nominalisierend",
+                "korean": "명사화하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "nominalisiert",
+                "korean": "명사화된"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Adressatenkreis",
+        "korean": "대상 독자층",
+        "gender": "der",
+        "plural": "Adressatenkreise",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Orthografie",
+        "korean": "철자법",
+        "gender": "die",
+        "plural": "Orthografien",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Lebenswelt",
+        "korean": "생활 세계",
+        "gender": "die",
+        "plural": "Lebenswelten",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Syntax",
+        "korean": "구문론",
+        "gender": "die",
+        "plural": "Syntaxen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Neandertaler",
+        "korean": "네안데르탈인",
+        "gender": "der",
+        "plural": "Neandertaler",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Rheuma",
+        "korean": "류마티스",
+        "gender": "das",
+        "plural": null,
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Ratsversammlung",
+        "korean": "의회 회의, 평의회",
+        "gender": "die",
+        "plural": "Ratsversammlungen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Ortsveränderung",
+        "korean": "위치 변경, 장소 이동",
+        "gender": "die",
+        "plural": "Ortsveränderungen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Zustandsveränderung",
+        "korean": "상태 변화",
+        "gender": "die",
+        "plural": "Zustandsveränderungen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Raketentest",
+        "korean": "로켓 시험",
+        "gender": "der",
+        "plural": "Raketentests",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Vollverb",
+        "korean": "본동사",
+        "gender": "das",
+        "plural": "die Vollverben",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Atombombe",
+        "korean": "원자폭탄",
+        "gender": "die",
+        "plural": "Atombomben",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Behördenleiter",
+        "korean": "기관장, 부서장",
+        "gender": "der",
+        "plural": "Behördenleiter",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Verlesung",
+        "korean": "낭독, 읽어줌",
+        "gender": "die",
+        "plural": "Verlesungen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Normalform",
+        "korean": "표준형, 정규형",
+        "gender": "die",
+        "plural": "Normalformen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Kunstdünger",
+        "korean": "화학 비료",
+        "gender": "der",
+        "plural": "Kunstdünger",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Zulassungsbeschränkung",
+        "korean": "입학 제한, 허가 제한",
+        "gender": "die",
+        "plural": "Zulassungsbeschränkungen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Stipendiengeber",
+        "korean": "장학금 지급자",
+        "gender": "der",
+        "plural": "Stipendiengeber",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Katalysator",
+        "korean": "촉매, 촉매 변환기",
+        "gender": "der",
+        "plural": "Katalysatoren",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Romanfabrik",
+        "korean": "소설 공장",
+        "gender": "die",
+        "plural": "Romanfabriken",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "einäugig",
+        "korean": "외눈박이의",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Vergleichsglied",
+        "korean": "비교항",
+        "gender": "das",
+        "plural": "die Vergleichsglieder",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Satzklammer",
+        "korean": "문장 괄호 (문법 용어)",
+        "gender": "die",
+        "plural": "die Satzklammern",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Komparationsform",
+        "korean": "비교급 형태",
+        "gender": "die",
+        "plural": "die Komparationsformen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Pronominalform",
+        "korean": "대명사 형태",
+        "gender": "die",
+        "plural": "Pronominalformen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Einzelsubjekt",
+        "korean": "단일 주어",
+        "gender": "das",
+        "plural": "Einzelsubjekte",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Herztransplantation",
+        "korean": "심장 이식",
+        "gender": "die",
+        "plural": "Herztransplantationen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Trope",
+        "korean": "비유, 수사법",
+        "gender": "die",
+        "plural": "Tropen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Überfallene",
+        "korean": "습격당한 사람",
+        "gender": "der/die",
+        "plural": "Überfallenen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Prädikatsverb",
+        "korean": "술어 동사",
+        "gender": "das",
+        "plural": "Prädikatsverben",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Diplomarbeit",
+        "korean": "졸업 논문, 학위 논문",
+        "gender": "die",
+        "plural": "Diplomarbeiten",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Hauptsatzgeschehen",
+        "korean": "주절에서 일어나는 일",
+        "gender": "das",
+        "plural": null,
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Erdbebenopfer",
+        "korean": "지진 희생자",
+        "gender": "das",
+        "plural": "Erdbebenopfer",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Kreditzins",
+        "korean": "대출 이자",
+        "gender": "der",
+        "plural": "Kreditzinsen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Lösegeld",
+        "korean": "몸값, 속전",
+        "gender": "das",
+        "plural": "Lösegelder",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Geisel",
+        "korean": "인질",
+        "gender": "die",
+        "plural": "Geiseln",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Satzgefüge",
+        "korean": "복문",
+        "gender": "das",
+        "plural": "Satzgefüge",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Fachliteratur",
+        "korean": "전문 문헌",
+        "gender": "die",
+        "plural": null,
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Terpentin",
+        "korean": "테레빈유",
+        "gender": "das",
+        "plural": null,
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Emanzipation",
+        "korean": "해방, 해방 운동",
+        "gender": "die",
+        "plural": "Emanzipationen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Zynismus",
+        "korean": "냉소주의",
+        "gender": "der",
+        "plural": null,
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Konsul",
+        "korean": "영사",
+        "gender": "der",
+        "plural": "Konsuln",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Zwergstaat",
+        "korean": "소국, 미니 국가",
+        "gender": "der",
+        "plural": "Zwergstaaten",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Nominalform",
+        "korean": "명사형",
+        "gender": "die",
+        "plural": "Nominalformen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Ökologie",
+        "korean": "생태학",
+        "gender": "die",
+        "plural": null,
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Doppelnegation",
+        "korean": "이중 부정",
+        "gender": "die",
+        "plural": "Doppelnegationen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Generalisierung",
+        "korean": "일반화",
+        "gender": "die",
+        "plural": "Generalisierungen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Stoffname",
+        "korean": "재료명, 물질명",
+        "gender": "der",
+        "plural": "Stoffnamen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Gruppenbezeichnung",
+        "korean": "그룹 명칭",
+        "gender": "die",
+        "plural": "Gruppenbezeichnungen",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Relativitätstheorie",
+        "korean": "상대성 이론",
+        "gender": "die",
+        "plural": "die Relativitätstheorien",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Trag",
+        "korean": "짐, 부담",
+        "gender": "der",
+        "plural": "die Trage",
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "schwinden",
+        "korean": "줄어들다, 사라지다",
+        "verb_forms": {
+            "praesens_er": "schwindet",
+            "praeteritum": "schwand",
+            "perfekt": "ist geschwunden",
+            "partizip_2_form": "geschwunden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schwindend",
+                "korean": "줄어드는, 사라지는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschwunden",
+                "korean": "사라진, 줄어든"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Reed",
+        "korean": "갈대 (선박 용어)",
+        "gender": "das",
+        "plural": "Reede",
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "säufen",
+        "korean": "물을 먹이다, 흠뻑 적시다",
+        "verb_forms": {
+            "praesens_er": "säuft",
+            "praeteritum": "säufte",
+            "perfekt": "hat gesäuft",
+            "partizip_2_form": "gesäuft"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "säufend",
+                "korean": "물을 먹이는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesäuft",
+                "korean": "물을 먹인, 흠뻑 적신"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "berechtigen",
+        "korean": "권한을 주다, 자격을 부여하다",
+        "verb_forms": {
+            "praesens_er": "berechtigt",
+            "praeteritum": "berechtigte",
+            "perfekt": "hat berechtigt",
+            "partizip_2_form": "berechtigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "berechtigend",
+                "korean": "권한을 주는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "berechtigt",
+                "korean": "권한이 부여된"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "konzipieren",
+        "korean": "구상하다, 입안하다, 초안을 작성하다",
+        "verb_forms": {
+            "praesens_er": "konzipiert",
+            "praeteritum": "konzipierte",
+            "perfekt": "hat konzipiert",
+            "partizip_2_form": "konzipiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "konzipierend",
+                "korean": "구상하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "konzipiert",
+                "korean": "구상된, 입안된"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "bannen",
+        "korean": "추방하다, 매혹하다",
+        "verb_forms": {
+            "praesens_er": "bannt",
+            "praeteritum": "bannte",
+            "perfekt": "hat gebannt",
+            "partizip_2_form": "gebannt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bannend",
+                "korean": "추방하는, 매혹하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gebannt",
+                "korean": "추방된, 매혹된"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "zwiebeln",
+        "korean": "눈을 따갑게 하다, 괴롭히다",
+        "verb_forms": {
+            "praesens_er": "zwiebelt",
+            "praeteritum": "zwiebelte",
+            "perfekt": "hat gezwiebelt",
+            "partizip_2_form": "gezwiebelt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "zwiebelnd",
+                "korean": "따갑게 하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "entziffern",
+        "korean": "해독하다",
+        "verb_forms": {
+            "praesens_er": "entziffert",
+            "praeteritum": "entzifferte",
+            "perfekt": "hat entziffert",
+            "partizip_2_form": "entziffert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "entziffernd",
+                "korean": "해독하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "entziffert",
+                "korean": "해독된"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "veranlassen",
+        "korean": "야기하다, 조치하다",
+        "verb_forms": {
+            "praesens_er": "veranlasst",
+            "praeteritum": "veranlasste",
+            "perfekt": "hat veranlasst",
+            "partizip_2_form": "veranlasst"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "veranlassend",
+                "korean": "야기하는, 조치하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "veranlasst",
+                "korean": "야기된, 조치된"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "vollbesetzen",
+        "korean": "만석으로 채우다",
+        "verb_forms": {
+            "praesens_er": "vollbesetzt",
+            "praeteritum": "vollbesetzte",
+            "perfekt": "hat vollbesetzt",
+            "partizip_2_form": "vollbesetzt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vollbesetzend",
+                "korean": "만석으로 채우는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vollbesetzt",
+                "korean": "만석인, 가득 찬"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "letzen",
+        "korean": "상처 입히다, (갈증을) 해소하다",
+        "verb_forms": {
+            "praesens_er": "letzt",
+            "praeteritum": "letzte",
+            "perfekt": "hat geletzt",
+            "partizip_2_form": "geletzt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "letzend",
+                "korean": "상처 입히는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geletzt",
+                "korean": "상처 입은"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "abordnen",
+        "korean": "파견하다, 위임하다",
+        "verb_forms": {
+            "praesens_er": "ordnet ab",
+            "praeteritum": "ordnete ab",
+            "perfekt": "hat abgeordnet",
+            "partizip_2_form": "abgeordnet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "abordnend",
+                "korean": "파견하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "abgeordnet",
+                "korean": "파견된"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "erhaben",
+        "korean": "숭고한, 고귀한, 돋아난",
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "promovieren",
+        "korean": "박사 학위를 받다",
+        "verb_forms": {
+            "praesens_er": "er promoviert",
+            "praeteritum": "er promovierte",
+            "perfekt": "er hat promoviert",
+            "partizip_2_form": "promoviert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "promovierend",
+                "korean": "박사 학위를 받는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "promoviert",
+                "korean": "박사 학위를 받은"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "negieren",
+        "korean": "부정하다, 부인하다",
+        "verb_forms": {
+            "praesens_er": "negiert",
+            "praeteritum": "negierte",
+            "perfekt": "hat negiert",
+            "partizip_2_form": "negiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "negierend",
+                "korean": "부정하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "negiert",
+                "korean": "부정된"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "verspeisen",
+        "korean": "먹어치우다, 소비하다",
+        "verb_forms": {
+            "praesens_er": "verspeist",
+            "praeteritum": "verspeiste",
+            "perfekt": "hat verspeist",
+            "partizip_2_form": "verspeist"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verspeisend",
+                "korean": "먹어치우는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verspeist",
+                "korean": "먹어치워진"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Schwund",
+        "korean": "감소, 소실",
+        "gender": "der",
+        "plural": null,
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "satzverbindend",
+        "korean": "문장을 연결하는",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "subjektlos",
+        "korean": "주어가 없는",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "pronominal",
+        "korean": "대명사의",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "satzförmig",
+        "korean": "문장 형태의",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "einsilbig",
+        "korean": "단음절의",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "didaktisch",
+        "korean": "교수법적인, 교육적인",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "radioaktiv",
+        "korean": "방사능의, 방사성인",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "botanisch",
+        "korean": "식물학의, 식물의",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "ultraviolett",
+        "korean": "자외선의",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "kausal",
+        "korean": "인과적인",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "konsekutiv",
+        "korean": "연속적인, 결과적인",
+        "cefr": "C1"
+    },
+    {
+        "type": "동사",
+        "word": "schreiten",
+        "korean": "걷다, 나아가다",
+        "verb_forms": {
+            "praesens_er": "schreitet",
+            "praeteritum": "schritt",
+            "perfekt": "ist geschritten",
+            "partizip_2_form": "geschritten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schreitend",
+                "korean": "걷는, 나아가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschritten",
+                "korean": "걸어간, 나아간"
+            }
+        },
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "dependenziell",
+        "korean": "의존적인",
+        "cefr": "C1"
+    },
+    {
+        "type": "형용사",
+        "word": "landeskundlich",
+        "korean": "지역학적인, 향토적인",
+        "cefr": "C1"
+    },
+    {
+        "type": "부사",
+        "word": "didaktisch",
+        "korean": "교훈적으로",
+        "cefr": "C1"
+    },
+    {
+        "type": "전치사",
+        "word": "wider",
+        "korean": "~에 반하여",
+        "cefr": "C1"
+    },
+    {
+        "type": "기타",
+        "word": "obgleich",
+        "korean": "~에도 불구하고",
+        "cefr": "C1"
+    },
+    {
+        "type": "명사",
+        "word": "Urne",
+        "korean": "항아리, 유골함",
+        "gender": "die",
+        "plural": "Urnen",
+        "cefr": "C1"
+    }
+]

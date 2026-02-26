@@ -1,0 +1,4247 @@
+[
+    {
+        "type": "명사",
+        "word": "Ergänzung",
+        "korean": "보어, 보충",
+        "gender": "die",
+        "plural": "Ergänzungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Angabe",
+        "korean": "정보, 진술",
+        "gender": "die",
+        "plural": "Angaben",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Temporalsätze",
+        "korean": "시간 부사절",
+        "gender": "der",
+        "plural": "Temporalsätze",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Passiv",
+        "korean": "수동태",
+        "gender": "das",
+        "plural": "Passiva",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Attribut",
+        "korean": "속성, 한정어",
+        "gender": "das",
+        "plural": "Attribute",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Subjunktion",
+        "korean": "종속접속사",
+        "gender": "die",
+        "plural": "Subjunktionen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Satzglied",
+        "korean": "문장 성분",
+        "gender": "das",
+        "plural": "Satzglieder",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Doppelkonjunktion",
+        "korean": "이중 접속사",
+        "gender": "die",
+        "plural": "Doppelkonjunktionen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Nominalgruppe",
+        "korean": "명사구",
+        "gender": "die",
+        "plural": "Nominalgruppen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Ergänzungssatz",
+        "korean": "보충절",
+        "gender": "der",
+        "plural": "Ergänzungssätze",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Bezugswort",
+        "korean": "관련어",
+        "gender": "das",
+        "plural": "Bezugswörter",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Präfix",
+        "korean": "접두사",
+        "gender": "das",
+        "plural": "Präfixe",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Infinitivsatz",
+        "korean": "부정사구문",
+        "gender": "der",
+        "plural": "Infinitivsätze",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Stipendium",
+        "korean": "장학금",
+        "gender": "das",
+        "plural": "Stipendien",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Kausalsatz",
+        "korean": "이유절, 원인절",
+        "gender": "der",
+        "plural": "Kausalsätze",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Konditionalsatz",
+        "korean": "조건문",
+        "gender": "der",
+        "plural": "Konditionalsätze",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Studienplatz",
+        "korean": "대학 입학 허가",
+        "gender": "der",
+        "plural": "Studienplätze",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Vorwort",
+        "korean": "서문, 머리말",
+        "gender": "das",
+        "plural": "Vorwörter",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Abiturnote",
+        "korean": "아비투어 성적",
+        "gender": "die",
+        "plural": "Abiturnoten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Konjunktiv",
+        "korean": "접속법",
+        "gender": "der",
+        "plural": "Konjunktive",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Auflage",
+        "korean": "판, 발행 부수",
+        "gender": "die",
+        "plural": "Auflagen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Makler",
+        "korean": "중개인",
+        "gender": "der",
+        "plural": "Makler",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Beamtin",
+        "korean": "여공무원",
+        "gender": "die",
+        "plural": "Beamtinnen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Sachbearbeiter",
+        "korean": "담당 직원 (남성)",
+        "gender": "der",
+        "plural": "Sachbearbeiter",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Gleichheit",
+        "korean": "평등, 동등",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Ungleichheit",
+        "korean": "불평등",
+        "gender": "die",
+        "plural": "Ungleichheiten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Fachstudium",
+        "korean": "전공 공부",
+        "gender": "das",
+        "plural": "Fachstudien",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Fassung",
+        "korean": "버전, 판; 침착함; 틀",
+        "gender": "die",
+        "plural": "Fassungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Mitarbeit",
+        "korean": "협력, 공동 작업",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Abfolge",
+        "korean": "순서, 연속",
+        "gender": "die",
+        "plural": "Abfolgen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Rücksicht",
+        "korean": "배려",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Misslingen",
+        "korean": "실패",
+        "gender": "das",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Aufforderung",
+        "korean": "요청",
+        "gender": "die",
+        "plural": "Aufforderungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Hauptverb",
+        "korean": "주동사",
+        "gender": "das",
+        "plural": "Hauptverben",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Anekdote",
+        "korean": "일화, 짧은 이야기",
+        "gender": "die",
+        "plural": "Anekdoten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Vermutung",
+        "korean": "추측, 짐작",
+        "gender": "die",
+        "plural": "Vermutungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Protokoll",
+        "korean": "의사록, 프로토콜",
+        "gender": "das",
+        "plural": "Protokolle",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Abgeordneter",
+        "korean": "국회의원, 대리인 (남성)",
+        "gender": "der",
+        "plural": "Abgeordnete",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Gewerkschaft",
+        "korean": "노동조합",
+        "gender": "die",
+        "plural": "Gewerkschaften",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Schließung",
+        "korean": "폐쇄, 종료",
+        "gender": "die",
+        "plural": "Schließungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Täter",
+        "korean": "범인, 가해자",
+        "gender": "der",
+        "plural": "Täter",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Rohstoff",
+        "korean": "원료, 원자재",
+        "gender": "der",
+        "plural": "Rohstoffe",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Zeugin",
+        "korean": "여성 증인",
+        "gender": "die",
+        "plural": "Zeuginnen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Aufenthaltserlaubnis",
+        "korean": "체류 허가",
+        "gender": "die",
+        "plural": "Aufenthaltserlaubnisse",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Erkrankung",
+        "korean": "질병, 발병",
+        "gender": "die",
+        "plural": "Erkrankungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Geologe",
+        "korean": "지질학자",
+        "gender": "der",
+        "plural": "Geologen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Diplomat",
+        "korean": "외교관",
+        "gender": "der",
+        "plural": "Diplomaten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Arbeitslosigkeit",
+        "korean": "실업",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Glücksspiel",
+        "korean": "도박, 노름",
+        "gender": "das",
+        "plural": "Glücksspiele",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Nominal",
+        "korean": "명사 상당어구, 명사",
+        "gender": "das",
+        "plural": "Nominale",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Rektor",
+        "korean": "총장, 학장",
+        "gender": "der",
+        "plural": "Rektoren",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Infinitivkonstruktion",
+        "korean": "부정사 구문",
+        "gender": "die",
+        "plural": "Infinitivkonstruktionen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Astronomie",
+        "korean": "천문학",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Diplomprüfung",
+        "korean": "졸업 시험",
+        "gender": "die",
+        "plural": "Diplomprüfungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Praktikantenstelle",
+        "korean": "인턴 자리, 실습생 자리",
+        "gender": "die",
+        "plural": "Praktikantenstellen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Stellungsregel",
+        "korean": "위치 규칙",
+        "gender": "die",
+        "plural": "Stellungsregeln",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Stadtstaat",
+        "korean": "도시 국가",
+        "gender": "der",
+        "plural": "Stadtstaaten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Aztek",
+        "korean": "아즈텍인",
+        "gender": "der",
+        "plural": "Azteken",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Negationswort",
+        "korean": "부정어",
+        "gender": "das",
+        "plural": "Negationswörter",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Geselligkeit",
+        "korean": "사교성, 친목",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Zitat",
+        "korean": "인용문",
+        "gender": "das",
+        "plural": "Zitate",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Transkription",
+        "korean": "전사, 필사",
+        "gender": "die",
+        "plural": "Transkriptionen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Zuspruch",
+        "korean": "격려, 지지",
+        "gender": "der",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Lehrgebiet",
+        "korean": "교육 분야",
+        "gender": "das",
+        "plural": "Lehrgebiete",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Studienkolleg",
+        "korean": "슈투디엔콜렉 (독일 대학 예비 과정)",
+        "gender": "das",
+        "plural": "Studienkollegs",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Veröffentlichung",
+        "korean": "출판, 발표",
+        "gender": "die",
+        "plural": "Veröffentlichungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Zielsetzung",
+        "korean": "목표 설정",
+        "gender": "die",
+        "plural": "Zielsetzungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Wiederholungszweck",
+        "korean": "반복 목적",
+        "gender": "der",
+        "plural": "Wiederholungszwecke",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Überarbeitung",
+        "korean": "수정, 개정",
+        "gender": "die",
+        "plural": "Überarbeitungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Staatsbürger",
+        "korean": "시민, 국민",
+        "gender": "der",
+        "plural": "Staatsbürger",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Anfangsschwierigkeit",
+        "korean": "초기 어려움",
+        "gender": "die",
+        "plural": "Anfangsschwierigkeiten",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "hinterlassen",
+        "korean": "남기다, 유산으로 남기다",
+        "verb_forms": {
+            "praesens_er": "hinterlässt",
+            "praeteritum": "hinterließ",
+            "perfekt": "hat hinterlassen",
+            "partizip_2_form": "hinterlassen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "hinterlassend",
+                "korean": "남기는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "hinterlassen",
+                "korean": "남겨진"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Mieterhöhung",
+        "korean": "임대료 인상",
+        "gender": "die",
+        "plural": "Mieterhöhungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Stammvokal",
+        "korean": "어간 모음",
+        "gender": "der",
+        "plural": "Stammvokale",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Arroganz",
+        "korean": "오만, 거만",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Aufenthaltsgenehmigung",
+        "korean": "체류 허가증",
+        "gender": "die",
+        "plural": "Aufenthaltsgenehmigungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Verbrecher",
+        "korean": "범죄자",
+        "gender": "der",
+        "plural": "Verbrecher",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Maklerbüro",
+        "korean": "중개 사무소",
+        "gender": "das",
+        "plural": "Maklerbüros",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Vermittlungsgebühr",
+        "korean": "중개 수수료",
+        "gender": "die",
+        "plural": "Vermittlungsgebühren",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "schleppen",
+        "korean": "(무거운 것을) 끌다, 운반하다",
+        "verb_forms": {
+            "praesens_er": "schleppt",
+            "praeteritum": "schleppte",
+            "perfekt": "hat geschleppt",
+            "partizip_2_form": "geschleppt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schleppend",
+                "korean": "끄는, 질질 끄는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschleppt",
+                "korean": "끌려진, 운반된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "hinauftragen",
+        "korean": "위로 나르다, 운반하다",
+        "verb_forms": {
+            "praesens_er": "trägt hinauf",
+            "praeteritum": "trug hinauf",
+            "perfekt": "hat hinaufgetragen",
+            "partizip_2_form": "hinaufgetragen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "hinauftragend",
+                "korean": "위로 나르는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "hinaufgetragen",
+                "korean": "위로 운반된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Klugheit",
+        "korean": "현명함, 영리함",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Informatiker",
+        "korean": "정보 과학자, 컴퓨터 과학자 (남성)",
+        "gender": "der",
+        "plural": "Informatiker",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Ewigkeit",
+        "korean": "영원, 영겁",
+        "gender": "die",
+        "plural": "Ewigkeiten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Passivform",
+        "korean": "수동태 형태",
+        "gender": "die",
+        "plural": "Passivformen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Stellenabbau",
+        "korean": "일자리 감소, 인원 감축",
+        "gender": "der",
+        "plural": "Stellenabbau",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Sanierung",
+        "korean": "재건축, 보수, 재정 재건",
+        "gender": "die",
+        "plural": "Sanierungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Umstellung",
+        "korean": "전환, 변경",
+        "gender": "die",
+        "plural": "Umstellungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Falschgeld",
+        "korean": "위조지폐",
+        "gender": "das",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Umweltschützer",
+        "korean": "환경 보호론자",
+        "gender": "der",
+        "plural": "Umweltschützer",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Aktivsatz",
+        "korean": "능동태 문장",
+        "gender": "der",
+        "plural": "die Aktivsätze",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Autoabgas",
+        "korean": "자동차 배기가스",
+        "gender": "das",
+        "plural": "Autoabgase",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Beschluss",
+        "korean": "결정, 결의",
+        "gender": "der",
+        "plural": "Beschlüsse",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Wille",
+        "korean": "의지",
+        "gender": "der",
+        "plural": "Willen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Papstbesuch",
+        "korean": "교황 방문",
+        "gender": "der",
+        "plural": "Papstbesuche",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Akt",
+        "korean": "행위, 문서",
+        "gender": "der",
+        "plural": "Akte",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Kenntnis",
+        "korean": "지식",
+        "gender": "die",
+        "plural": "Kenntnisse",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Grenzpolizist",
+        "korean": "국경 경찰관",
+        "gender": "der",
+        "plural": "Grenzpolizisten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Demonstrant",
+        "korean": "시위자",
+        "gender": "der",
+        "plural": "Demonstranten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Sozialist",
+        "korean": "사회주의자",
+        "gender": "der",
+        "plural": "Sozialisten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Jurist",
+        "korean": "법률가",
+        "gender": "der",
+        "plural": "Juristen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Biologe",
+        "korean": "생물학자",
+        "gender": "der",
+        "plural": "Biologen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Soziologe",
+        "korean": "사회학자",
+        "gender": "der",
+        "plural": "Soziologen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Demokrat",
+        "korean": "민주주의자",
+        "gender": "der",
+        "plural": "Demokraten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Innere",
+        "korean": "내부, 안쪽",
+        "gender": "das",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Zulassung",
+        "korean": "허가, 인가, 입학 허가",
+        "gender": "die",
+        "plural": "Zulassungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Vorinformation",
+        "korean": "사전 정보",
+        "gender": "die",
+        "plural": "Vorinformationen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Liebhaber",
+        "korean": "애호가, 연인",
+        "gender": "der",
+        "plural": "Liebhaber",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Berufschance",
+        "korean": "직업 기회",
+        "gender": "die",
+        "plural": "Berufschancen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Antiquariat",
+        "korean": "고서점",
+        "gender": "das",
+        "plural": "Antiquariate",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Musketier",
+        "korean": "총사",
+        "gender": "der",
+        "plural": "Musketier",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "nominalisiert",
+        "korean": "명사화된",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Angeklagte",
+        "korean": "피고인, 고소당한 사람",
+        "gender": "der/die",
+        "plural": "die Angeklagten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Vorsitzende",
+        "korean": "의장, 회장",
+        "gender": "der/die",
+        "plural": "Vorsitzenden",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Parteivorsitzende",
+        "korean": "당대표, 당수",
+        "gender": "der/die",
+        "plural": "die Parteivorsitzenden",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Glied",
+        "korean": "사지, 지체, 구성원, 항",
+        "gender": "das",
+        "plural": "die Glieder",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Maximum",
+        "korean": "최대, 최고",
+        "gender": "das",
+        "plural": "die Maxima",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Besorgnis",
+        "korean": "걱정, 염려",
+        "gender": "die",
+        "plural": "Besorgnisse",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Normalfall",
+        "korean": "정상적인 경우",
+        "gender": "der",
+        "plural": "Normalfälle",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "temporal",
+        "korean": "시간의, 시간적인",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Drogenhandel",
+        "korean": "마약 거래",
+        "gender": "der",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Nebensatzbildung",
+        "korean": "종속절 형성",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Anwesenheitspflicht",
+        "korean": "출석 의무",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Opposition",
+        "korean": "반대, 야당",
+        "gender": "die",
+        "plural": "Oppositionen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Krebs",
+        "korean": "게, 암",
+        "gender": "der",
+        "plural": "Krebse",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Produktion",
+        "korean": "생산, 제작",
+        "gender": "die",
+        "plural": "Produktionen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Honorar",
+        "korean": "보수, 사례금",
+        "gender": "das",
+        "plural": "Honorare",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Verkürzung",
+        "korean": "단축, 축소",
+        "gender": "die",
+        "plural": "Verkürzungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Chancengleichheit",
+        "korean": "기회 균등",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Gefährlichkeit",
+        "korean": "위험성",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Terrorismus",
+        "korean": "테러리즘",
+        "gender": "der",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Maschinenbau",
+        "korean": "기계 공학",
+        "gender": "der",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Kabinett",
+        "korean": "내각, 캐비닛",
+        "gender": "das",
+        "plural": "Kabinette",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Eigentum",
+        "korean": "재산, 소유권",
+        "gender": "das",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Sinfonie",
+        "korean": "교향곡",
+        "gender": "die",
+        "plural": "Sinfonien",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Chirurg",
+        "korean": "외과 의사",
+        "gender": "der",
+        "plural": "Chirurgen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Senkung",
+        "korean": "하락, 감소",
+        "gender": "die",
+        "plural": "Senkungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Unterlegen",
+        "korean": "패배, 열세",
+        "gender": "das",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Einlösung",
+        "korean": "현금화, 상환",
+        "gender": "die",
+        "plural": "Einlösungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Bodenschatz",
+        "korean": "지하자원",
+        "gender": "der",
+        "plural": "Bodenschätze",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Konservierungsmittel",
+        "korean": "방부제",
+        "gender": "das",
+        "plural": "Konservierungsmittel",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Medizinstudium",
+        "korean": "의학 공부",
+        "gender": "das",
+        "plural": "Medizinstudien",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Verbstamm",
+        "korean": "동사 어간",
+        "gender": "der",
+        "plural": "Verbstämme",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Ungewissheit",
+        "korean": "불확실성",
+        "gender": "die",
+        "plural": "Ungewissheiten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Agrarland",
+        "korean": "농업 국가",
+        "gender": "das",
+        "plural": "Agrarländer",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Beendigung",
+        "korean": "종료, 완결",
+        "gender": "die",
+        "plural": "Beendigungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Presseclub",
+        "korean": "기자 클럽, 언론인 클럽",
+        "gender": "der",
+        "plural": "Presseclubs",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Berührung",
+        "korean": "접촉, 만짐",
+        "gender": "die",
+        "plural": "Berührungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Zusammenstoß",
+        "korean": "충돌, 격돌",
+        "gender": "der",
+        "plural": "Zusammenstöße",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Linksverkehr",
+        "korean": "좌측 통행",
+        "gender": "der",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Krankheitsgrund",
+        "korean": "병의 이유",
+        "gender": "der",
+        "plural": "Krankheitsgründe",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Trockenheit",
+        "korean": "건조함, 가뭄",
+        "gender": "die",
+        "plural": "Trockenheiten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Eifersucht",
+        "korean": "질투",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Kontoauszug",
+        "korean": "은행 거래 내역서",
+        "gender": "der",
+        "plural": "Kontoauszüge",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Komplikation",
+        "korean": "합병증, 복잡한 문제",
+        "gender": "die",
+        "plural": "Komplikationen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Antragstellung",
+        "korean": "신청서 제출",
+        "gender": "die",
+        "plural": "Antragstellungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Gegengrund",
+        "korean": "반대 이유, 반론",
+        "gender": "der",
+        "plural": "Gegengründe",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Windpocken",
+        "korean": "수두",
+        "gender": "die",
+        "plural": "Windpocken",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Schiffsverkehr",
+        "korean": "선박 교통",
+        "gender": "der",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Sparsamkeit",
+        "korean": "절약, 검소",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Kopfverletzung",
+        "korean": "머리 부상",
+        "gender": "die",
+        "plural": "Kopfverletzungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Bakterie",
+        "korean": "박테리아",
+        "gender": "die",
+        "plural": "Bakterien",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Unfallrisiko",
+        "korean": "사고 위험",
+        "gender": "das",
+        "plural": "Unfallrisiken",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Voraussetzung",
+        "korean": "전제, 조건",
+        "gender": "die",
+        "plural": "Voraussetzungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Jobvermittlung",
+        "korean": "직업 알선",
+        "gender": "die",
+        "plural": "Jobvermittlungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Erweiterung",
+        "korean": "확장, 확대",
+        "gender": "die",
+        "plural": "Erweiterungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Rundschau",
+        "korean": "회람, 개관",
+        "gender": "die",
+        "plural": "Rundschauen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Privatbank",
+        "korean": "사설 은행",
+        "gender": "die",
+        "plural": "Privatbanken",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Abteilungsleiter",
+        "korean": "부서장",
+        "gender": "der",
+        "plural": "Abteilungsleiter",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Attributsatz",
+        "korean": "속사절",
+        "gender": "der",
+        "plural": "die Attributsätze",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Behauptung",
+        "korean": "주장",
+        "gender": "die",
+        "plural": "Behauptungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Palästinenser",
+        "korean": "팔레스타인 사람",
+        "gender": "der",
+        "plural": "Palästinenser",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Garantiezeit",
+        "korean": "보증 기간",
+        "gender": "die",
+        "plural": "Garantiezeiten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Protestaktion",
+        "korean": "항의 시위",
+        "gender": "die",
+        "plural": "Protestaktionen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Aue",
+        "korean": "강가 초원, 습지",
+        "gender": "die",
+        "plural": "Auen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Mammut",
+        "korean": "맘모스",
+        "gender": "das",
+        "plural": "Mammute",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Elefantenart",
+        "korean": "코끼리 종류",
+        "gender": "die",
+        "plural": "Elefantenarten",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Ureinwohner",
+        "korean": "원주민",
+        "gender": "der",
+        "plural": "Ureinwohner",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "verneinen",
+        "korean": "부인하다, 부정하다",
+        "verb_forms": {
+            "praesens_er": "verneint",
+            "praeteritum": "verneinte",
+            "perfekt": "hat verneint",
+            "partizip_2_form": "verneint"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verneinend",
+                "korean": "부인하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verneint",
+                "korean": "부인된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Beantwortung",
+        "korean": "답변, 응답",
+        "gender": "die",
+        "plural": "Beantwortungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Faustregel",
+        "korean": "경험칙, 어림짐작",
+        "gender": "die",
+        "plural": "Faustregeln",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "USt",
+        "korean": "부가가치세 (Umsatzsteuer의 약어)",
+        "gender": "die",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Bezeichnung",
+        "korean": "명칭, 표시",
+        "gender": "die",
+        "plural": "Bezeichnungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Sprichwort",
+        "korean": "속담",
+        "gender": "das",
+        "plural": "Sprichwörter",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Reihung",
+        "korean": "나열, 배열",
+        "gender": "die",
+        "plural": "Reihungen",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "gebrauchen",
+        "korean": "사용하다, 이용하다",
+        "verb_forms": {
+            "praesens_er": "gebraucht",
+            "praeteritum": "gebrauchte",
+            "perfekt": "hat gebraucht",
+            "partizip_2_form": "gebraucht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gebrauchend",
+                "korean": "사용하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gebraucht",
+                "korean": "사용된, 중고의"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Sauerstoff",
+        "korean": "산소",
+        "gender": "der",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Fahrzeugpapier",
+        "korean": "차량 등록증",
+        "gender": "das",
+        "plural": "die Fahrzeugpapiere",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Testament",
+        "korean": "유언장",
+        "gender": "das",
+        "plural": "die Testamente",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Begründer",
+        "korean": "창시자",
+        "gender": "der",
+        "plural": "die Begründer",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Bedenken",
+        "korean": "우려, 염려",
+        "gender": "das",
+        "plural": "die Bedenken",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Semikolon",
+        "korean": "세미콜론",
+        "gender": "das",
+        "plural": "die Semikola",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Demonstrativpronomen",
+        "korean": "지시 대명사",
+        "gender": "das",
+        "plural": "die Demonstrativpronomen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Indefinitpronomen",
+        "korean": "부정 대명사",
+        "gender": "das",
+        "plural": "die Indefinitpronomen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Elend",
+        "korean": "비참, 불행",
+        "gender": "das",
+        "plural": null,
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Genosse",
+        "korean": "동지, 동료",
+        "gender": "der",
+        "plural": "Genossen",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "meiden",
+        "korean": "피하다, 멀리하다",
+        "verb_forms": {
+            "praesens_er": "meidet",
+            "praeteritum": "mied",
+            "perfekt": "hat gemieden",
+            "partizip_2_form": "gemieden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "meidend",
+                "korean": "피하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gemieden",
+                "korean": "피해진"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "ringen",
+        "korean": "씨름하다, 고심하다",
+        "verb_forms": {
+            "praesens_er": "ringt",
+            "praeteritum": "rang",
+            "perfekt": "hat gerungen",
+            "partizip_2_form": "gerungen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ringend",
+                "korean": "씨름하는, 고심하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gerungen",
+                "korean": "씨름한, 고심한"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "zwingen",
+        "korean": "강요하다, 강제하다",
+        "verb_forms": {
+            "praesens_er": "zwingt",
+            "praeteritum": "zwang",
+            "perfekt": "hat gezwungen",
+            "partizip_2_form": "gezwungen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "zwingend",
+                "korean": "강요하는, 필연적인"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gezwungen",
+                "korean": "강요된, 억지로 하는"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Base",
+        "korean": "염기; 사촌(여자)",
+        "gender": "die",
+        "plural": "Basen",
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Grammatikfertigkeit",
+        "korean": "문법 능력",
+        "gender": "die",
+        "plural": "Grammatikfertigkeiten",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "praxisorientiert",
+        "korean": "실용 지향적인, 실습 위주의",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "operieren",
+        "korean": "수술하다",
+        "verb_forms": {
+            "praesens_er": "operiert",
+            "praeteritum": "operierte",
+            "perfekt": "hat operiert",
+            "partizip_2_form": "operiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "operierend",
+                "korean": "수술하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "operiert",
+                "korean": "수술된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "fällen",
+        "korean": "쓰러뜨리다, (결정을) 내리다",
+        "verb_forms": {
+            "praesens_er": "fällt",
+            "praeteritum": "fällte",
+            "perfekt": "hat gefällt",
+            "partizip_2_form": "gefällt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "betreten",
+        "korean": "들어서다, 밟다",
+        "verb_forms": {
+            "praesens_er": "betritt",
+            "praeteritum": "betrat",
+            "perfekt": "hat betreten",
+            "partizip_2_form": "betreten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "betretend",
+                "korean": "들어서는, 밟는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "betreten",
+                "korean": "들어선, 밟힌"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "ernennen",
+        "korean": "임명하다, 지명하다",
+        "verb_forms": {
+            "praesens_er": "er ernennt",
+            "praeteritum": "er ernannte",
+            "perfekt": "er hat ernannt",
+            "partizip_2_form": "ernannt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ernennend",
+                "korean": "임명하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "ernannt",
+                "korean": "임명된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "untersuchen",
+        "korean": "조사하다, 검사하다",
+        "verb_forms": {
+            "praesens_er": "er untersucht",
+            "praeteritum": "er untersuchte",
+            "perfekt": "er hat untersucht",
+            "partizip_2_form": "untersucht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "untersuchend",
+                "korean": "조사하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "untersucht",
+                "korean": "조사된, 검사된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "unterscheiden",
+        "korean": "구별하다, 구분하다",
+        "verb_forms": {
+            "praesens_er": "unterscheidet",
+            "praeteritum": "unterschied",
+            "perfekt": "hat unterschieden",
+            "partizip_2_form": "unterschieden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "unterscheidend",
+                "korean": "구별하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "unterschieden",
+                "korean": "구별된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "leisten",
+        "korean": "성취하다, 감당하다",
+        "verb_forms": {
+            "praesens_er": "leistet",
+            "praeteritum": "leistete",
+            "perfekt": "hat geleistet",
+            "partizip_2_form": "geleistet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "leistend",
+                "korean": "성취하는, 감당하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geleistet",
+                "korean": "성취된, 감당된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "verzichten",
+        "korean": "포기하다, 단념하다",
+        "verb_forms": {
+            "praesens_er": "verzichtet",
+            "praeteritum": "verzichtete",
+            "perfekt": "hat verzichtet",
+            "partizip_2_form": "verzichtet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verzichtend",
+                "korean": "포기하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verzichtet",
+                "korean": "포기된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "entschließen",
+        "korean": "결심하다, 결정하다",
+        "verb_forms": {
+            "praesens_er": "er entschließt sich",
+            "praeteritum": "er entschloss sich",
+            "perfekt": "er hat sich entschlossen",
+            "partizip_2_form": "entschlossen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "entschließend",
+                "korean": "결심하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "entschlossen",
+                "korean": "결심한, 단호한"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "ereignen",
+        "korean": "일어나다, 발생하다 (주로 sich ereignen)",
+        "verb_forms": {
+            "praesens_er": "es ereignet sich",
+            "praeteritum": "es ereignete sich",
+            "perfekt": "es hat sich ereignet",
+            "partizip_2_form": "ereignet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ereignend",
+                "korean": "발생하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "ereignet",
+                "korean": "발생한"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "irren",
+        "korean": "착각하다, 틀리다",
+        "verb_forms": {
+            "praesens_er": "irrt",
+            "praeteritum": "irrte",
+            "perfekt": "hat geirrt",
+            "partizip_2_form": "geirrt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "irrend",
+                "korean": "헤매는, 착각하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "protestieren",
+        "korean": "항의하다, 시위하다",
+        "verb_forms": {
+            "praesens_er": "protestiert",
+            "praeteritum": "protestierte",
+            "perfekt": "hat protestiert",
+            "partizip_2_form": "protestiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "protestierend",
+                "korean": "항의하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "gebären",
+        "korean": "낳다, 출산하다",
+        "verb_forms": {
+            "praesens_er": "er gebärt",
+            "praeteritum": "er gebar",
+            "perfekt": "er hat geboren",
+            "partizip_2_form": "geboren"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gebärend",
+                "korean": "낳는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geboren",
+                "korean": "태어난"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "werben",
+        "korean": "광고하다, 모집하다",
+        "verb_forms": {
+            "praesens_er": "wirbt",
+            "praeteritum": "warb",
+            "perfekt": "hat geworben",
+            "partizip_2_form": "geworben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "werbend",
+                "korean": "광고하는, 모집하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geworben",
+                "korean": "광고된, 모집된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "abbrechen",
+        "korean": "~때문에 중단하다",
+        "verb_forms": {
+            "praesens_er": "bricht ab",
+            "praeteritum": "brach ab",
+            "perfekt": "hat abgebrochen",
+            "partizip_2_form": "abgebrochen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "abbrechend",
+                "korean": "중단하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "abgebrochen",
+                "korean": "중단된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "zerstören",
+        "korean": "파괴하다",
+        "verb_forms": {
+            "praesens_er": "zerstört",
+            "praeteritum": "zerstörte",
+            "perfekt": "hat zerstört",
+            "partizip_2_form": "zerstört"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "zerstört",
+                "korean": "파괴된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "vorlegen",
+        "korean": "제출하다, 제시하다",
+        "verb_forms": {
+            "praesens_er": "legt vor",
+            "praeteritum": "legte vor",
+            "perfekt": "hat vorgelegt",
+            "partizip_2_form": "vorgelegt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vorlegend",
+                "korean": "제출하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vorgelegt",
+                "korean": "제출된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "beabsichtigen",
+        "korean": "의도하다, 계획하다",
+        "verb_forms": {
+            "praesens_er": "beabsichtigt",
+            "praeteritum": "beabsichtigte",
+            "perfekt": "hat beabsichtigt",
+            "partizip_2_form": "beabsichtigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "beabsichtigend",
+                "korean": "의도하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "beabsichtigt",
+                "korean": "의도된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "zerreißen",
+        "korean": "찢다, 파열시키다",
+        "verb_forms": {
+            "praesens_er": "er zerreißt",
+            "praeteritum": "er zerriss",
+            "perfekt": "er hat zerrissen",
+            "partizip_2_form": "zerrissen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "zerreißend",
+                "korean": "찢는, 파열시키는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "zerrissen",
+                "korean": "찢어진, 파열된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "weißen",
+        "korean": "하얗게 칠하다",
+        "verb_forms": {
+            "praesens_er": "weißt",
+            "praeteritum": "weißte",
+            "perfekt": "hat geweißt",
+            "partizip_2_form": "geweißt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "weißend",
+                "korean": "하얗게 칠하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geweißt",
+                "korean": "하얗게 칠해진"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "gelangen",
+        "korean": "도달하다, 이르다",
+        "verb_forms": {
+            "praesens_er": "er gelangt",
+            "praeteritum": "er gelangte",
+            "perfekt": "er ist gelangt",
+            "partizip_2_form": "gelangt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gelangend",
+                "korean": "도달하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelangt",
+                "korean": "도달된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "verstoßen",
+        "korean": "위반하다, 추방하다",
+        "verb_forms": {
+            "praesens_er": "verstößt",
+            "praeteritum": "verstieß",
+            "perfekt": "hat verstoßen",
+            "partizip_2_form": "verstoßen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verstoßend",
+                "korean": "위반하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verstoßen",
+                "korean": "위반된, 추방된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "saufen",
+        "korean": "술을 마시다 (동물/비격식)",
+        "verb_forms": {
+            "praesens_er": "säuft",
+            "praeteritum": "soff",
+            "perfekt": "hat gesoffen",
+            "partizip_2_form": "gesoffen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "saufend",
+                "korean": "술을 마시는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "vornehmen",
+        "korean": "실행하다, 착수하다",
+        "verb_forms": {
+            "praesens_er": "nimmt vor",
+            "praeteritum": "nahm vor",
+            "perfekt": "hat vorgenommen",
+            "partizip_2_form": "vorgenommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vornehmend",
+                "korean": "실행하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vorgenommen",
+                "korean": "실행된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "behindern",
+        "korean": "방해하다",
+        "verb_forms": {
+            "praesens_er": "behindert",
+            "praeteritum": "behinderte",
+            "perfekt": "hat behindert",
+            "partizip_2_form": "behindert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "behindernd",
+                "korean": "방해하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "behindert",
+                "korean": "방해받은, 장애가 있는"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "befassen",
+        "korean": "다루다, 취급하다",
+        "verb_forms": {
+            "praesens_er": "befasst",
+            "praeteritum": "befasste",
+            "perfekt": "hat befasst",
+            "partizip_2_form": "befasst"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "befassend",
+                "korean": "다루는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "befasst",
+                "korean": "다루어진, 몰두한"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "rege",
+        "korean": "활발한, 민첩한",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "trauern",
+        "korean": "슬퍼하다, 애도하다",
+        "verb_forms": {
+            "praesens_er": "trauert",
+            "praeteritum": "trauerte",
+            "perfekt": "hat getrauert",
+            "partizip_2_form": "getrauert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "trauernd",
+                "korean": "슬퍼하는, 애도하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "getrauert",
+                "korean": "슬퍼해진, 애도된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "verpflichten",
+        "korean": "의무를 지우다, 약속하다",
+        "verb_forms": {
+            "praesens_er": "verpflichtet",
+            "praeteritum": "verpflichtete",
+            "perfekt": "hat verpflichtet",
+            "partizip_2_form": "verpflichtet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verpflichtend",
+                "korean": "의무를 지우는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verpflichtet",
+                "korean": "의무가 있는, 약속된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "vertrocknen",
+        "korean": "말라 죽다, 시들다",
+        "verb_forms": {
+            "praesens_er": "vertrocknet",
+            "praeteritum": "vertrocknete",
+            "perfekt": "ist vertrocknet",
+            "partizip_2_form": "vertrocknet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vertrocknend",
+                "korean": "말라 죽어가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vertrocknet",
+                "korean": "말라 죽은, 시든"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "verwirklichen",
+        "korean": "실현하다, 달성하다",
+        "verb_forms": {
+            "praesens_er": "verwirklicht",
+            "praeteritum": "verwirklichte",
+            "perfekt": "hat verwirklicht",
+            "partizip_2_form": "verwirklicht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verwirklichend",
+                "korean": "실현하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verwirklicht",
+                "korean": "실현된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "dringen",
+        "korean": "밀고 들어가다, 촉구하다",
+        "verb_forms": {
+            "praesens_er": "dringt",
+            "praeteritum": "drang",
+            "perfekt": "ist gedrungen",
+            "partizip_2_form": "gedrungen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "dringend",
+                "korean": "긴급한, 절박한"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gedrungen",
+                "korean": "강요된, 빽빽한"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "bestärken",
+        "korean": "강화하다, 격려하다",
+        "verb_forms": {
+            "praesens_er": "bestärkt",
+            "praeteritum": "bestärkte",
+            "perfekt": "hat bestärkt",
+            "partizip_2_form": "bestärkt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bestärkend",
+                "korean": "강화하는, 격려하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "bestärkt",
+                "korean": "강화된, 격려된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "hervorgehen",
+        "korean": "나오다, 유래하다",
+        "verb_forms": {
+            "praesens_er": "er geht hervor",
+            "praeteritum": "er ging hervor",
+            "perfekt": "er ist hervorgegangen",
+            "partizip_2_form": "hervorgegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "hervorgehend",
+                "korean": "나오는, 유래하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "hervorgegangen",
+                "korean": "나온, 유래한"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "speisen",
+        "korean": "식사하다, 먹다; (전력을) 공급하다",
+        "verb_forms": {
+            "praesens_er": "speist",
+            "praeteritum": "speiste",
+            "perfekt": "hat gespeist",
+            "partizip_2_form": "gespeist"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "speisend",
+                "korean": "식사하는, 공급하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gespeist",
+                "korean": "식사한, 공급된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "auszeichnen",
+        "korean": "표시하다, 구별하다; 표창하다, 수여하다",
+        "verb_forms": {
+            "praesens_er": "zeichnet aus",
+            "praeteritum": "zeichnete aus",
+            "perfekt": "hat ausgezeichnet",
+            "partizip_2_form": "ausgezeichnet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "auszeichnend",
+                "korean": "표시하는, 표창하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "ausgezeichnet",
+                "korean": "뛰어난, 표창받은"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "berücksichtigen",
+        "korean": "고려하다, 참작하다",
+        "verb_forms": {
+            "praesens_er": "berücksichtigt",
+            "praeteritum": "berücksichtigte",
+            "perfekt": "hat berücksichtigt",
+            "partizip_2_form": "berücksichtigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "berücksichtigend",
+                "korean": "고려하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "berücksichtigt",
+                "korean": "고려된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "befiehlen",
+        "korean": "명령하다",
+        "verb_forms": {
+            "praesens_er": "befiehlt",
+            "praeteritum": "befahl",
+            "perfekt": "hat befohlen",
+            "partizip_2_form": "befohlen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "befehlend",
+                "korean": "명령하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "befohlen",
+                "korean": "명령받은"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "umformen",
+        "korean": "변형시키다",
+        "verb_forms": {
+            "praesens_er": "formt um",
+            "praeteritum": "formte um",
+            "perfekt": "hat umgeformt",
+            "partizip_2_form": "umgeformt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "umformend",
+                "korean": "변형시키는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "umgeformt",
+                "korean": "변형된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "misstrauen",
+        "korean": "불신하다, 의심하다",
+        "verb_forms": {
+            "praesens_er": "misstraut",
+            "praeteritum": "misstraute",
+            "perfekt": "hat misstraut",
+            "partizip_2_form": "misstraut"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "misstrauend",
+                "korean": "불신하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "misstraut",
+                "korean": "불신받는"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "verhören",
+        "korean": "심문하다, 잘못 듣다",
+        "verb_forms": {
+            "praesens_er": "verhört",
+            "praeteritum": "verhörte",
+            "perfekt": "hat verhört",
+            "partizip_2_form": "verhört"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verhörend",
+                "korean": "심문하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verhört",
+                "korean": "심문당한, 잘못 들은"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "abgewöhnen",
+        "korean": "~에게서 ~하는 버릇을 없애다",
+        "verb_forms": {
+            "praesens_er": "gewöhnt ab",
+            "praeteritum": "gewöhnte ab",
+            "perfekt": "hat abgewöhnt",
+            "partizip_2_form": "abgewöhnt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "abgewöhnend",
+                "korean": "버릇을 없애는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "abgewöhnt",
+                "korean": "버릇이 없어진"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "eindringen",
+        "korean": "침입하다, 스며들다",
+        "verb_forms": {
+            "praesens_er": "dringt ein",
+            "praeteritum": "drang ein",
+            "perfekt": "ist eingedrungen",
+            "partizip_2_form": "eingedrungen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "eindringend",
+                "korean": "침입하는, 스며드는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "herrschen",
+        "korean": "지배하다, 군림하다",
+        "verb_forms": {
+            "praesens_er": "herrscht",
+            "praeteritum": "herrschte",
+            "perfekt": "hat geherrscht",
+            "partizip_2_form": "geherrscht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "herrschend",
+                "korean": "지배하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geherrscht",
+                "korean": "지배된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "analysieren",
+        "korean": "분석하다",
+        "verb_forms": {
+            "praesens_er": "analysiert",
+            "praeteritum": "analysierte",
+            "perfekt": "hat analysiert",
+            "partizip_2_form": "analysiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "analysierend",
+                "korean": "분석하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "analysiert",
+                "korean": "분석된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "übersenden",
+        "korean": "보내다, 발송하다",
+        "verb_forms": {
+            "praesens_er": "übersendet",
+            "praeteritum": "übersandte",
+            "perfekt": "hat übersandt",
+            "partizip_2_form": "übersandt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "übersendend",
+                "korean": "보내는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "übersandt",
+                "korean": "보내진, 발송된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "vorliegen",
+        "korean": "제출되어 있다, 존재하다",
+        "verb_forms": {
+            "praesens_er": "liegt vor",
+            "praeteritum": "lag vor",
+            "perfekt": "hat vorgelegen",
+            "partizip_2_form": "vorgelegen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vorliegend",
+                "korean": "제출된, 현존하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "beauftragen",
+        "korean": "위임하다, 의뢰하다",
+        "verb_forms": {
+            "praesens_er": "beauftragt",
+            "praeteritum": "beauftragte",
+            "perfekt": "hat beauftragt",
+            "partizip_2_form": "beauftragt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "beauftragend",
+                "korean": "위임하는, 의뢰하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "beauftragt",
+                "korean": "위임된, 의뢰된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "konfigurieren",
+        "korean": "구성하다, 설정하다",
+        "verb_forms": {
+            "praesens_er": "konfiguriert",
+            "praeteritum": "konfigurierte",
+            "perfekt": "hat konfiguriert",
+            "partizip_2_form": "konfiguriert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "konfigurierend",
+                "korean": "구성하는, 설정하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "konfiguriert",
+                "korean": "구성된, 설정된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "ertragen",
+        "korean": "참다, 견디다",
+        "verb_forms": {
+            "praesens_er": "erträgt",
+            "praeteritum": "ertrug",
+            "perfekt": "hat ertragen",
+            "partizip_2_form": "ertragen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ertragend",
+                "korean": "참는, 견디는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "ertragen",
+                "korean": "참아진, 견뎌진"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "versterben",
+        "korean": "사망하다",
+        "verb_forms": {
+            "praesens_er": "verstirbt",
+            "praeteritum": "verstarb",
+            "perfekt": "ist verstorben",
+            "partizip_2_form": "verstorben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "versterbend",
+                "korean": "사망하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verstorben",
+                "korean": "사망한"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "spannen",
+        "korean": "팽팽하게 하다, 긴장시키다",
+        "verb_forms": {
+            "praesens_er": "spannt",
+            "praeteritum": "spannte",
+            "perfekt": "hat gespannt",
+            "partizip_2_form": "gespannt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "spannend",
+                "korean": "흥미진진한, 긴장시키는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gespannt",
+                "korean": "긴장한, 기대하는"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "umbringen",
+        "korean": "죽이다",
+        "verb_forms": {
+            "praesens_er": "bringt um",
+            "praeteritum": "brachte um",
+            "perfekt": "hat umgebracht",
+            "partizip_2_form": "umgebracht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "umbringend",
+                "korean": "죽이는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "wegfallen",
+        "korean": "없어지다, 제외되다",
+        "verb_forms": {
+            "praesens_er": "fällt weg",
+            "praeteritum": "fiel weg",
+            "perfekt": "ist weggefallen",
+            "partizip_2_form": "weggefallen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "weggefallen",
+                "korean": "없어진, 제외된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "vermehren",
+        "korean": "늘리다, 증가시키다",
+        "verb_forms": {
+            "praesens_er": "vermehrt",
+            "praeteritum": "vermehrte",
+            "perfekt": "hat vermehrt",
+            "partizip_2_form": "vermehrt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vermehrt",
+                "korean": "증가된, 늘어난"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "vermindern",
+        "korean": "줄이다, 감소시키다",
+        "verb_forms": {
+            "praesens_er": "vermindert",
+            "praeteritum": "verminderte",
+            "perfekt": "hat vermindert",
+            "partizip_2_form": "vermindert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vermindert",
+                "korean": "감소된, 줄어든"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "befürchten",
+        "korean": "염려하다, 두려워하다",
+        "verb_forms": {
+            "praesens_er": "befürchtet",
+            "praeteritum": "befürchtete",
+            "perfekt": "hat befürchtet",
+            "partizip_2_form": "befürchtet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "befürchtet",
+                "korean": "우려되는, 두려워하는"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "ausüben",
+        "korean": "행사하다, 수행하다",
+        "verb_forms": {
+            "praesens_er": "übt aus",
+            "praeteritum": "übte aus",
+            "perfekt": "hat ausgeübt",
+            "partizip_2_form": "ausgeübt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ausübend",
+                "korean": "행사하는, 수행하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "ausgeübt",
+                "korean": "행사된, 수행된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "vertreiben",
+        "korean": "쫓아내다, 판매하다",
+        "verb_forms": {
+            "praesens_er": "vertreibt",
+            "praeteritum": "vertrieb",
+            "perfekt": "hat vertrieben",
+            "partizip_2_form": "vertrieben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vertrieben",
+                "korean": "쫓겨난, 판매된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "부사",
+        "word": "infolgedessen",
+        "korean": "그 결과로, 따라서",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "fassen",
+        "korean": "붙잡다, 이해하다",
+        "verb_forms": {
+            "praesens_er": "fasst",
+            "praeteritum": "fasste",
+            "perfekt": "hat gefasst",
+            "partizip_2_form": "gefasst"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fassend",
+                "korean": "붙잡는, 이해하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefasst",
+                "korean": "침착한, 잡힌"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "fälschen",
+        "korean": "위조하다, 속이다",
+        "verb_forms": {
+            "praesens_er": "fälscht",
+            "praeteritum": "fälschte",
+            "perfekt": "hat gefälscht",
+            "partizip_2_form": "gefälscht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fälschend",
+                "korean": "위조하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefälscht",
+                "korean": "위조된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "명사",
+        "word": "Miene",
+        "korean": "표정, 얼굴빛",
+        "gender": "die",
+        "plural": "Mienen",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "anweisen",
+        "korean": "지시하다, 의존하다",
+        "verb_forms": {
+            "praesens_er": "weist an",
+            "praeteritum": "wies an",
+            "perfekt": "hat angewiesen",
+            "partizip_2_form": "angewiesen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "anweisend",
+                "korean": "지시하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "angewiesen",
+                "korean": "지시받은, 의존하는"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "schmeicheln",
+        "korean": "아첨하다, 칭찬하다",
+        "verb_forms": {
+            "praesens_er": "schmeichelt",
+            "praeteritum": "schmeichelte",
+            "perfekt": "hat geschmeichelt",
+            "partizip_2_form": "geschmeichelt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schmeichelnd",
+                "korean": "아첨하는, 칭찬하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschmeichelt",
+                "korean": "아첨받은"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "entgegnen",
+        "korean": "대답하다, 반박하다",
+        "verb_forms": {
+            "praesens_er": "entgegnet",
+            "praeteritum": "entgegnete",
+            "perfekt": "hat entgegnet",
+            "partizip_2_form": "entgegnet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "entgegnend",
+                "korean": "대답하는, 반박하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "entgegnet",
+                "korean": "대답된, 반박된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "untrennbar",
+        "korean": "분리할 수 없는",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "unbestimmt",
+        "korean": "불확실한, 정해지지 않은",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "nominal",
+        "korean": "명사의, 명목상의",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "reflexiv",
+        "korean": "재귀적인",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "norddeutsch",
+        "korean": "북독일의",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "geeignet",
+        "korean": "적합한, 알맞은",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "zusammengesetzt",
+        "korean": "합성된, 복합적인",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "hypothetisch",
+        "korean": "가설적인, 가정적인",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "irreal",
+        "korean": "비현실적인, 가상의",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "moderat",
+        "korean": "온건한, 적당한",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "bissig",
+        "korean": "무는, 사나운",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "madagassisch",
+        "korean": "마다가스카르의",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "sogenannt",
+        "korean": "소위, 이른바",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "ehren",
+        "korean": "존경하다, 명예를 주다",
+        "verb_forms": {
+            "praesens_er": "ehrt",
+            "praeteritum": "ehrte",
+            "perfekt": "hat geehrt",
+            "partizip_2_form": "geehrt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ehrend",
+                "korean": "존경하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geehrt",
+                "korean": "존경받는, 영광스러운"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "bisherig",
+        "korean": "지금까지의, 종전의",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "eingrenzen",
+        "korean": "제한하다, 한정하다",
+        "verb_forms": {
+            "praesens_er": "grenzt ein",
+            "praeteritum": "grenzte ein",
+            "perfekt": "hat eingegrenzt",
+            "partizip_2_form": "eingegrenzt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "eingrenzend",
+                "korean": "제한하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "eingegrenzt",
+                "korean": "제한된, 한정된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "analog",
+        "korean": "유사한, 아날로그의",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "entsprechen",
+        "korean": "~에 부합하다, 일치하다",
+        "verb_forms": {
+            "praesens_er": "entspricht",
+            "praeteritum": "entsprach",
+            "perfekt": "hat entsprochen",
+            "partizip_2_form": "entsprochen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "entsprechend",
+                "korean": "해당하는, 상응하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "auffällig",
+        "korean": "눈에 띄는, 두드러진",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "liberal",
+        "korean": "자유주의의, 관대한",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "wiederholt",
+        "korean": "반복된",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "zukünftig",
+        "korean": "미래의, 장래의",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "vorzeitig",
+        "korean": "이른, 시기상조의",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "final",
+        "korean": "최종적인, 마지막의",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "auftretend",
+        "korean": "나타나는, 발생하는",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "abgeleitet",
+        "korean": "파생된, 유래된",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "wissenschaftlich",
+        "korean": "과학적인",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "vorausgehend",
+        "korean": "선행하는, 앞서는",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "abstrakt",
+        "korean": "추상적인",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "zugehörig",
+        "korean": "소속된, 관련된",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "fortgeschritten",
+        "korean": "진보된, 고급의",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "unzusammenhängend",
+        "korean": "일관성 없는, 단절된",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "angewiesen",
+        "korean": "~에 의존하는, ~에 좌우되는",
+        "cefr": "B2"
+    },
+    {
+        "type": "부사",
+        "word": "weswegen",
+        "korean": "무슨 이유로, 왜",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "bezeichnend",
+        "korean": "특징적인, 의미심장한",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "charakteristisch",
+        "korean": "특징적인",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "entsetzt",
+        "korean": "경악한, 충격받은",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "vergleichbar",
+        "korean": "비교할 수 있는",
+        "cefr": "B2"
+    },
+    {
+        "type": "부사",
+        "word": "eindeutig",
+        "korean": "명백히",
+        "cefr": "B2"
+    },
+    {
+        "type": "부사",
+        "word": "untrennbar",
+        "korean": "분리할 수 없게",
+        "cefr": "B2"
+    },
+    {
+        "type": "부사",
+        "word": "unbetont",
+        "korean": "강세 없이",
+        "cefr": "B2"
+    },
+    {
+        "type": "부사",
+        "word": "ungebräuchlich",
+        "korean": "흔히 쓰이지 않는",
+        "cefr": "B2"
+    },
+    {
+        "type": "부사",
+        "word": "vergeblich",
+        "korean": "헛되이",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "kursiv",
+        "korean": "이탤릭체의",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "unveränderlich",
+        "korean": "변하지 않는, 불변의",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "geistreich",
+        "korean": "재치 있는, 기발한",
+        "cefr": "B2"
+    },
+    {
+        "type": "부사",
+        "word": "zugrunde",
+        "korean": "기초하여, 파멸하여",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "bündig",
+        "korean": "간결한, 딱 맞는",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "benutzerfreundlich",
+        "korean": "사용자 친화적인",
+        "cefr": "B2"
+    },
+    {
+        "type": "부사",
+        "word": "ausnahmslos",
+        "korean": "예외 없이",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "konsequent",
+        "korean": "일관성 있는",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "fakultativ",
+        "korean": "선택적인, 선택적으로",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "obligatorisch",
+        "korean": "의무적인, 의무적으로",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "rücksichtslos",
+        "korean": "무자비한, 무모한",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "berechtigt",
+        "korean": "정당한, 권한이 있는",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "entschlossen",
+        "korean": "결심한, 단호한",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "ungewiss",
+        "korean": "불확실한",
+        "cefr": "B2"
+    },
+    {
+        "type": "부사",
+        "word": "folglich",
+        "korean": "결과적으로, 따라서",
+        "cefr": "B2"
+    },
+    {
+        "type": "기타",
+        "word": "wodurch",
+        "korean": "무엇에 의해, 그로 인해",
+        "cefr": "B2"
+    },
+    {
+        "type": "기타",
+        "word": "indem",
+        "korean": "~함으로써, ~하는 동안에",
+        "cefr": "B2"
+    },
+    {
+        "type": "부사",
+        "word": "neuerdings",
+        "korean": "요즘, 최근에",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "spiegelglatt",
+        "korean": "거울처럼 매끄러운",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "ausgestorben",
+        "korean": "멸종된, 사라진",
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "geboten",
+        "korean": "제공된, 요구된",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "gleichen",
+        "korean": "닮다, 비슷하다",
+        "verb_forms": {
+            "praesens_er": "gleicht",
+            "praeteritum": "glich",
+            "perfekt": "hat geglichen",
+            "partizip_2_form": "geglichen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gleichend",
+                "korean": "닮은, 비슷한"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geglichen",
+                "korean": "균형 잡힌, 평형을 이룬"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "형용사",
+        "word": "gelassen",
+        "korean": "침착한, 태연한",
+        "cefr": "B2"
+    },
+    {
+        "type": "전치사",
+        "word": "trotz",
+        "korean": "~에도 불구하고",
+        "cefr": "B2"
+    },
+    {
+        "type": "전치사",
+        "word": "aufgrund",
+        "korean": "~때문에",
+        "cefr": "B2"
+    },
+    {
+        "type": "전치사",
+        "word": "innerhalb",
+        "korean": "~안에",
+        "cefr": "B2"
+    },
+    {
+        "type": "전치사",
+        "word": "außerhalb",
+        "korean": "~밖에",
+        "cefr": "B2"
+    },
+    {
+        "type": "전치사",
+        "word": "entgegen",
+        "korean": "~에 반하여",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "protestieren",
+        "korean": "~에 반대하여 시위하다",
+        "fixed_preposition": "gegen (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "protestiert",
+            "praeteritum": "protestierte",
+            "perfekt": "hat protestiert",
+            "partizip_2_form": "protestiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "protestierend",
+                "korean": "시위하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "protestiert",
+                "korean": "시위된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "unterscheiden",
+        "korean": "구별하다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "unterscheidet",
+            "praeteritum": "unterschied",
+            "perfekt": "hat unterschieden",
+            "partizip_2_form": "unterschieden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "unterscheidend",
+                "korean": "구별하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "unterschieden",
+                "korean": "구별된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "hervorgehen",
+        "korean": "~에서 나오다, ~에서 유래하다",
+        "fixed_preposition": "aus (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er geht hervor",
+            "praeteritum": "er ging hervor",
+            "perfekt": "er ist hervorgegangen",
+            "partizip_2_form": "hervorgegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "hervorgehend",
+                "korean": "나오는, 유래하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "hervorgegangen",
+                "korean": "나온, 유래한"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verhandeln mit",
+        "korean": "~와 협상하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "verhandelt",
+            "praeteritum": "verhandelte",
+            "perfekt": "hat verhandelt",
+            "partizip_2_form": "verhandelt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verhandelnd",
+                "korean": "협상하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verhandelt",
+                "korean": "협상된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verhandeln über",
+        "korean": "~에 대해 협상하다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "verhandelt",
+            "praeteritum": "verhandelte",
+            "perfekt": "hat verhandelt",
+            "partizip_2_form": "verhandelt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verhandelnd",
+                "korean": "협상하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verhandelt",
+                "korean": "협상된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "herrschen",
+        "korean": "~을 지배하다, 통치하다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "herrscht",
+            "praeteritum": "herrschte",
+            "perfekt": "hat geherrscht",
+            "partizip_2_form": "geherrscht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "herrschend",
+                "korean": "지배하는, 통치하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "vorlegen",
+        "korean": "제출하다, 제시하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "legt vor",
+            "praeteritum": "legte vor",
+            "perfekt": "hat vorgelegt",
+            "partizip_2_form": "vorgelegt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vorgelegt",
+                "korean": "제출된, 제시된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "entgegenkommen",
+        "korean": "마중 나가다, (요구에) 응하다",
+        "verb_forms": {
+            "praesens_er": "kommt entgegen",
+            "praeteritum": "kam entgegen",
+            "perfekt": "ist entgegengekommen",
+            "partizip_2_form": "entgegengekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "entgegenkommend",
+                "korean": "마중 나가는, 응하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "entgegengekommen",
+                "korean": "마중 나간, 응해진"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "vorsehen",
+        "korean": "미리 준비하다, 예견하다",
+        "verb_forms": {
+            "praesens_er": "sieht vor",
+            "praeteritum": "sah vor",
+            "perfekt": "hat vorgesehen",
+            "partizip_2_form": "vorgesehen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vorsehend",
+                "korean": "미리 준비하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vorgesehen",
+                "korean": "미리 준비된, 예견된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "spezialisieren auf",
+        "korean": "~을 전문으로 하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "spezialisiert",
+            "praeteritum": "spezialisierte",
+            "perfekt": "hat spezialisiert",
+            "partizip_2_form": "spezialisiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "spezialisierend",
+                "korean": "전문으로 하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "spezialisiert",
+                "korean": "전문화된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "stoßen auf",
+        "korean": "~을 우연히 발견하다, 마주치다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "stößt",
+            "praeteritum": "stieß",
+            "perfekt": "ist gestoßen",
+            "partizip_2_form": "gestoßen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "stoßend",
+                "korean": "부딪히는, 마주치는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gestoßen",
+                "korean": "부딪힌, 마주친"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "treten für",
+        "korean": "~을 옹호하다, 지지하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "tritt",
+            "praeteritum": "trat",
+            "perfekt": "hat getreten",
+            "partizip_2_form": "getreten"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "tretend",
+                "korean": "옹호하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "getreten",
+                "korean": "옹호된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "verstoßen gegen",
+        "korean": "~을 위반하다, 어기다",
+        "fixed_preposition": "gegen (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "verstößt",
+            "praeteritum": "verstieß",
+            "perfekt": "hat verstoßen",
+            "partizip_2_form": "verstoßen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verstoßend",
+                "korean": "위반하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verstoßen",
+                "korean": "위반된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "wenden gegen",
+        "korean": "~에 반대하다, 대항하다",
+        "fixed_preposition": "gegen (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "wendet",
+            "praeteritum": "wendete",
+            "perfekt": "hat gewendet",
+            "partizip_2_form": "gewendet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wendend",
+                "korean": "돌리는, 대항하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gewendet",
+                "korean": "돌려진, 대항된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "überreden zu",
+        "korean": "~하도록 설득하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "überredet",
+            "praeteritum": "überredete",
+            "perfekt": "hat überredet",
+            "partizip_2_form": "überredet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "überredend",
+                "korean": "설득하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "überredet",
+                "korean": "설득된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "berechtigen zu",
+        "korean": "~에 대한 권한을 주다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "berechtigt",
+            "praeteritum": "berechtigte",
+            "perfekt": "hat berechtigt",
+            "partizip_2_form": "berechtigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "berechtigend",
+                "korean": "권한을 주는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "berechtigt",
+                "korean": "권한이 있는, 정당한"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "기타",
+        "word": "verwanden mit",
+        "korean": "변형시키다 (~으로)",
+        "cefr": "B2"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "beziehen auf",
+        "korean": "~에 관련시키다, ~을 참조하다 (sich beziehen auf)",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "bezieht",
+            "praeteritum": "bezog",
+            "perfekt": "hat bezogen",
+            "partizip_2_form": "bezogen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "beziehend",
+                "korean": "관련시키는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "bezogen",
+                "korean": "관련된"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "auffangen",
+        "korean": "받아내다, 붙잡다",
+        "verb_forms": {
+            "praesens_er": "fängt auf",
+            "praeteritum": "fing auf",
+            "perfekt": "hat aufgefangen",
+            "partizip_2_form": "aufgefangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "auffangend",
+                "korean": "받아내는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "aufgefangen",
+                "korean": "받아내진"
+            }
+        },
+        "cefr": "B2"
+    },
+    {
+        "type": "동사",
+        "word": "nachsagen",
+        "korean": "따라 말하다, ~라고 평하다",
+        "verb_forms": {
+            "praesens_er": "sagt nach",
+            "praeteritum": "sagte nach",
+            "perfekt": "hat nachgesagt",
+            "partizip_2_form": "nachgesagt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "nachsagend",
+                "korean": "따라 말하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "nachgesagt",
+                "korean": "따라 말해진"
+            }
+        },
+        "cefr": "B2"
+    }
+]

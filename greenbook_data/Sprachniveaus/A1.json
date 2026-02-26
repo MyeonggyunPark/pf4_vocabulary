@@ -1,0 +1,7629 @@
+[
+    {
+        "type": "명사",
+        "word": "Kind",
+        "korean": "아이",
+        "gender": "das",
+        "plural": "Kinder",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Haus",
+        "korean": "집",
+        "gender": "das",
+        "plural": "Häuser",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Frau",
+        "korean": "여성",
+        "gender": "die",
+        "plural": "Frauen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Freund",
+        "korean": "친구",
+        "gender": "der",
+        "plural": "Freunde",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Student",
+        "korean": "학생 (남성)",
+        "gender": "der",
+        "plural": "Studenten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Buch",
+        "korean": "책",
+        "gender": "das",
+        "plural": "Bücher",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Auto",
+        "korean": "자동차",
+        "gender": "das",
+        "plural": "Autos",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Frage",
+        "korean": "질문",
+        "gender": "die",
+        "plural": "Fragen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Verb",
+        "korean": "동사",
+        "gender": "das",
+        "plural": "Verben",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Zug",
+        "korean": "기차",
+        "gender": "der",
+        "plural": "Züge",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Herr",
+        "korean": "씨, 남성",
+        "gender": "der",
+        "plural": "Herren",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Eltern",
+        "korean": "부모님",
+        "gender": "die",
+        "plural": "Eltern",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Satz",
+        "korean": "문장",
+        "gender": "der",
+        "plural": "Sätze",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Artikel",
+        "korean": "관사, 기사",
+        "gender": "der",
+        "plural": "Artikel",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Jahr",
+        "korean": "년, 해",
+        "gender": "das",
+        "plural": "Jahre",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Zimmer",
+        "korean": "방",
+        "gender": "das",
+        "plural": "Zimmer",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bruder",
+        "korean": "형제",
+        "gender": "der",
+        "plural": "Brüder",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mann",
+        "korean": "남자, 남편",
+        "gender": "der",
+        "plural": "Männer",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fahrrad",
+        "korean": "자전거",
+        "gender": "das",
+        "plural": "Fahrräder",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Uhr",
+        "korean": "시계, 시간",
+        "gender": "die",
+        "plural": "Uhren",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Vater",
+        "korean": "아버지",
+        "gender": "der",
+        "plural": "Väter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mutter",
+        "korean": "어머니",
+        "gender": "die",
+        "plural": "Mütter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Freundin",
+        "korean": "여자친구",
+        "gender": "die",
+        "plural": "Freundinnen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Leute",
+        "korean": "사람들",
+        "gender": "die",
+        "plural": "Leute",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Deutsch",
+        "korean": "독일어",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Zeit",
+        "korean": "시간",
+        "gender": "die",
+        "plural": "Zeiten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Stadt",
+        "korean": "도시",
+        "gender": "die",
+        "plural": "Städte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bus",
+        "korean": "버스",
+        "gender": "der",
+        "plural": "Busse",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wohnung",
+        "korean": "아파트, 집",
+        "gender": "die",
+        "plural": "Wohnungen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Subjekt",
+        "korean": "주어",
+        "gender": "das",
+        "plural": "Subjekte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Arbeit",
+        "korean": "일, 직업",
+        "gender": "die",
+        "plural": "Arbeiten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Geld",
+        "korean": "돈",
+        "gender": "das",
+        "plural": "Gelder",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tür",
+        "korean": "문",
+        "gender": "die",
+        "plural": "Türen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Familie",
+        "korean": "가족",
+        "gender": "die",
+        "plural": "Familien",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Nachbar",
+        "korean": "이웃",
+        "gender": "der",
+        "plural": "Nachbarn",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mensch",
+        "korean": "사람",
+        "gender": "der",
+        "plural": "Menschen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Ferien",
+        "korean": "방학, 휴가",
+        "gender": "die",
+        "plural": "Ferien",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schwester",
+        "korean": "자매",
+        "gender": "die",
+        "plural": "Schwestern",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bahnhof",
+        "korean": "기차역",
+        "gender": "der",
+        "plural": "Bahnhöfe",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tag",
+        "korean": "날, 낮",
+        "gender": "der",
+        "plural": "Tage",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Lehrer",
+        "korean": "교사",
+        "gender": "der",
+        "plural": "Lehrer",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Person",
+        "korean": "사람",
+        "gender": "die",
+        "plural": "Personen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Abend",
+        "korean": "저녁",
+        "gender": "der",
+        "plural": "Abende",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Text",
+        "korean": "텍스트, 본문",
+        "gender": "der",
+        "plural": "Texte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Arzt",
+        "korean": "의사",
+        "gender": "der",
+        "plural": "Ärzte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Ende",
+        "korean": "끝",
+        "gender": "das",
+        "plural": "Enden",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Land",
+        "korean": "나라, 땅",
+        "gender": "das",
+        "plural": "Länder",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kino",
+        "korean": "영화관",
+        "gender": "das",
+        "plural": "Kinos",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Name",
+        "korean": "이름",
+        "gender": "der",
+        "plural": "Namen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Brief",
+        "korean": "편지",
+        "gender": "der",
+        "plural": "Briefe",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Straße",
+        "korean": "거리, 길",
+        "gender": "die",
+        "plural": "Straßen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fenster",
+        "korean": "창문",
+        "gender": "das",
+        "plural": "Fenster",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Hilfe",
+        "korean": "도움",
+        "gender": "die",
+        "plural": "Hilfen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sprachkurs",
+        "korean": "어학 코스",
+        "gender": "der",
+        "plural": "Sprachkurse",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Unterricht",
+        "korean": "수업",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Film",
+        "korean": "영화",
+        "gender": "der",
+        "plural": "Filme",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Problem",
+        "korean": "문제",
+        "gender": "das",
+        "plural": "Probleme",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tisch",
+        "korean": "테이블",
+        "gender": "der",
+        "plural": "Tische",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Adjektiv",
+        "korean": "형용사",
+        "gender": "das",
+        "plural": "Adjektive",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Negation",
+        "korean": "부정",
+        "gender": "die",
+        "plural": "Negationen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Studentin",
+        "korean": "여대생",
+        "gender": "die",
+        "plural": "Studentinnen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Taxi",
+        "korean": "택시",
+        "gender": "das",
+        "plural": "Taxis",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Hotel",
+        "korean": "호텔",
+        "gender": "das",
+        "plural": "Hotels",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Antwort",
+        "korean": "답변",
+        "gender": "die",
+        "plural": "Antworten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Essen",
+        "korean": "음식",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Seite",
+        "korean": "쪽, 페이지",
+        "gender": "die",
+        "plural": "Seiten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sprache",
+        "korean": "언어",
+        "gender": "die",
+        "plural": "Sprachen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bett",
+        "korean": "침대",
+        "gender": "das",
+        "plural": "Betten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tochter",
+        "korean": "딸",
+        "gender": "die",
+        "plural": "Töchter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Woche",
+        "korean": "주",
+        "gender": "die",
+        "plural": "Wochen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Brot",
+        "korean": "빵",
+        "gender": "das",
+        "plural": "Brote",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Monat",
+        "korean": "월",
+        "gender": "der",
+        "plural": "Monate",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schüler",
+        "korean": "학생",
+        "gender": "der",
+        "plural": "Schüler",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sohn",
+        "korean": "아들",
+        "gender": "der",
+        "plural": "Söhne",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schlüssel",
+        "korean": "열쇠",
+        "gender": "der",
+        "plural": "Schlüssel",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Hausaufgabe",
+        "korean": "숙제",
+        "gender": "die",
+        "plural": "Hausaufgaben",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Stunde",
+        "korean": "시간",
+        "gender": "die",
+        "plural": "Stunden",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tee",
+        "korean": "차",
+        "gender": "der",
+        "plural": "Tees",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kaffee",
+        "korean": "커피",
+        "gender": "der",
+        "plural": "Kaffees",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Nacht",
+        "korean": "밤",
+        "gender": "die",
+        "plural": "Nächte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Foto",
+        "korean": "사진",
+        "gender": "das",
+        "plural": "Fotos",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Nominativ",
+        "korean": "1격, 주격",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wetter",
+        "korean": "날씨",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "Nein",
+        "korean": "아니요",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wort",
+        "korean": "단어",
+        "gender": "das",
+        "plural": "Wörter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fehler",
+        "korean": "오류, 실수",
+        "gender": "der",
+        "plural": "Fehler",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sache",
+        "korean": "물건, 일",
+        "gender": "die",
+        "plural": "Sachen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wasser",
+        "korean": "물",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Hand",
+        "korean": "손",
+        "gender": "die",
+        "plural": "Hände",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bild",
+        "korean": "그림, 사진",
+        "gender": "das",
+        "plural": "Bilder",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sonne",
+        "korean": "태양",
+        "gender": "die",
+        "plural": "Sonnen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wochenende",
+        "korean": "주말",
+        "gender": "das",
+        "plural": "Wochenenden",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Hund",
+        "korean": "개",
+        "gender": "der",
+        "plural": "Hunde",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wein",
+        "korean": "와인",
+        "gender": "der",
+        "plural": "Weine",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Blume",
+        "korean": "꽃",
+        "gender": "die",
+        "plural": "Blumen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Lampe",
+        "korean": "램프",
+        "gender": "die",
+        "plural": "Lampen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Übung",
+        "korean": "연습",
+        "gender": "die",
+        "plural": "Übungen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Aufgabe",
+        "korean": "과제",
+        "gender": "die",
+        "plural": "Aufgaben",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Geburtstag",
+        "korean": "생일",
+        "gender": "der",
+        "plural": "Geburtstage",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Urlaub",
+        "korean": "휴가",
+        "gender": "der",
+        "plural": "Urlaube",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Berg",
+        "korean": "산",
+        "gender": "der",
+        "plural": "Berge",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Adresse",
+        "korean": "주소",
+        "gender": "die",
+        "plural": "Adressen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kartoffel",
+        "korean": "감자",
+        "gender": "die",
+        "plural": "Kartoffeln",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Nachmittag",
+        "korean": "오후",
+        "gender": "der",
+        "plural": "Nachmittage",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "Nee",
+        "korean": "아니, 아니요",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Deutsche",
+        "korean": "독일인",
+        "gender": "der/die",
+        "plural": "Deutschen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Personalpronomen",
+        "korean": "인칭대명사",
+        "gender": "das",
+        "plural": "Personalpronomen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Stuhl",
+        "korean": "의자",
+        "gender": "der",
+        "plural": "Stühle",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Telefonnummer",
+        "korean": "전화번호",
+        "gender": "die",
+        "plural": "Telefonnummern",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Koffer",
+        "korean": "여행 가방",
+        "gender": "der",
+        "plural": "Koffer",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Minute",
+        "korean": "분",
+        "gender": "die",
+        "plural": "Minuten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Radio",
+        "korean": "라디오",
+        "gender": "das",
+        "plural": "Radios",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fuß",
+        "korean": "발",
+        "gender": "der",
+        "plural": "Füße",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Baum",
+        "korean": "나무",
+        "gender": "der",
+        "plural": "Bäume",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wörterbuch",
+        "korean": "사전",
+        "gender": "das",
+        "plural": "Wörterbücher",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wand",
+        "korean": "벽",
+        "gender": "die",
+        "plural": "Wände",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Geschwister",
+        "korean": "형제자매",
+        "gender": null,
+        "plural": "Geschwister",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Großeltern",
+        "korean": "조부모",
+        "gender": "die",
+        "plural": "Großeltern",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Preis",
+        "korean": "가격, 상",
+        "gender": "der",
+        "plural": "Preise",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Garten",
+        "korean": "정원",
+        "gender": "der",
+        "plural": "Gärten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wagen",
+        "korean": "차, 수레",
+        "gender": "der",
+        "plural": "Wagen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Großmutter",
+        "korean": "할머니",
+        "gender": "die",
+        "plural": "Großmütter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bier",
+        "korean": "맥주",
+        "gender": "das",
+        "plural": "Biere",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Lernen",
+        "korean": "학습",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tasche",
+        "korean": "가방, 주머니",
+        "gender": "die",
+        "plural": "Taschen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Akkusativ",
+        "korean": "4격, 대격",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Beispiel",
+        "korean": "예시",
+        "gender": "das",
+        "plural": "Beispiele",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "kennen",
+        "korean": "~로부터 알다",
+        "verb_forms": {
+            "praesens_er": "kennt",
+            "praeteritum": "kannte",
+            "perfekt": "hat gekannt",
+            "partizip_2_form": "gekannt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kennend",
+                "korean": "아는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gekannt",
+                "korean": "알려진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Computer",
+        "korean": "컴퓨터",
+        "gender": "der",
+        "plural": "Computer",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Onkel",
+        "korean": "삼촌",
+        "gender": "der",
+        "plural": "Onkel",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Regen",
+        "korean": "비",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fragewort",
+        "korean": "의문사",
+        "gender": "das",
+        "plural": "Fragewörter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Raum",
+        "korean": "방, 공간",
+        "gender": "der",
+        "plural": "Räume",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Präsens",
+        "korean": "현재형",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Milch",
+        "korean": "우유",
+        "gender": "die",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kurs",
+        "korean": "강좌, 코스",
+        "gender": "der",
+        "plural": "Kurse",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bank",
+        "korean": "은행; 벤치",
+        "gender": "die",
+        "plural": "Banken",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Haar",
+        "korean": "머리카락, 털",
+        "gender": "das",
+        "plural": "Haare",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Pullover",
+        "korean": "스웨터",
+        "gender": "der",
+        "plural": "Pullover",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Party",
+        "korean": "파티",
+        "gender": "die",
+        "plural": "Partys",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schrank",
+        "korean": "옷장, 찬장",
+        "gender": "der",
+        "plural": "Schränke",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mädchen",
+        "korean": "소녀",
+        "gender": "das",
+        "plural": "Mädchen",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "alt",
+        "korean": "늙은, 오래된",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schule",
+        "korean": "학교",
+        "gender": "die",
+        "plural": "Schulen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Weg",
+        "korean": "길",
+        "gender": "der",
+        "plural": "Wege",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Katze",
+        "korean": "고양이",
+        "gender": "die",
+        "plural": "Katzen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Teil",
+        "korean": "부분",
+        "gender": "der",
+        "plural": "Teile",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Baby",
+        "korean": "아기",
+        "gender": "das",
+        "plural": "Babys",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "setzen",
+        "korean": "앉히다, 놓다",
+        "verb_forms": {
+            "praesens_er": "er setzt",
+            "praeteritum": "er setzte",
+            "perfekt": "er hat gesetzt",
+            "partizip_2_form": "gesetzt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "setzend",
+                "korean": "놓는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesetzt",
+                "korean": "놓여진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fußballspiel",
+        "korean": "축구 경기",
+        "gender": "das",
+        "plural": "Fußballspiele",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Morgen",
+        "korean": "아침",
+        "gender": "der",
+        "plural": "Morgen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "See",
+        "korean": "호수/바다",
+        "gender": "der/die",
+        "plural": "Seen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Ball",
+        "korean": "공",
+        "gender": "der",
+        "plural": "Bälle",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Ärztin",
+        "korean": "여의사",
+        "gender": "die",
+        "plural": "Ärztinnen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Platz",
+        "korean": "장소, 자리, 광장",
+        "gender": "der",
+        "plural": "Plätze",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Licht",
+        "korean": "빛",
+        "gender": "das",
+        "plural": "Lichter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fernseher",
+        "korean": "텔레비전",
+        "gender": "der",
+        "plural": "Fernseher",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Glas",
+        "korean": "유리, 잔",
+        "gender": "das",
+        "plural": "Gläser",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Zahn",
+        "korean": "이, 치아",
+        "gender": "der",
+        "plural": "Zähne",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tier",
+        "korean": "동물",
+        "gender": "das",
+        "plural": "Tiere",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Luft",
+        "korean": "공기",
+        "gender": "die",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Obst",
+        "korean": "과일",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Farbe",
+        "korean": "색깔",
+        "gender": "die",
+        "plural": "Farben",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Käse",
+        "korean": "치즈",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Haustür",
+        "korean": "현관문",
+        "gender": "die",
+        "plural": "Haustüren",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Handy",
+        "korean": "휴대폰",
+        "gender": "das",
+        "plural": "Handys",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "geben",
+        "korean": "주다",
+        "verb_forms": {
+            "praesens_er": "gibt",
+            "praeteritum": "gab",
+            "perfekt": "hat gegeben",
+            "partizip_2_form": "gegeben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gebend",
+                "korean": "주는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gegeben",
+                "korean": "주어진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Euro",
+        "korean": "유로",
+        "gender": "der",
+        "plural": "Euro",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Küche",
+        "korean": "부엌, 요리",
+        "gender": "die",
+        "plural": "Küchen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Frühstück",
+        "korean": "아침 식사",
+        "gender": "das",
+        "plural": "Frühstücke",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sonntag",
+        "korean": "일요일",
+        "gender": "der",
+        "plural": "Sonntage",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Samstag",
+        "korean": "토요일",
+        "gender": "der",
+        "plural": "Samstage",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Punkt",
+        "korean": "점, 요점, 시점",
+        "gender": "der",
+        "plural": "Punkte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Januar",
+        "korean": "1월",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Leben",
+        "korean": "삶, 인생",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fernsehen",
+        "korean": "텔레비전, TV 시청",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Rad",
+        "korean": "바퀴",
+        "gender": "das",
+        "plural": "Räder",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Brötchen",
+        "korean": "작은 빵, 롤빵",
+        "gender": "das",
+        "plural": "Brötchen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Post",
+        "korean": "우편, 우체국",
+        "gender": "die",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sommer",
+        "korean": "여름",
+        "gender": "der",
+        "plural": "Sommer",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Lehrerin",
+        "korean": "여교사",
+        "gender": "die",
+        "plural": "Lehrerinnen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Restaurant",
+        "korean": "레스토랑",
+        "gender": "das",
+        "plural": "Restaurants",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bitte",
+        "korean": "부탁, 요청",
+        "gender": "die",
+        "plural": "Bitten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Eis",
+        "korean": "얼음, 아이스크림",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tomate",
+        "korean": "토마토",
+        "gender": "die",
+        "plural": "Tomaten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fußball",
+        "korean": "축구, 축구공",
+        "gender": "der",
+        "plural": "Fußbälle",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Abendessen",
+        "korean": "저녁 식사",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Hunger",
+        "korean": "배고픔, 굶주림",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Lied",
+        "korean": "노래",
+        "gender": "das",
+        "plural": "Lieder",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Winter",
+        "korean": "겨울",
+        "gender": "der",
+        "plural": "Winter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wald",
+        "korean": "숲",
+        "gender": "der",
+        "plural": "Wälder",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Butter",
+        "korean": "버터",
+        "gender": "die",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Gemüse",
+        "korean": "채소",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Möbel",
+        "korean": "가구",
+        "gender": "die",
+        "plural": "Möbel",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "gut",
+        "korean": "좋은",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Handtuch",
+        "korean": "수건",
+        "gender": "das",
+        "plural": "Handtücher",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mal",
+        "korean": "번, 차례",
+        "gender": "das",
+        "plural": "Male",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kleidung",
+        "korean": "옷, 의류",
+        "gender": "die",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Lesen",
+        "korean": "읽기",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Vogel",
+        "korean": "새",
+        "gender": "der",
+        "plural": "Vögel",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Boden",
+        "korean": "바닥, 흙",
+        "gender": "der",
+        "plural": "Böden",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sofa",
+        "korean": "소파",
+        "gender": "das",
+        "plural": "Sofas",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Café",
+        "korean": "카페",
+        "gender": "das",
+        "plural": "Cafés",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Meter",
+        "korean": "미터",
+        "gender": "der",
+        "plural": "Meter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Großvater",
+        "korean": "할아버지",
+        "gender": "der",
+        "plural": "Großväter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Suchen",
+        "korean": "찾기, 탐색",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Himmel",
+        "korean": "하늘",
+        "gender": "der",
+        "plural": "Himmel",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schuh",
+        "korean": "신발",
+        "gender": "der",
+        "plural": "Schuhe",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schreiben",
+        "korean": "쓰기, 편지",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Apfel",
+        "korean": "사과",
+        "gender": "der",
+        "plural": "Äpfel",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Stück",
+        "korean": "조각, 부분",
+        "gender": "das",
+        "plural": "Stücke",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Markt",
+        "korean": "시장",
+        "gender": "der",
+        "plural": "Märkte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Dorf",
+        "korean": "마을",
+        "gender": "das",
+        "plural": "Dörfer",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Spaß",
+        "korean": "재미, 농담",
+        "gender": "der",
+        "plural": "Späße",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kuchen",
+        "korean": "케이크",
+        "gender": "der",
+        "plural": "Kuchen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Hose",
+        "korean": "바지",
+        "gender": "die",
+        "plural": "Hosen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Anfang",
+        "korean": "시작",
+        "gender": "der",
+        "plural": "Anfänge",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "müssen",
+        "korean": "~해야 한다",
+        "verb_forms": {
+            "praesens_er": "er muss",
+            "praeteritum": "er musste",
+            "perfekt": "er hat gemusst",
+            "partizip_2_form": "gemusst"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tausend",
+        "korean": "천 (숫자 천, 천 단위)",
+        "gender": "das",
+        "plural": "Tausende",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "fahren",
+        "korean": "운전하다, (탈것을 타고) 가다",
+        "verb_forms": {
+            "praesens_er": "fährt",
+            "praeteritum": "fuhr",
+            "perfekt": "ist gefahren",
+            "partizip_2_form": "gefahren"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fahrend",
+                "korean": "운전하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": "gefahren",
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kühlschrank",
+        "korean": "냉장고",
+        "gender": "der",
+        "plural": "Kühlschränke",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Zigarette",
+        "korean": "담배",
+        "gender": "die",
+        "plural": "Zigaretten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schülerin",
+        "korean": "여학생",
+        "gender": "die",
+        "plural": "Schülerinnen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tante",
+        "korean": "이모, 고모, 숙모",
+        "gender": "die",
+        "plural": "Tanten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Handschuh",
+        "korean": "장갑",
+        "gender": "der",
+        "plural": "Handschuhe",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kamera",
+        "korean": "카메라",
+        "gender": "die",
+        "plural": "Kameras",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Rucksack",
+        "korean": "배낭",
+        "gender": "der",
+        "plural": "Rucksäcke",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Beruf",
+        "korean": "직업",
+        "gender": "der",
+        "plural": "Berufe",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "teuer",
+        "korean": "비싼",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Musik",
+        "korean": "음악",
+        "gender": "die",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "zeigen",
+        "korean": "보여주다",
+        "verb_forms": {
+            "praesens_er": "zeigt",
+            "praeteritum": "zeigte",
+            "perfekt": "hat gezeigt",
+            "partizip_2_form": "gezeigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "zeigend",
+                "korean": "보여주는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gezeigt",
+                "korean": "보여진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "können",
+        "korean": "할 수 있다",
+        "verb_forms": {
+            "praesens_er": "kann",
+            "praeteritum": "konnte",
+            "perfekt": "hat gekonnt",
+            "partizip_2_form": "gekonnt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gekonnt",
+                "korean": "능숙한, 숙련된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "wohin",
+        "korean": "어디로",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Ecke",
+        "korean": "모퉁이, 구석",
+        "gender": "die",
+        "plural": "Ecken",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Einkaufen",
+        "korean": "쇼핑, 장보기",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Telefon",
+        "korean": "전화",
+        "gender": "das",
+        "plural": "Telefone",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "wann",
+        "korean": "언제",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kirche",
+        "korean": "교회",
+        "gender": "die",
+        "plural": "Kirchen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Klasse",
+        "korean": "학급, 등급",
+        "gender": "die",
+        "plural": "Klassen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kellner",
+        "korean": "웨이터",
+        "gender": "der",
+        "plural": "Kellner",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Museum",
+        "korean": "박물관",
+        "gender": "das",
+        "plural": "Museen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Frühling",
+        "korean": "봄",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Meer",
+        "korean": "바다",
+        "gender": "das",
+        "plural": "Meere",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tennis",
+        "korean": "테니스",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Junge",
+        "korean": "소년",
+        "gender": "der",
+        "plural": "Jungen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schokolade",
+        "korean": "초콜릿",
+        "gender": "die",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Familienname",
+        "korean": "성(姓)",
+        "gender": "der",
+        "plural": "Familiennamen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fisch",
+        "korean": "물고기",
+        "gender": "der",
+        "plural": "Fische",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Couch",
+        "korean": "소파",
+        "gender": "die",
+        "plural": "Couches",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Flasche",
+        "korean": "병",
+        "gender": "die",
+        "plural": "Flaschen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tafel",
+        "korean": "칠판",
+        "gender": "die",
+        "plural": "Tafeln",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mund",
+        "korean": "입",
+        "gender": "der",
+        "plural": "Münder",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Arm",
+        "korean": "팔",
+        "gender": "der",
+        "plural": "Arme",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kochen",
+        "korean": "요리",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Ding",
+        "korean": "것",
+        "gender": "das",
+        "plural": "Dinge",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Entschuldigung",
+        "korean": "사과",
+        "gender": "die",
+        "plural": "Entschuldigungen",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "sprechen",
+        "korean": "말하다",
+        "verb_forms": {
+            "praesens_er": "spricht",
+            "praeteritum": "sprach",
+            "perfekt": "hat gesprochen",
+            "partizip_2_form": "gesprochen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sprechend",
+                "korean": "말하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesprochen",
+                "korean": "말해진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Spiel",
+        "korean": "놀이",
+        "gender": "das",
+        "plural": "Spiele",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bein",
+        "korean": "다리",
+        "gender": "das",
+        "plural": "Beine",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mai",
+        "korean": "5월",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sport",
+        "korean": "스포츠, 운동",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kopf",
+        "korean": "머리",
+        "gender": "der",
+        "plural": "Köpfe",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Laden",
+        "korean": "가게, 상점",
+        "gender": "der",
+        "plural": "Läden",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "Gestern",
+        "korean": "어제",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Italienisch",
+        "korean": "이탈리아어",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Datum",
+        "korean": "날짜",
+        "gender": "das",
+        "plural": "Daten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Dank",
+        "korean": "감사",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Programm",
+        "korean": "프로그램",
+        "gender": "das",
+        "plural": "Programme",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Messer",
+        "korean": "칼",
+        "gender": "das",
+        "plural": "Messer",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Löffel",
+        "korean": "숟가락",
+        "gender": "der",
+        "plural": "Löffel",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Nachbarin",
+        "korean": "여성 이웃",
+        "gender": "die",
+        "plural": "Nachbarinnen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bäcker",
+        "korean": "제빵사",
+        "gender": "der",
+        "plural": "Bäcker",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kleid",
+        "korean": "옷, 드레스",
+        "gender": "das",
+        "plural": "Kleider",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Papier",
+        "korean": "종이",
+        "gender": "das",
+        "plural": "Papiere",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Regal",
+        "korean": "선반, 책장",
+        "gender": "das",
+        "plural": "Regale",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "mich",
+        "korean": "나를 (4격)",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Banane",
+        "korean": "바나나",
+        "gender": "die",
+        "plural": "Bananen",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "zweit",
+        "korean": "두 번째의",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kilo",
+        "korean": "킬로그램",
+        "gender": "das",
+        "plural": "Kilos",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Zahl",
+        "korean": "숫자, 수",
+        "gender": "die",
+        "plural": "Zahlen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bleistift",
+        "korean": "연필",
+        "gender": "der",
+        "plural": "Bleistifte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Park",
+        "korean": "공원",
+        "gender": "der",
+        "plural": "Parks",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Geschäft",
+        "korean": "가게, 사업",
+        "gender": "das",
+        "plural": "Geschäfte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Dezember",
+        "korean": "12월",
+        "gender": "der",
+        "plural": "Dezember",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Badezimmer",
+        "korean": "욕실",
+        "gender": "das",
+        "plural": "Badezimmer",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schreibtisch",
+        "korean": "책상",
+        "gender": "der",
+        "plural": "Schreibtische",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Englisch",
+        "korean": "영어",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Türkisch",
+        "korean": "터키어",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Karte",
+        "korean": "지도, 카드",
+        "gender": "die",
+        "plural": "Karten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Freizeit",
+        "korean": "여가 시간",
+        "gender": "die",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "gleich",
+        "korean": "같은, 동등한",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Material",
+        "korean": "재료, 자료",
+        "gender": "das",
+        "plural": "Materialien",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "April",
+        "korean": "4월",
+        "gender": "der",
+        "plural": "Aprile",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "nehmen",
+        "korean": "가져가다, 취하다",
+        "verb_forms": {
+            "praesens_er": "nimmt",
+            "praeteritum": "nahm",
+            "perfekt": "hat genommen",
+            "partizip_2_form": "genommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "nehmend",
+                "korean": "가져가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "genommen",
+                "korean": "가져간, 취해진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "warten",
+        "korean": "기다리다",
+        "verb_forms": {
+            "praesens_er": "er wartet",
+            "praeteritum": "er wartete",
+            "perfekt": "er hat gewartet",
+            "partizip_2_form": "gewartet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wartend",
+                "korean": "기다리는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "sitzen",
+        "korean": "앉아 있다",
+        "verb_forms": {
+            "praesens_er": "sitzt",
+            "praeteritum": "saß",
+            "perfekt": "hat gesessen",
+            "partizip_2_form": "gesessen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sitzend",
+                "korean": "앉아 있는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "schlafen",
+        "korean": "자다",
+        "verb_forms": {
+            "praesens_er": "schläft",
+            "praeteritum": "schlief",
+            "perfekt": "hat geschlafen",
+            "partizip_2_form": "geschlafen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schlafend",
+                "korean": "자고 있는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Supermarkt",
+        "korean": "슈퍼마켓",
+        "gender": "der",
+        "plural": "Supermärkte",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "Wen",
+        "korean": "누구를",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sekunde",
+        "korean": "초",
+        "gender": "die",
+        "plural": "Sekunden",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "Danke",
+        "korean": "고마워요, 감사합니다",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bushaltestelle",
+        "korean": "버스 정류장",
+        "gender": "die",
+        "plural": "Bushaltestellen",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "Wer",
+        "korean": "누구",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Ticket",
+        "korean": "티켓, 표",
+        "gender": "das",
+        "plural": "Tickets",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "singen",
+        "korean": "노래하다",
+        "verb_forms": {
+            "praesens_er": "singt",
+            "praeteritum": "sang",
+            "perfekt": "hat gesungen",
+            "partizip_2_form": "gesungen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "singend",
+                "korean": "노래하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesungen",
+                "korean": "불려진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "lernen",
+        "korean": "배우다, 공부하다",
+        "verb_forms": {
+            "praesens_er": "er lernt",
+            "praeteritum": "er lernte",
+            "perfekt": "er hat gelernt",
+            "partizip_2_form": "gelernt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "lernend",
+                "korean": "배우는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelernt",
+                "korean": "배운, 숙련된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "kommen",
+        "korean": "오다",
+        "verb_forms": {
+            "praesens_er": "er kommt",
+            "praeteritum": "er kam",
+            "perfekt": "er ist gekommen",
+            "partizip_2_form": "gekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kommend",
+                "korean": "오는, 다가오는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "stehen",
+        "korean": "서 있다",
+        "verb_forms": {
+            "praesens_er": "steht",
+            "praeteritum": "stand",
+            "perfekt": "hat gestanden",
+            "partizip_2_form": "gestanden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "stehend",
+                "korean": "서 있는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "öffnen",
+        "korean": "열다",
+        "verb_forms": {
+            "praesens_er": "öffnet",
+            "praeteritum": "öffnete",
+            "perfekt": "hat geöffnet",
+            "partizip_2_form": "geöffnet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geöffnet",
+                "korean": "열린"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "entschuldigen",
+        "korean": "용서하다, 변명하다",
+        "verb_forms": {
+            "praesens_er": "entschuldigt",
+            "praeteritum": "entschuldigte",
+            "perfekt": "hat entschuldigt",
+            "partizip_2_form": "entschuldigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "entschuldigend",
+                "korean": "변명하는, 용서하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "entschuldigt",
+                "korean": "용서받은, 변명된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "essen",
+        "korean": "먹다",
+        "verb_forms": {
+            "praesens_er": "er isst",
+            "praeteritum": "er aß",
+            "perfekt": "er hat gegessen",
+            "partizip_2_form": "gegessen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "essend",
+                "korean": "먹고 있는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "sehen",
+        "korean": "보다",
+        "verb_forms": {
+            "praesens_er": "er sieht",
+            "praeteritum": "er sah",
+            "perfekt": "er hat gesehen",
+            "partizip_2_form": "gesehen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sehend",
+                "korean": "보고 있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesehen",
+                "korean": "보여진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "dich",
+        "korean": "너를 (4격)",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Toilette",
+        "korean": "화장실",
+        "gender": "die",
+        "plural": "Toiletten",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "haben",
+        "korean": "가지다, 있다",
+        "verb_forms": {
+            "praesens_er": "er hat",
+            "praeteritum": "er hatte",
+            "perfekt": "er hat gehabt",
+            "partizip_2_form": "gehabt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "habend",
+                "korean": "가지고 있는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "hören",
+        "korean": "듣다",
+        "verb_forms": {
+            "praesens_er": "hört",
+            "praeteritum": "hörte",
+            "perfekt": "hat gehört",
+            "partizip_2_form": "gehört"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "hörend",
+                "korean": "듣는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gehört",
+                "korean": "들린"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "lesen",
+        "korean": "읽다",
+        "verb_forms": {
+            "praesens_er": "er liest",
+            "praeteritum": "er las",
+            "perfekt": "er hat gelesen",
+            "partizip_2_form": "gelesen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "lesend",
+                "korean": "읽고 있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelesen",
+                "korean": "읽혀진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Freitagnachmittag",
+        "korean": "금요일 오후",
+        "gender": "der",
+        "plural": "Freitagnachmittage",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "wissen",
+        "korean": "알다",
+        "verb_forms": {
+            "praesens_er": "er weiß",
+            "praeteritum": "er wusste",
+            "perfekt": "er hat gewusst",
+            "partizip_2_form": "gewusst"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wissend",
+                "korean": "아는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Gesicht",
+        "korean": "얼굴",
+        "gender": "das",
+        "plural": "Gesichter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Haltestelle",
+        "korean": "정류장",
+        "gender": "die",
+        "plural": "Haltestellen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fleisch",
+        "korean": "고기",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "Sie",
+        "korean": "그녀, 그들, 당신",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Zwiebel",
+        "korean": "양파",
+        "gender": "die",
+        "plural": "Zwiebeln",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Start",
+        "korean": "시작, 출발",
+        "gender": "der",
+        "plural": "Starts",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "spielen",
+        "korean": "놀다, 연주하다",
+        "verb_forms": {
+            "praesens_er": "spielt",
+            "praeteritum": "spielte",
+            "perfekt": "hat gespielt",
+            "partizip_2_form": "gespielt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "spielend",
+                "korean": "노는, 연주하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gespielt",
+                "korean": "연주된, 연기된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Hausschlüssel",
+        "korean": "집 열쇠",
+        "gender": "der",
+        "plural": "Hausschlüssel",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "Englisch",
+        "korean": "영어의, 영국의",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Getränk",
+        "korean": "음료",
+        "gender": "das",
+        "plural": "Getränke",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "wollen",
+        "korean": "~하고 싶다",
+        "verb_forms": {
+            "praesens_er": "will",
+            "praeteritum": "wollte",
+            "perfekt": "hat gewollt",
+            "partizip_2_form": "gewollt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gewollt",
+                "korean": "원하는, 의도된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bibliothek",
+        "korean": "도서관",
+        "gender": "die",
+        "plural": "Bibliotheken",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kopie",
+        "korean": "복사본",
+        "gender": "die",
+        "plural": "Kopien",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wiedersehen",
+        "korean": "재회",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "wichtig",
+        "korean": "중요한",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mitte",
+        "korean": "중앙, 중간",
+        "gender": "die",
+        "plural": "Mitten",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "viel",
+        "korean": "많은, 많이",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "jung",
+        "korean": "젊은",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Teller",
+        "korean": "접시",
+        "gender": "der",
+        "plural": "Teller",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tasse",
+        "korean": "컵, 잔",
+        "gender": "die",
+        "plural": "Tassen",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "vergessen",
+        "korean": "잊다",
+        "verb_forms": {
+            "praesens_er": "vergisst",
+            "praeteritum": "vergaß",
+            "perfekt": "hat vergessen",
+            "partizip_2_form": "vergessen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vergessen",
+                "korean": "잊혀진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "euer",
+        "korean": "너희의",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Puppe",
+        "korean": "인형",
+        "gender": "die",
+        "plural": "Puppen",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "nett",
+        "korean": "친절한, 상냥한",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Lieblingsfarbe",
+        "korean": "가장 좋아하는 색깔",
+        "gender": "die",
+        "plural": "Lieblingsfarben",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wind",
+        "korean": "바람",
+        "gender": "der",
+        "plural": "Winde",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "mehr",
+        "korean": "더, 더 많이",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "französisch",
+        "korean": "프랑스의",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Topf",
+        "korean": "냄비, 화분",
+        "gender": "der",
+        "plural": "Töpfe",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Frühjahr",
+        "korean": "봄",
+        "gender": "das",
+        "plural": "Frühjahre",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Jacke",
+        "korean": "재킷",
+        "gender": "die",
+        "plural": "Jacken",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tüte",
+        "korean": "봉투",
+        "gender": "die",
+        "plural": "Tüten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Hemd",
+        "korean": "셔츠",
+        "gender": "das",
+        "plural": "Hemden",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Gut",
+        "korean": "재산, 소유물, 선(善)",
+        "gender": "das",
+        "plural": "die Güter",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "krank",
+        "korean": "아픈",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Durst",
+        "korean": "갈증",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "werden",
+        "korean": "~이 되다, ~할 것이다",
+        "verb_forms": {
+            "praesens_er": "wird",
+            "praeteritum": "wurde",
+            "perfekt": "ist geworden",
+            "partizip_2_form": "geworden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "werdend",
+                "korean": "~이 되어가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geworden",
+                "korean": "~이 된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Orange",
+        "korean": "오렌지",
+        "gender": "die",
+        "plural": "Orangen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Stadtplan",
+        "korean": "도시 지도",
+        "gender": "der",
+        "plural": "Stadtpläne",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Stift",
+        "korean": "펜, 연필",
+        "gender": "der",
+        "plural": "Stifte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Heft",
+        "korean": "공책, 잡지",
+        "gender": "das",
+        "plural": "Hefte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Weihnachtsferien",
+        "korean": "크리스마스 휴가",
+        "gender": "die",
+        "plural": "Weihnachtsferien",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mitternacht",
+        "korean": "자정",
+        "gender": "die",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "Jemand",
+        "korean": "누군가",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mittagspause",
+        "korean": "점심시간",
+        "gender": "die",
+        "plural": "Mittagspausen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mittwoch",
+        "korean": "수요일",
+        "gender": "der",
+        "plural": "Mittwoche",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Stadtmitte",
+        "korean": "시내 중심",
+        "gender": "die",
+        "plural": "Stadtmitten",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "bringen",
+        "korean": "가져오다, 데려오다",
+        "verb_forms": {
+            "praesens_er": "bringt",
+            "praeteritum": "brachte",
+            "perfekt": "hat gebracht",
+            "partizip_2_form": "gebracht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bringend",
+                "korean": "가져오는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gebracht",
+                "korean": "가져와진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Marmelade",
+        "korean": "마멀레이드, 잼",
+        "gender": "die",
+        "plural": "Marmeladen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fahrt",
+        "korean": "여행, 운전, 탑승",
+        "gender": "die",
+        "plural": "Fahrten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kursraum",
+        "korean": "강의실",
+        "gender": "der",
+        "plural": "Kursräume",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Oktober",
+        "korean": "10월",
+        "gender": "der",
+        "plural": "Oktober",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sportplatz",
+        "korean": "운동장",
+        "gender": "der",
+        "plural": "Sportplätze",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Wurst",
+        "korean": "소시지",
+        "gender": "die",
+        "plural": "Würste",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sonntagabend",
+        "korean": "일요일 저녁",
+        "gender": "der",
+        "plural": "Sonntagabende",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Abendhimmel",
+        "korean": "저녁 하늘",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Suppe",
+        "korean": "수프",
+        "gender": "die",
+        "plural": "Suppen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bahnhofshotel",
+        "korean": "역 호텔",
+        "gender": "das",
+        "plural": "Bahnhofshotels",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Decke",
+        "korean": "담요, 천장",
+        "gender": "die",
+        "plural": "Decken",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kindergarten",
+        "korean": "유치원",
+        "gender": "der",
+        "plural": "Kindergärten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Pferd",
+        "korean": "말",
+        "gender": "das",
+        "plural": "Pferde",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Dollar",
+        "korean": "달러",
+        "gender": "der",
+        "plural": "Dollar",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Rücken",
+        "korean": "등",
+        "gender": "der",
+        "plural": "Rücken",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mittagessen",
+        "korean": "점심 식사",
+        "gender": "das",
+        "plural": "Mittagessen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Internet",
+        "korean": "인터넷",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Chinesin",
+        "korean": "중국인 (여자)",
+        "gender": "die",
+        "plural": "Chinesinnen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Ausgang",
+        "korean": "출구, 결과",
+        "gender": "der",
+        "plural": "Ausgänge",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Reis",
+        "korean": "쌀, 밥",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Brotscheibe",
+        "korean": "빵 조각",
+        "gender": "die",
+        "plural": "Brotscheiben",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Einsteigen",
+        "korean": "탑승, 승차",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Tageszeit",
+        "korean": "시간대",
+        "gender": "die",
+        "plural": "Tageszeiten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Bahn",
+        "korean": "기차, 길",
+        "gender": "die",
+        "plural": "Bahnen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Test",
+        "korean": "시험",
+        "gender": "der",
+        "plural": "Tests",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Aspirin",
+        "korean": "아스피린",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Lineal",
+        "korean": "자",
+        "gender": "das",
+        "plural": "Lineale",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Linie",
+        "korean": "선",
+        "gender": "die",
+        "plural": "Linien",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Auge",
+        "korean": "눈",
+        "gender": "das",
+        "plural": "Augen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Blatt",
+        "korean": "잎, 종이",
+        "gender": "das",
+        "plural": "Blätter",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Herbst",
+        "korean": "가을",
+        "gender": "der",
+        "plural": "Herbst",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Telefonieren",
+        "korean": "전화 통화",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Zugfahrt",
+        "korean": "기차 여행",
+        "gender": "die",
+        "plural": "Zugfahrten",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Aussteigen",
+        "korean": "하차",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Großstadt",
+        "korean": "대도시",
+        "gender": "die",
+        "plural": "Großstädte",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Briefkasten",
+        "korean": "우체통",
+        "gender": "der",
+        "plural": "Briefkästen",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "erste",
+        "korean": "첫 번째의",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "duschen",
+        "korean": "샤워하다",
+        "verb_forms": {
+            "praesens_er": "duscht",
+            "praeteritum": "duschte",
+            "perfekt": "hat geduscht",
+            "partizip_2_form": "geduscht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "duschend",
+                "korean": "샤워하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geduscht",
+                "korean": "샤워한"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schlafengehen",
+        "korean": "취침, 잠자리에 들기",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "kaufen",
+        "korean": "사다",
+        "verb_forms": {
+            "praesens_er": "kauft",
+            "praeteritum": "kaufte",
+            "perfekt": "hat gekauft",
+            "partizip_2_form": "gekauft"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gekauft",
+                "korean": "구매된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "aufstehen",
+        "korean": "일어나다",
+        "verb_forms": {
+            "praesens_er": "steht auf",
+            "praeteritum": "stand auf",
+            "perfekt": "ist aufgestanden",
+            "partizip_2_form": "aufgestanden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "aufstehend",
+                "korean": "일어나는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": "aufgestanden",
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "treffen",
+        "korean": "만나다, 맞히다",
+        "verb_forms": {
+            "praesens_er": "trifft",
+            "praeteritum": "traf",
+            "perfekt": "hat getroffen",
+            "partizip_2_form": "getroffen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "treffend",
+                "korean": "만나는, 맞히는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "getroffen",
+                "korean": "만나진, 맞혀진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Mittag",
+        "korean": "정오, 낮",
+        "gender": "der",
+        "plural": "Mittage",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Alter",
+        "korean": "나이",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schnee",
+        "korean": "눈",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Kennenlernen",
+        "korean": "알아가는 것, 만남",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Sonnenschein",
+        "korean": "햇빛, 햇살",
+        "gender": "der",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Fieber",
+        "korean": "열, 발열",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Deutschkurs",
+        "korean": "독일어 코스",
+        "gender": "der",
+        "plural": "Deutschkurse",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Parken",
+        "korean": "주차",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Lange",
+        "korean": "오랜 시간 (예: 오랜 시간 동안)",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Schwimmen",
+        "korean": "수영",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Freude",
+        "korean": "기쁨",
+        "gender": "die",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "suchen",
+        "korean": "찾다",
+        "verb_forms": {
+            "praesens_er": "sucht",
+            "praeteritum": "suchte",
+            "perfekt": "hat gesucht",
+            "partizip_2_form": "gesucht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "suchend",
+                "korean": "찾는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesucht",
+                "korean": "찾아진, 인기 있는"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Disco",
+        "korean": "디스코텍",
+        "gender": "die",
+        "plural": "Discos",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Knopf",
+        "korean": "단추, 버튼",
+        "gender": "der",
+        "plural": "Knöpfe",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "schlimm",
+        "korean": "나쁜, 심한",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "langsam",
+        "korean": "느린, 천천히",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Nummer",
+        "korean": "번호",
+        "gender": "die",
+        "plural": "Nummern",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "üben",
+        "korean": "연습하다, 훈련하다",
+        "verb_forms": {
+            "praesens_er": "übt",
+            "praeteritum": "übte",
+            "perfekt": "hat geübt",
+            "partizip_2_form": "geübt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "übend",
+                "korean": "연습하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geübt",
+                "korean": "연습된, 숙련된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Gras",
+        "korean": "잔디, 풀",
+        "gender": "das",
+        "plural": "Gräser",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Pizza",
+        "korean": "피자",
+        "gender": "die",
+        "plural": "Pizzen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Abendbrot",
+        "korean": "저녁 식사",
+        "gender": "das",
+        "plural": "Abendbrote",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "lang",
+        "korean": "긴",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Pause",
+        "korean": "휴식",
+        "gender": "die",
+        "plural": "Pausen",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Jeans",
+        "korean": "청바지",
+        "gender": "die",
+        "plural": "Jeans",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Interesse",
+        "korean": "흥미, 관심",
+        "gender": "das",
+        "plural": "Interessen",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "sein",
+        "korean": "~이다",
+        "verb_forms": {
+            "praesens_er": "ist",
+            "praeteritum": "war",
+            "perfekt": "ist gewesen",
+            "partizip_2_form": "gewesen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "seiend",
+                "korean": "존재하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Ort",
+        "korean": "장소",
+        "gender": "der",
+        "plural": "Orte",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "etwas",
+        "korean": "무언가, 약간",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Ring",
+        "korean": "반지, 고리",
+        "gender": "der",
+        "plural": "Ringe",
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Gold",
+        "korean": "금",
+        "gender": "das",
+        "plural": null,
+        "cefr": "A1"
+    },
+    {
+        "type": "명사",
+        "word": "Paar",
+        "korean": "쌍, 짝",
+        "gender": "das",
+        "plural": "Paare",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "brauchen",
+        "korean": "필요하다",
+        "verb_forms": {
+            "praesens_er": "braucht",
+            "praeteritum": "brauchte",
+            "perfekt": "hat gebraucht",
+            "partizip_2_form": "gebraucht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "brauchend",
+                "korean": "필요로 하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "beginnen",
+        "korean": "시작하다",
+        "verb_forms": {
+            "praesens_er": "beginnt",
+            "praeteritum": "begann",
+            "perfekt": "hat begonnen",
+            "partizip_2_form": "begonnen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "beginnend",
+                "korean": "시작하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "begonnen",
+                "korean": "시작된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "trinken",
+        "korean": "마시다",
+        "verb_forms": {
+            "praesens_er": "trinkt",
+            "praeteritum": "trank",
+            "perfekt": "hat getrunken",
+            "partizip_2_form": "getrunken"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "gehen",
+        "korean": "가다",
+        "verb_forms": {
+            "praesens_er": "geht",
+            "praeteritum": "ging",
+            "perfekt": "ist gegangen",
+            "partizip_2_form": "gegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gehend",
+                "korean": "가는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "machen",
+        "korean": "만들다, 하다",
+        "verb_forms": {
+            "praesens_er": "macht",
+            "praeteritum": "machte",
+            "perfekt": "hat gemacht",
+            "partizip_2_form": "gemacht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "machend",
+                "korean": "만드는, 하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gemacht",
+                "korean": "만들어진, 행해진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "finden",
+        "korean": "찾다, 발견하다",
+        "verb_forms": {
+            "praesens_er": "findet",
+            "praeteritum": "fand",
+            "perfekt": "hat gefunden",
+            "partizip_2_form": "gefunden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "findend",
+                "korean": "찾는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefunden",
+                "korean": "찾아진, 발견된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "bleiben",
+        "korean": "머무르다, 남아있다",
+        "verb_forms": {
+            "praesens_er": "er bleibt",
+            "praeteritum": "er blieb",
+            "perfekt": "er ist geblieben",
+            "partizip_2_form": "geblieben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bleibend",
+                "korean": "남아있는, 지속적인"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "arbeiten",
+        "korean": "일하다",
+        "verb_forms": {
+            "praesens_er": "arbeitet",
+            "praeteritum": "arbeitete",
+            "perfekt": "hat gearbeitet",
+            "partizip_2_form": "gearbeitet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "arbeitend",
+                "korean": "일하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "studieren",
+        "korean": "공부하다, 연구하다",
+        "verb_forms": {
+            "praesens_er": "studiert",
+            "praeteritum": "studierte",
+            "perfekt": "hat studiert",
+            "partizip_2_form": "studiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "studierend",
+                "korean": "공부하는, 연구하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "studiert",
+                "korean": "공부된, 연구된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "liegen",
+        "korean": "누워 있다, 놓여 있다",
+        "verb_forms": {
+            "praesens_er": "liegt",
+            "praeteritum": "lag",
+            "perfekt": "hat gelegen",
+            "partizip_2_form": "gelegen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "liegend",
+                "korean": "누워 있는, 놓여 있는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "besuchen",
+        "korean": "방문하다",
+        "verb_forms": {
+            "praesens_er": "besucht",
+            "praeteritum": "besuchte",
+            "perfekt": "hat besucht",
+            "partizip_2_form": "besucht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "besuchend",
+                "korean": "방문하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "besucht",
+                "korean": "방문된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "helfen",
+        "korean": "돕다",
+        "verb_forms": {
+            "praesens_er": "hilft",
+            "praeteritum": "half",
+            "perfekt": "hat geholfen",
+            "partizip_2_form": "geholfen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "helfend",
+                "korean": "돕는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "wohnen",
+        "korean": "거주하다",
+        "verb_forms": {
+            "praesens_er": "wohnt",
+            "praeteritum": "wohnte",
+            "perfekt": "hat gewohnt",
+            "partizip_2_form": "gewohnt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wohnend",
+                "korean": "거주하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "schreiben",
+        "korean": "쓰다",
+        "verb_forms": {
+            "praesens_er": "schreibt",
+            "praeteritum": "schrieb",
+            "perfekt": "hat geschrieben",
+            "partizip_2_form": "geschrieben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schreibend",
+                "korean": "쓰는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschrieben",
+                "korean": "쓰여진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "sagen",
+        "korean": "말하다",
+        "verb_forms": {
+            "praesens_er": "sagt",
+            "praeteritum": "sagte",
+            "perfekt": "hat gesagt",
+            "partizip_2_form": "gesagt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesagt",
+                "korean": "말해진, 언급된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "heißen",
+        "korean": "~라고 불리다, 의미하다",
+        "verb_forms": {
+            "praesens_er": "heißt",
+            "praeteritum": "hieß",
+            "perfekt": "hat geheißen",
+            "partizip_2_form": "geheißen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "heißend",
+                "korean": "~라고 불리는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "leben",
+        "korean": "살다, 생활하다",
+        "verb_forms": {
+            "praesens_er": "lebt",
+            "praeteritum": "lebte",
+            "perfekt": "hat gelebt",
+            "partizip_2_form": "gelebt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "lebend",
+                "korean": "살아 있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelebt",
+                "korean": "살아왔던"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "laufen",
+        "korean": "달리다, 걷다",
+        "verb_forms": {
+            "praesens_er": "er läuft",
+            "praeteritum": "er lief",
+            "perfekt": "er ist gelaufen",
+            "partizip_2_form": "gelaufen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "laufend",
+                "korean": "달리는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelaufen",
+                "korean": "달려진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "tun",
+        "korean": "하다, 행하다",
+        "verb_forms": {
+            "praesens_er": "tut",
+            "praeteritum": "tat",
+            "perfekt": "hat getan",
+            "partizip_2_form": "getan"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "getan",
+                "korean": "행해진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "verstehen",
+        "korean": "이해하다",
+        "verb_forms": {
+            "praesens_er": "versteht",
+            "praeteritum": "verstand",
+            "perfekt": "hat verstanden",
+            "partizip_2_form": "verstanden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "verstehend",
+                "korean": "이해하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "verstanden",
+                "korean": "이해된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "anrufen",
+        "korean": "전화하다",
+        "verb_forms": {
+            "praesens_er": "er ruft an",
+            "praeteritum": "er rief an",
+            "perfekt": "er hat angerufen",
+            "partizip_2_form": "angerufen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "anrufend",
+                "korean": "전화하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "angerufen",
+                "korean": "전화 걸어진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "fragen",
+        "korean": "묻다, 질문하다",
+        "verb_forms": {
+            "praesens_er": "fragt",
+            "praeteritum": "fragte",
+            "perfekt": "hat gefragt",
+            "partizip_2_form": "gefragt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fragend",
+                "korean": "묻는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefragt",
+                "korean": "질문받은, 인기 있는"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "bekommen",
+        "korean": "받다",
+        "verb_forms": {
+            "praesens_er": "bekommt",
+            "praeteritum": "bekam",
+            "perfekt": "hat bekommen",
+            "partizip_2_form": "bekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bekommend",
+                "korean": "받는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "ankommen",
+        "korean": "도착하다",
+        "verb_forms": {
+            "praesens_er": "kommt an",
+            "praeteritum": "kam an",
+            "perfekt": "ist angekommen",
+            "partizip_2_form": "angekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ankommend",
+                "korean": "도착하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "angekommen",
+                "korean": "도착한"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "holen",
+        "korean": "가져오다, 데려오다",
+        "verb_forms": {
+            "praesens_er": "holt",
+            "praeteritum": "holte",
+            "perfekt": "hat geholt",
+            "partizip_2_form": "geholt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "holend",
+                "korean": "가져오는, 데려오는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geholt",
+                "korean": "가져와진, 데려와진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "legen",
+        "korean": "눕히다, 놓다",
+        "verb_forms": {
+            "praesens_er": "er legt",
+            "praeteritum": "er legte",
+            "perfekt": "er hat gelegt",
+            "partizip_2_form": "gelegt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "legend",
+                "korean": "눕히는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelegt",
+                "korean": "놓여진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "danken",
+        "korean": "감사하다",
+        "verb_forms": {
+            "praesens_er": "dankt",
+            "praeteritum": "dankte",
+            "perfekt": "hat gedankt",
+            "partizip_2_form": "gedankt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "dankend",
+                "korean": "감사하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "antworten",
+        "korean": "대답하다",
+        "verb_forms": {
+            "praesens_er": "antwortet",
+            "praeteritum": "antwortete",
+            "perfekt": "hat geantwortet",
+            "partizip_2_form": "geantwortet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "antwortend",
+                "korean": "대답하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "frühstücken",
+        "korean": "아침 식사를 하다",
+        "verb_forms": {
+            "praesens_er": "frühstückt",
+            "praeteritum": "frühstückte",
+            "perfekt": "hat gefrühstückt",
+            "partizip_2_form": "gefrühstückt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "frühstückend",
+                "korean": "아침 식사하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": "gefrühstückt",
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "kochen",
+        "korean": "요리하다",
+        "verb_forms": {
+            "praesens_er": "kocht",
+            "praeteritum": "kochte",
+            "perfekt": "hat gekocht",
+            "partizip_2_form": "gekocht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kochend",
+                "korean": "요리하는, 끓는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gekocht",
+                "korean": "요리된, 삶은"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "rauchen",
+        "korean": "담배 피우다",
+        "verb_forms": {
+            "praesens_er": "raucht",
+            "praeteritum": "rauchte",
+            "perfekt": "hat geraucht",
+            "partizip_2_form": "geraucht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "rauchend",
+                "korean": "담배 피우는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geraucht",
+                "korean": "피워진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "schmecken",
+        "korean": "맛이 나다, 맛보다",
+        "verb_forms": {
+            "praesens_er": "schmeckt",
+            "praeteritum": "schmeckte",
+            "perfekt": "hat geschmeckt",
+            "partizip_2_form": "geschmeckt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schmeckend",
+                "korean": "맛보는, 맛있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschmeckt",
+                "korean": "맛본"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "telefonieren",
+        "korean": "전화하다",
+        "verb_forms": {
+            "praesens_er": "er telefoniert",
+            "praeteritum": "er telefonierte",
+            "perfekt": "er hat telefoniert",
+            "partizip_2_form": "telefoniert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "telefonierend",
+                "korean": "전화하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "telefoniert",
+                "korean": "전화된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "abholen",
+        "korean": "데리러 가다, 가져오다",
+        "verb_forms": {
+            "praesens_er": "holt ab",
+            "praeteritum": "holte ab",
+            "perfekt": "hat abgeholt",
+            "partizip_2_form": "abgeholt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "abgeholt",
+                "korean": "데려와진, 가져와진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "putzen",
+        "korean": "~에서 청소하다",
+        "verb_forms": {
+            "praesens_er": "putzt",
+            "praeteritum": "putzte",
+            "perfekt": "hat geputzt",
+            "partizip_2_form": "geputzt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "putzend",
+                "korean": "청소하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geputzt",
+                "korean": "청소된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "kennenlernen",
+        "korean": "알게 되다, 만나다",
+        "verb_forms": {
+            "praesens_er": "lernt kennen",
+            "praeteritum": "lernte kennen",
+            "perfekt": "hat kennengelernt",
+            "partizip_2_form": "kennengelernt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kennenlernend",
+                "korean": "알아가는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "glauben",
+        "korean": "믿다",
+        "verb_forms": {
+            "praesens_er": "glaubt",
+            "praeteritum": "glaubte",
+            "perfekt": "hat geglaubt",
+            "partizip_2_form": "geglaubt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "glaubend",
+                "korean": "믿는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geglaubt",
+                "korean": "믿어진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "abfahren",
+        "korean": "출발하다",
+        "verb_forms": {
+            "praesens_er": "er fährt ab",
+            "praeteritum": "er fuhr ab",
+            "perfekt": "er ist abgefahren",
+            "partizip_2_form": "abgefahren"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "abfahrend",
+                "korean": "출발하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "abgefahren",
+                "korean": "출발한, 낡은"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "vorstellen",
+        "korean": "소개하다, 상상하다",
+        "verb_forms": {
+            "praesens_er": "stellt vor",
+            "praeteritum": "stellte vor",
+            "perfekt": "hat vorgestellt",
+            "partizip_2_form": "vorgestellt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vorstellend",
+                "korean": "소개하는, 상상하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vorgestellt",
+                "korean": "소개된, 상상된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "lieben",
+        "korean": "사랑하다",
+        "verb_forms": {
+            "praesens_er": "liebt",
+            "praeteritum": "liebte",
+            "perfekt": "hat geliebt",
+            "partizip_2_form": "geliebt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "liebend",
+                "korean": "사랑하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geliebt",
+                "korean": "사랑받는"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "begrüßen",
+        "korean": "환영하다, 맞이하다",
+        "verb_forms": {
+            "praesens_er": "begrüßt",
+            "praeteritum": "begrüßte",
+            "perfekt": "hat begrüßt",
+            "partizip_2_form": "begrüßt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "begrüßend",
+                "korean": "환영하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "begrüßt",
+                "korean": "환영받은"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "lachen",
+        "korean": "웃다",
+        "verb_forms": {
+            "praesens_er": "lacht",
+            "praeteritum": "lachte",
+            "perfekt": "hat gelacht",
+            "partizip_2_form": "gelacht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "lachend",
+                "korean": "웃는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "kosten",
+        "korean": "비용이 들다, 맛보다",
+        "verb_forms": {
+            "praesens_er": "kostet",
+            "praeteritum": "kostete",
+            "perfekt": "hat gekostet",
+            "partizip_2_form": "gekostet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kostend",
+                "korean": "비용이 드는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gekostet",
+                "korean": "비용이 든"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "anfangen",
+        "korean": "시작하다",
+        "verb_forms": {
+            "praesens_er": "fängt an",
+            "praeteritum": "fing an",
+            "perfekt": "hat angefangen",
+            "partizip_2_form": "angefangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "anfangend",
+                "korean": "시작하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "reden",
+        "korean": "말하다, 이야기하다",
+        "verb_forms": {
+            "praesens_er": "er redet",
+            "praeteritum": "er redete",
+            "perfekt": "er hat geredet",
+            "partizip_2_form": "geredet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "redend",
+                "korean": "말하는, 이야기하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geredet",
+                "korean": "이야기된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "stimmen",
+        "korean": "투표하다, (의견이) 맞다, 조율하다",
+        "verb_forms": {
+            "praesens_er": "stimmt",
+            "praeteritum": "stimmte",
+            "perfekt": "hat gestimmt",
+            "partizip_2_form": "gestimmt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "stimmend",
+                "korean": "투표하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gestimmt",
+                "korean": "투표된, 조율된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "mögen",
+        "korean": "좋아하다, ~하고 싶다",
+        "verb_forms": {
+            "praesens_er": "mag",
+            "praeteritum": "mochte",
+            "perfekt": "hat gemocht",
+            "partizip_2_form": "gemocht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "meinen",
+        "korean": "~라고 생각하다, 의미하다",
+        "verb_forms": {
+            "praesens_er": "er meint",
+            "praeteritum": "er meinte",
+            "perfekt": "er hat gemeint",
+            "partizip_2_form": "gemeint"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "meinend",
+                "korean": "생각하는, 의미하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gemeint",
+                "korean": "의미된, 의도된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "einkaufen",
+        "korean": "장을 보다, 쇼핑하다",
+        "verb_forms": {
+            "praesens_er": "er kauft ein",
+            "praeteritum": "er kaufte ein",
+            "perfekt": "er hat eingekauft",
+            "partizip_2_form": "eingekauft"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "einkaufend",
+                "korean": "쇼핑하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "eingekauft",
+                "korean": "쇼핑된, 구매된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "fernsehen",
+        "korean": "TV를 보다",
+        "verb_forms": {
+            "praesens_er": "sieht fern",
+            "praeteritum": "sah fern",
+            "perfekt": "hat ferngesehen",
+            "partizip_2_form": "ferngesehen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fernsehend",
+                "korean": "TV를 보는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "einsteigen",
+        "korean": "탑승하다",
+        "verb_forms": {
+            "praesens_er": "steigt ein",
+            "praeteritum": "stieg ein",
+            "perfekt": "ist eingestiegen",
+            "partizip_2_form": "eingestiegen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "einsteigend",
+                "korean": "탑승하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "eingestiegen",
+                "korean": "탑승한"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "aussteigen",
+        "korean": "(탈것에서) 내리다",
+        "verb_forms": {
+            "praesens_er": "steigt aus",
+            "praeteritum": "stieg aus",
+            "perfekt": "ist ausgestiegen",
+            "partizip_2_form": "ausgestiegen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "aussteigend",
+                "korean": "내리는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": "ausgestiegen",
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "bestellen",
+        "korean": "주문하다",
+        "verb_forms": {
+            "praesens_er": "bestellt",
+            "praeteritum": "bestellte",
+            "perfekt": "hat bestellt",
+            "partizip_2_form": "bestellt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bestellend",
+                "korean": "주문하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "bestellt",
+                "korean": "주문된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "wünschen",
+        "korean": "바라다, 소원하다",
+        "verb_forms": {
+            "praesens_er": "wünscht",
+            "praeteritum": "wünschte",
+            "perfekt": "hat gewünscht",
+            "partizip_2_form": "gewünscht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wünschend",
+                "korean": "바라는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gewünscht",
+                "korean": "바라던"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "aufwachen",
+        "korean": "잠에서 깨다",
+        "verb_forms": {
+            "praesens_er": "wacht auf",
+            "praeteritum": "wachte auf",
+            "perfekt": "ist aufgewacht",
+            "partizip_2_form": "aufgewacht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "aufwachend",
+                "korean": "깨어나는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "aufgewacht",
+                "korean": "깨어난"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "baden",
+        "korean": "목욕하다",
+        "verb_forms": {
+            "praesens_er": "badet",
+            "praeteritum": "badete",
+            "perfekt": "hat gebadet",
+            "partizip_2_form": "gebadet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "badend",
+                "korean": "목욕하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gebadet",
+                "korean": "목욕한"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "anziehen",
+        "korean": "입다, 끌어당기다",
+        "verb_forms": {
+            "praesens_er": "zieht an",
+            "praeteritum": "zog an",
+            "perfekt": "hat angezogen",
+            "partizip_2_form": "angezogen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "anziehend",
+                "korean": "입는, 매력적인"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "angezogen",
+                "korean": "입혀진, 옷을 입은"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "dürfen",
+        "korean": "~해도 좋다, ~할 수 있다",
+        "verb_forms": {
+            "praesens_er": "darf",
+            "praeteritum": "durfte",
+            "perfekt": "hat gedurft",
+            "partizip_2_form": "gedurft"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "best",
+        "korean": "최고의, 가장 좋은",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "fühlen",
+        "korean": "느끼다",
+        "verb_forms": {
+            "praesens_er": "fühlt",
+            "praeteritum": "fühlte",
+            "perfekt": "hat gefühlt",
+            "partizip_2_form": "gefühlt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fühlend",
+                "korean": "느끼는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefühlt",
+                "korean": "느껴진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "weggehen",
+        "korean": "떠나가다, 가버리다",
+        "verb_forms": {
+            "praesens_er": "geht weg",
+            "praeteritum": "ging weg",
+            "perfekt": "ist weggegangen",
+            "partizip_2_form": "weggegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "weggehend",
+                "korean": "떠나가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "weggegangen",
+                "korean": "떠나간"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "sollen",
+        "korean": "~해야 한다, ~하기로 되어 있다",
+        "verb_forms": {
+            "praesens_er": "soll",
+            "praeteritum": "sollte",
+            "perfekt": "hat gesollt",
+            "partizip_2_form": "gesollt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sollend",
+                "korean": "해야 할"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "frieren",
+        "korean": "얼다, 추워하다",
+        "verb_forms": {
+            "praesens_er": "friert",
+            "praeteritum": "fror",
+            "perfekt": "hat gefroren",
+            "partizip_2_form": "gefroren"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "frierend",
+                "korean": "얼어붙는, 추워하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefroren",
+                "korean": "얼어붙은"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "neun",
+        "korean": "아홉",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "probieren",
+        "korean": "시도하다, 맛보다",
+        "verb_forms": {
+            "praesens_er": "probiert",
+            "praeteritum": "probierte",
+            "perfekt": "hat probiert",
+            "partizip_2_form": "probiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "probierend",
+                "korean": "시도하는, 맛보는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "probiert",
+                "korean": "시도된, 맛본"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "grüßen",
+        "korean": "인사하다",
+        "verb_forms": {
+            "praesens_er": "grüßt",
+            "praeteritum": "grüßte",
+            "perfekt": "hat gegrüßt",
+            "partizip_2_form": "gegrüßt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "aha",
+        "korean": "아하!",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "eure",
+        "korean": "너희들의",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "dünn",
+        "korean": "얇은, 마른",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "ich",
+        "korean": "나",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "dein",
+        "korean": "너의",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "kein",
+        "korean": "어떤 ~도 아닌",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "tanzen",
+        "korean": "춤추다",
+        "verb_forms": {
+            "praesens_er": "tanzt",
+            "praeteritum": "tanzte",
+            "perfekt": "hat getanzt",
+            "partizip_2_form": "getanzt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "tanzend",
+                "korean": "춤추는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "malen",
+        "korean": "그리다",
+        "verb_forms": {
+            "praesens_er": "malt",
+            "praeteritum": "malte",
+            "perfekt": "hat gemalt",
+            "partizip_2_form": "gemalt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "malend",
+                "korean": "그리는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gemalt",
+                "korean": "그려진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "zurückkommen",
+        "korean": "돌아오다",
+        "verb_forms": {
+            "praesens_er": "er kommt zurück",
+            "praeteritum": "er kam zurück",
+            "perfekt": "er ist zurückgekommen",
+            "partizip_2_form": "zurückgekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "zurückkommend",
+                "korean": "돌아오는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "gefallen",
+        "korean": "마음에 들다",
+        "verb_forms": {
+            "praesens_er": "gefällt",
+            "praeteritum": "gefiel",
+            "perfekt": "hat gefallen",
+            "partizip_2_form": "gefallen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gefällend",
+                "korean": "마음에 드는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefallen",
+                "korean": "마음에 든"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "neu",
+        "korean": "새로운, 최신의",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "klein",
+        "korean": "작은",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "schön",
+        "korean": "아름다운, 예쁜",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "deutsch",
+        "korean": "독일의, 독일어의",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "nächste",
+        "korean": "다음의, 가장 가까운",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "andere",
+        "korean": "다른",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "schlecht",
+        "korean": "나쁜",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "dein",
+        "korean": "너의",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "groß",
+        "korean": "큰",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "schnell",
+        "korean": "빠른",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "eur",
+        "korean": "유로 (화폐 단위 약어)",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "ganz",
+        "korean": "전체의, 완전한",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "einfach",
+        "korean": "간단한, 쉬운; 단순히",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "rot",
+        "korean": "빨간",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "kalt",
+        "korean": "추운, 차가운",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "halb",
+        "korean": "절반의, 반",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "kurz",
+        "korean": "짧은",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "warm",
+        "korean": "따뜻한",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "and",
+        "korean": "그리고 (영어)",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "falsch",
+        "korean": "틀린, 잘못된",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "lustig",
+        "korean": "재미있는, 즐거운",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "frei",
+        "korean": "자유로운",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "freundlich",
+        "korean": "친절한",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "links",
+        "korean": "왼쪽의",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "fröhlich",
+        "korean": "즐거운, 쾌활한",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "schwierig",
+        "korean": "어려운, 힘든",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "heiß",
+        "korean": "뜨거운",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "bekannt",
+        "korean": "알려진, 유명한",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "blau",
+        "korean": "파란",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "zweite",
+        "korean": "두 번째의",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "link",
+        "korean": "왼쪽의",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "früh",
+        "korean": "이른",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "unser",
+        "korean": "우리의",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "grün",
+        "korean": "초록색의, 푸른",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "nee",
+        "korean": "아니, 아니요 (비격식)",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "täglich",
+        "korean": "매일의",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "ein",
+        "korean": "하나의, 어떤",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "hinter",
+        "korean": "뒤쪽의, 후방의",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "noch",
+        "korean": "아직, 여전히; 더",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "sehr",
+        "korean": "매우, 아주",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "schon",
+        "korean": "이미, 벌써",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "immer",
+        "korean": "항상, 언제나",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "nur",
+        "korean": "오직, 단지",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "auch",
+        "korean": "또한, 역시",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "gut",
+        "korean": "잘, 좋게",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "wie",
+        "korean": "어떻게, ~처럼",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "hier",
+        "korean": "여기",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "dann",
+        "korean": "그때, 그리고 나서",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "so",
+        "korean": "그렇게, 그렇게나",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "wieder",
+        "korean": "다시",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "heute",
+        "korean": "오늘",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "lange",
+        "korean": "오랫동안",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "dort",
+        "korean": "거기에",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "oft",
+        "korean": "자주",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "gestern",
+        "korean": "어제",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "warum",
+        "korean": "왜",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "wo",
+        "korean": "어디에",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "morgen",
+        "korean": "내일",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "aber",
+        "korean": "그러나, 하지만",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "schnell",
+        "korean": "빨리",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "jetzt",
+        "korean": "지금",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "gern",
+        "korean": "기꺼이",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "bitte",
+        "korean": "부디, 제발",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "da",
+        "korean": "거기에, 그때",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "nie",
+        "korean": "결코 ~않다",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "gerne",
+        "korean": "기꺼이",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "spät",
+        "korean": "늦게",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "schön",
+        "korean": "아름답게, 좋게",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "langsam",
+        "korean": "천천히",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "früh",
+        "korean": "일찍",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "müde",
+        "korean": "피곤한",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "bald",
+        "korean": "곧",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "zurück",
+        "korean": "뒤로, 돌아",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "kurz",
+        "korean": "짧게",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "fertig",
+        "korean": "준비된, 끝난",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "zusammen",
+        "korean": "함께",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "ganz",
+        "korean": "완전히, 아주",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "viel",
+        "korean": "많은",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "kaputt",
+        "korean": "고장 난, 망가진",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "abends",
+        "korean": "저녁에",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "manchmal",
+        "korean": "가끔",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "vielleicht",
+        "korean": "아마도",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "links",
+        "korean": "왼쪽에",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "morgens",
+        "korean": "아침마다",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "lieber",
+        "korean": "차라리, 더 좋게",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "gleich",
+        "korean": "곧, 즉시, 똑같이",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "denn",
+        "korean": "왜냐하면, (의문문에서) 도대체",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "also",
+        "korean": "그러므로, 그래서",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "mittags",
+        "korean": "점심때마다",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "weg",
+        "korean": "사라진, 가버린",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "wenig",
+        "korean": "거의 ~않다, 적게",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "etwas",
+        "korean": "약간, 좀",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "oben",
+        "korean": "위에, 위쪽에",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "rechts",
+        "korean": "오른쪽에",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "genug",
+        "korean": "충분히",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "richtig",
+        "korean": "올바르게",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "hell",
+        "korean": "밝게",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "ja",
+        "korean": "네, 그럼요",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "englisch",
+        "korean": "영어의",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "wichtig",
+        "korean": "중요한",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "nah",
+        "korean": "가까이",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "los",
+        "korean": "시작하다, 풀린",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "woher",
+        "korean": "어디에서",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "zweimal",
+        "korean": "두 번",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "draußen",
+        "korean": "밖에",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "nachmittags",
+        "korean": "오후에",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "sonntags",
+        "korean": "일요일마다",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "über",
+        "korean": "~위에, ~에 관하여",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "wenn",
+        "korean": "~할 때, 만약 ~라면",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "wirklich",
+        "korean": "실제의, 정말의",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "durch",
+        "korean": "~을 통하여",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "zuhause",
+        "korean": "집에, 집에서",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "durstig",
+        "korean": "목마른",
+        "cefr": "A1"
+    },
+    {
+        "type": "부사",
+        "word": "mal",
+        "korean": "한 번, 때때로",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "süß",
+        "korean": "달콤한, 귀여운",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "gelb",
+        "korean": "노란",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "bunt",
+        "korean": "다채로운, 화려한",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "toll",
+        "korean": "멋진, 훌륭한",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "gesund",
+        "korean": "건강한",
+        "cefr": "A1"
+    },
+    {
+        "type": "형용사",
+        "word": "schwarz",
+        "korean": "검은",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "all",
+        "korean": "모든, 전부",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "mein",
+        "korean": "나의",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "nach",
+        "korean": "~후에, ~로 (방향)",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "in",
+        "korean": "~안으로 (in das의 축약형)",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "mit",
+        "korean": "~와 함께, ~을 가지고",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "zu",
+        "korean": "~로, ~에",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "an",
+        "korean": "~에 (접촉), ~로",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "auf",
+        "korean": "~위에, ~으로",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "von",
+        "korean": "~로부터, ~에 의해",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "bei",
+        "korean": "~옆에, ~에게",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "für",
+        "korean": "~을 위하여, ~동안",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "vor",
+        "korean": "~앞에, ~전에",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "aus",
+        "korean": "~로부터, ~으로 만들어진",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "als",
+        "korean": "~로서, ~할 때",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "um",
+        "korean": "~주위에, ~시에",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "seit",
+        "korean": "~이래로",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "bis",
+        "korean": "~까지",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "wie",
+        "korean": "~처럼",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "ohne",
+        "korean": "~없이",
+        "cefr": "A1"
+    },
+    {
+        "type": "전치사",
+        "word": "hinter",
+        "korean": "~뒤에",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "fahren",
+        "korean": "~로 가다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fährt",
+            "praeteritum": "fuhr",
+            "perfekt": "ist gefahren",
+            "partizip_2_form": "gefahren"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fahrend",
+                "korean": "운전하는, 가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefahren",
+                "korean": "운전된, 간"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "bleiben",
+        "korean": "~에 머무르다, ~을 고수하다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "bleibt",
+            "praeteritum": "blieb",
+            "perfekt": "ist geblieben",
+            "partizip_2_form": "geblieben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "bleibend",
+                "korean": "남아 있는, 지속적인"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geblieben",
+                "korean": "남아 있던"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "stehen",
+        "korean": "~에 서 있다 (an dem의 축약형)",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "steht",
+            "praeteritum": "stand",
+            "perfekt": "hat gestanden",
+            "partizip_2_form": "gestanden"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "stehend",
+                "korean": "서 있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gestanden",
+                "korean": "서 있었던"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "gehen",
+        "korean": "~로 가다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er geht",
+            "praeteritum": "er ging",
+            "perfekt": "er ist gegangen",
+            "partizip_2_form": "gegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gehend",
+                "korean": "가는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gegangen",
+                "korean": "간"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "studieren",
+        "korean": "~에서 공부하다",
+        "fixed_preposition": "an (Dativ)",
+        "verb_forms": {
+            "praesens_er": "studiert",
+            "praeteritum": "studierte",
+            "perfekt": "hat studiert",
+            "partizip_2_form": "studiert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "studierend",
+                "korean": "공부하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "studiert",
+                "korean": "공부된, 연구된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "warten",
+        "korean": "~을 기다리다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "wartet",
+            "praeteritum": "wartete",
+            "perfekt": "hat gewartet",
+            "partizip_2_form": "gewartet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wartend",
+                "korean": "기다리는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gewartet",
+                "korean": "기다려진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "kommen",
+        "korean": "오다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "kommt",
+            "praeteritum": "kam",
+            "perfekt": "ist gekommen",
+            "partizip_2_form": "gekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "kommend",
+                "korean": "오는, 다가오는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "liegen",
+        "korean": "~위에 놓여 있다",
+        "fixed_preposition": "auf (Dativ)",
+        "verb_forms": {
+            "praesens_er": "liegt",
+            "praeteritum": "lag",
+            "perfekt": "hat gelegen",
+            "partizip_2_form": "gelegen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "liegend",
+                "korean": "놓여 있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelegen",
+                "korean": "놓여 있었던"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "leben",
+        "korean": "~으로 살아가다",
+        "fixed_preposition": "von (Dativ)",
+        "verb_forms": {
+            "praesens_er": "lebt",
+            "praeteritum": "lebte",
+            "perfekt": "hat gelebt",
+            "partizip_2_form": "gelebt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "lebend",
+                "korean": "살아있는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelebt",
+                "korean": "살아온"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "gehen zu",
+        "korean": "~로 가다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "geht",
+            "praeteritum": "ging",
+            "perfekt": "ist gegangen",
+            "partizip_2_form": "gegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gehend",
+                "korean": "가는, 걷는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gegangen",
+                "korean": "간, 지나간"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sprechen mit",
+        "korean": "~와 이야기하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "spricht",
+            "praeteritum": "sprach",
+            "perfekt": "hat gesprochen",
+            "partizip_2_form": "gesprochen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sprechend",
+                "korean": "말하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesprochen",
+                "korean": "말해진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "wohnen bei",
+        "korean": "~의 집에 살다, ~와 함께 살다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "wohnt",
+            "praeteritum": "wohnte",
+            "perfekt": "hat gewohnt",
+            "partizip_2_form": "gewohnt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "wohnend",
+                "korean": "거주하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gewohnt",
+                "korean": "익숙한, 습관적인"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "gehen mit",
+        "korean": "~와 함께 가다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "geht",
+            "praeteritum": "ging",
+            "perfekt": "ist gegangen",
+            "partizip_2_form": "gegangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gehend",
+                "korean": "가는, 걷는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gegangen",
+                "korean": "간, 지나간"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "fahren zu",
+        "korean": "~로 운전해 가다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fährt",
+            "praeteritum": "fuhr",
+            "perfekt": "ist gefahren",
+            "partizip_2_form": "gefahren"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fahrend",
+                "korean": "운전하는, 움직이는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefahren",
+                "korean": "운전된, 이동된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "spielen mit",
+        "korean": "~와 놀다, ~으로 연주하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "spielt",
+            "praeteritum": "spielte",
+            "perfekt": "hat gespielt",
+            "partizip_2_form": "gespielt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "spielend",
+                "korean": "노는, 연주하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gespielt",
+                "korean": "연주된, 연기된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sprechen",
+        "korean": "~와 이야기하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "spricht",
+            "praeteritum": "sprach",
+            "perfekt": "hat gesprochen",
+            "partizip_2_form": "gesprochen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sprechend",
+                "korean": "말하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesprochen",
+                "korean": "이야기된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "telefonieren",
+        "korean": "~와 전화하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "telefoniert",
+            "praeteritum": "telefonierte",
+            "perfekt": "hat telefoniert",
+            "partizip_2_form": "telefoniert"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "telefonierend",
+                "korean": "전화하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": "telefoniert",
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "danken",
+        "korean": "~에 대해 감사하다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "dankt",
+            "praeteritum": "dankte",
+            "perfekt": "hat gedankt",
+            "partizip_2_form": "gedankt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "dankend",
+                "korean": "감사하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gedankt",
+                "korean": "감사받은"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "antworten",
+        "korean": "대답하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "antwortet",
+            "praeteritum": "antwortete",
+            "perfekt": "hat geantwortet",
+            "partizip_2_form": "geantwortet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "antwortend",
+                "korean": "대답하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geantwortet",
+                "korean": "대답된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "suchen",
+        "korean": "~을 찾다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er sucht",
+            "praeteritum": "er suchte",
+            "perfekt": "er hat gesucht",
+            "partizip_2_form": "gesucht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "suchend",
+                "korean": "찾는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gesucht",
+                "korean": "찾아진, 인기 있는"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "arbeiten",
+        "korean": "~와 일하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "arbeitet",
+            "praeteritum": "arbeitete",
+            "perfekt": "hat gearbeitet",
+            "partizip_2_form": "gearbeitet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "arbeitend",
+                "korean": "일하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gearbeitet",
+                "korean": "일한"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "sehen",
+        "korean": "보다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "sieht",
+            "praeteritum": "sah",
+            "perfekt": "hat gesehen",
+            "partizip_2_form": "gesehen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "sehend",
+                "korean": "보는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "machen",
+        "korean": "하다, 만들다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "macht",
+            "praeteritum": "machte",
+            "perfekt": "hat gemacht",
+            "partizip_2_form": "gemacht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gemacht",
+                "korean": "만들어진, 행해진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "schreiben",
+        "korean": "~를 위해 쓰다",
+        "fixed_preposition": "für (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er schreibt",
+            "praeteritum": "er schrieb",
+            "perfekt": "er hat geschrieben",
+            "partizip_2_form": "geschrieben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "schreibend",
+                "korean": "쓰는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geschrieben",
+                "korean": "쓰여진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "holen",
+        "korean": "가져오다, 데려오다",
+        "fixed_preposition": "aus (Dativ)",
+        "verb_forms": {
+            "praesens_er": "holt",
+            "praeteritum": "holte",
+            "perfekt": "hat geholt",
+            "partizip_2_form": "geholt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "holend",
+                "korean": "가져오는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geholt",
+                "korean": "가져와진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "entschuldigen",
+        "korean": "사과하다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "entschuldigt",
+            "praeteritum": "entschuldigte",
+            "perfekt": "hat entschuldigt",
+            "partizip_2_form": "entschuldigt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "entschuldigend",
+                "korean": "사과하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "entschuldigt",
+                "korean": "사과된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "beginnen",
+        "korean": "시작하다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "beginnt",
+            "praeteritum": "begann",
+            "perfekt": "hat begonnen",
+            "partizip_2_form": "begonnen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "beginnend",
+                "korean": "시작하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "begonnen",
+                "korean": "시작된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "lesen",
+        "korean": "~위에서 읽다, ~에서 읽다 (화면 등)",
+        "fixed_preposition": "auf (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er liest",
+            "praeteritum": "er las",
+            "perfekt": "er hat gelesen",
+            "partizip_2_form": "gelesen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "lesend",
+                "korean": "읽는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gelesen",
+                "korean": "읽힌"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "anfangen mit",
+        "korean": "~을 시작하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fängt an",
+            "praeteritum": "fing an",
+            "perfekt": "hat angefangen",
+            "partizip_2_form": "angefangen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "anfangend",
+                "korean": "시작하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "einsteigen in",
+        "korean": "~에 탑승하다",
+        "fixed_preposition": "in (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "steigt ein",
+            "praeteritum": "stieg ein",
+            "perfekt": "ist eingestiegen",
+            "partizip_2_form": "eingestiegen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "einsteigend",
+                "korean": "탑승하는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "vorstellen bei",
+        "korean": "~에게 자신을 소개하다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "stellt vor",
+            "praeteritum": "stellte vor",
+            "perfekt": "hat vorgestellt",
+            "partizip_2_form": "vorgestellt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "vorstellend",
+                "korean": "소개하는, 상상하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "vorgestellt",
+                "korean": "소개된, 상상된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "reden",
+        "korean": "~와 이야기하다",
+        "fixed_preposition": "mit (Dativ)",
+        "verb_forms": {
+            "praesens_er": "redet",
+            "praeteritum": "redete",
+            "perfekt": "hat geredet",
+            "partizip_2_form": "geredet"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "redend",
+                "korean": "이야기하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geredet",
+                "korean": "이야기된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "meinen",
+        "korean": "의미하다, 생각하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "meint",
+            "praeteritum": "meinte",
+            "perfekt": "hat gemeint",
+            "partizip_2_form": "gemeint"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gemeint",
+                "korean": "의미된, 의도된"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "nehmen",
+        "korean": "가지다, 취하다",
+        "fixed_preposition": "zu (Dativ)",
+        "verb_forms": {
+            "praesens_er": "nimmt",
+            "praeteritum": "nahm",
+            "perfekt": "hat genommen",
+            "partizip_2_form": "genommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "trinken",
+        "korean": "마시다",
+        "fixed_preposition": "aus (Dativ)",
+        "verb_forms": {
+            "praesens_er": "trinkt",
+            "praeteritum": "trank",
+            "perfekt": "hat getrunken",
+            "partizip_2_form": "getrunken"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사",
+        "word": "aufräumen",
+        "korean": "정리하다, 치우다",
+        "verb_forms": {
+            "praesens_er": "räumt auf",
+            "praeteritum": "räumte auf",
+            "perfekt": "hat aufgeräumt",
+            "partizip_2_form": "aufgeräumt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "aufgeräumt",
+                "korean": "정리된, 치워진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "spielen",
+        "korean": "~에서 놀다, ~을 연주하다",
+        "fixed_preposition": "auf (Akkusativ/Dativ)",
+        "verb_forms": {
+            "praesens_er": "spielt",
+            "praeteritum": "spielte",
+            "perfekt": "hat gespielt",
+            "partizip_2_form": "gespielt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "spielend",
+                "korean": "노는, 연주하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gespielt",
+                "korean": "연주된, 놀아진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "helfen bei",
+        "korean": "~을 돕다",
+        "fixed_preposition": "bei (Dativ)",
+        "verb_forms": {
+            "praesens_er": "er hilft",
+            "praeteritum": "er half",
+            "perfekt": "er hat geholfen",
+            "partizip_2_form": "geholfen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "helfend",
+                "korean": "돕는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "geholfen",
+                "korean": "도움을 받은"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "hören mit",
+        "korean": "~으로 듣다",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "besuchen vor",
+        "korean": "~전에 방문하다",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "ankommen um",
+        "korean": "~경에 도착하다",
+        "cefr": "A1"
+    },
+    {
+        "type": "기타",
+        "word": "fahren am",
+        "korean": "~에서 운전하다",
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "ankommen",
+        "korean": "~에 달려있다, ~이 중요하다",
+        "fixed_preposition": "auf (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "kommt an",
+            "praeteritum": "kam an",
+            "perfekt": "ist angekommen",
+            "partizip_2_form": "angekommen"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "ankommend",
+                "korean": "도착하는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "angekommen",
+                "korean": "도착한"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "fühlen",
+        "korean": "~을 더듬어 찾다, ~을 느끼다",
+        "fixed_preposition": "nach (Dativ)",
+        "verb_forms": {
+            "praesens_er": "fühlt",
+            "praeteritum": "fühlte",
+            "perfekt": "hat gefühlt",
+            "partizip_2_form": "gefühlt"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "fühlend",
+                "korean": "느끼는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gefühlt",
+                "korean": "느껴진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "geben",
+        "korean": "~을 알리다, ~을 제시하다",
+        "fixed_preposition": "an (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "gibt",
+            "praeteritum": "gab",
+            "perfekt": "hat gegeben",
+            "partizip_2_form": "gegeben"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "gebend",
+                "korean": "주는"
+            },
+            "partizip_2": {
+                "is_usable": true,
+                "form": "gegeben",
+                "korean": "주어진"
+            }
+        },
+        "cefr": "A1"
+    },
+    {
+        "type": "동사+전치사",
+        "word": "lachen",
+        "korean": "~에 대해 웃다",
+        "fixed_preposition": "über (Akkusativ)",
+        "verb_forms": {
+            "praesens_er": "er lacht",
+            "praeteritum": "er lachte",
+            "perfekt": "er hat gelacht",
+            "partizip_2_form": "gelacht"
+        },
+        "adjectival_usage": {
+            "partizip_1": {
+                "is_usable": true,
+                "form": "lachend",
+                "korean": "웃는"
+            },
+            "partizip_2": {
+                "is_usable": false,
+                "form": null,
+                "korean": null
+            }
+        },
+        "cefr": "A1"
+    }
+]
