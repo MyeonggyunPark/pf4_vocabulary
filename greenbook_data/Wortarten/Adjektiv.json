@@ -2,7 +2,9 @@
     {
         "type": "형용사",
         "word": "alt",
-        "korean": "늙은, 오래된"
+        "korean": "늙은, 오래된",
+        "komparativ": "älter",
+        "superlativ": "am ältesten"
     },
     {
         "type": "형용사",
@@ -12,12 +14,16 @@
     {
         "type": "형용사",
         "word": "gut",
-        "korean": "좋은"
+        "korean": "좋은",
+        "komparativ": "besser",
+        "superlativ": "am besten"
     },
     {
         "type": "형용사",
         "word": "teuer",
-        "korean": "비싼"
+        "korean": "비싼",
+        "komparativ": "teurer",
+        "superlativ": "am teuersten"
     },
     {
         "type": "형용사",
@@ -42,7 +48,9 @@
     {
         "type": "형용사",
         "word": "wichtig",
-        "korean": "중요한"
+        "korean": "중요한",
+        "komparativ": "wichtiger",
+        "superlativ": "am wichtigsten"
     },
     {
         "type": "형용사",
@@ -52,17 +60,23 @@
     {
         "type": "형용사",
         "word": "jung",
-        "korean": "젊은"
+        "korean": "젊은",
+        "komparativ": "jünger",
+        "superlativ": "am jüngsten"
     },
     {
         "type": "형용사",
         "word": "nett",
-        "korean": "친절한, 상냥한"
+        "korean": "친절한, 상냥한",
+        "komparativ": "netter",
+        "superlativ": "am nettesten"
     },
     {
         "type": "형용사",
         "word": "steil",
-        "korean": "가파른, 급경사의"
+        "korean": "가파른, 급경사의",
+        "komparativ": "steiler",
+        "superlativ": "am steilsten"
     },
     {
         "type": "형용사",
@@ -82,7 +96,9 @@
     {
         "type": "형용사",
         "word": "lieb",
-        "korean": "사랑스러운, 친절한"
+        "korean": "사랑스러운, 친절한",
+        "komparativ": "lieber",
+        "superlativ": "am liebsten"
     },
     {
         "type": "형용사",
@@ -97,12 +113,16 @@
     {
         "type": "형용사",
         "word": "fremd",
-        "korean": "낯선, 외국의"
+        "korean": "낯선, 외국의",
+        "komparativ": "fremder",
+        "superlativ": "am fremdesten"
     },
     {
         "type": "형용사",
         "word": "tot",
-        "korean": "죽은"
+        "korean": "죽은",
+        "komparativ": "toter",
+        "superlativ": "am totesten"
     },
     {
         "type": "형용사",
@@ -112,12 +132,16 @@
     {
         "type": "형용사",
         "word": "krank",
-        "korean": "아픈"
+        "korean": "아픈",
+        "komparativ": "kränker",
+        "superlativ": "am kränksten"
     },
     {
         "type": "형용사",
         "word": "blind",
-        "korean": "눈먼, 맹인의"
+        "korean": "눈먼, 맹인의",
+        "komparativ": "blinder",
+        "superlativ": "am blindesten"
     },
     {
         "type": "형용사",
@@ -137,12 +161,16 @@
     {
         "type": "형용사",
         "word": "schlimm",
-        "korean": "나쁜, 심한"
+        "korean": "나쁜, 심한",
+        "komparativ": "schlimmer",
+        "superlativ": "am schlimmsten"
     },
     {
         "type": "형용사",
         "word": "langsam",
-        "korean": "느린, 천천히"
+        "korean": "느린, 천천히",
+        "komparativ": "langsamer",
+        "superlativ": "am langsamsten"
     },
     {
         "type": "형용사",
@@ -152,12 +180,16 @@
     {
         "type": "형용사",
         "word": "lang",
-        "korean": "긴"
+        "korean": "긴",
+        "komparativ": "länger",
+        "superlativ": "am längsten"
     },
     {
         "type": "형용사",
         "word": "häufig",
-        "korean": "잦은, 빈번한"
+        "korean": "잦은, 빈번한",
+        "komparativ": "häufiger",
+        "superlativ": "am häufigsten"
     },
     {
         "type": "형용사",
@@ -177,7 +209,9 @@
     {
         "type": "형용사",
         "word": "rege",
-        "korean": "활발한, 민첩한"
+        "korean": "활발한, 민첩한",
+        "komparativ": "reger",
+        "superlativ": "am regsten"
     },
     {
         "type": "형용사",
@@ -187,7 +221,9 @@
     {
         "type": "형용사",
         "word": "dünn",
-        "korean": "얇은, 마른"
+        "korean": "얇은, 마른",
+        "komparativ": "dünner",
+        "superlativ": "am dünnsten"
     },
     {
         "type": "형용사",
@@ -217,12 +253,16 @@
     {
         "type": "형용사",
         "word": "neu",
-        "korean": "새로운, 최신의"
+        "korean": "새로운, 최신의",
+        "komparativ": "neuer",
+        "superlativ": "am neuesten"
     },
     {
         "type": "형용사",
         "word": "klein",
-        "korean": "작은"
+        "korean": "작은",
+        "komparativ": "kleiner",
+        "superlativ": "am kleinsten"
     },
     {
         "type": "형용사",
@@ -232,12 +272,21 @@
     {
         "type": "형용사",
         "word": "schön",
-        "korean": "아름다운, 예쁜"
+        "korean": "아름다운, 예쁜",
+        "komparativ": "schöner",
+        "superlativ": "am schönsten"
     },
     {
         "type": "형용사",
         "word": "deutsch",
         "korean": "독일의, 독일어의"
+    },
+    {
+        "type": "형용사",
+        "word": "nah",
+        "korean": "가까운",
+        "komparativ": "näher",
+        "superlativ": "am nächsten"
     },
     {
         "type": "형용사",
@@ -252,12 +301,16 @@
     {
         "type": "형용사",
         "word": "schlecht",
-        "korean": "나쁜"
+        "korean": "나쁜",
+        "komparativ": "schlechter",
+        "superlativ": "am schlechtesten"
     },
     {
         "type": "형용사",
         "word": "stark",
-        "korean": "강한"
+        "korean": "강한",
+        "komparativ": "starker",
+        "superlativ": "am starksten"
     },
     {
         "type": "형용사",
@@ -267,7 +320,9 @@
     {
         "type": "형용사",
         "word": "hoch",
-        "korean": "높은"
+        "korean": "높은",
+        "komparativ": "höher",
+        "superlativ": "am höchsten"
     },
     {
         "type": "형용사",
@@ -282,7 +337,9 @@
     {
         "type": "형용사",
         "word": "groß",
-        "korean": "큰"
+        "korean": "큰",
+        "komparativ": "größer",
+        "superlativ": "am größten"
     },
     {
         "type": "형용사",
@@ -312,7 +369,9 @@
     {
         "type": "형용사",
         "word": "schwer",
-        "korean": "어려운, 무거운"
+        "korean": "어려운, 무거운",
+        "komparativ": "schwerer",
+        "superlativ": "am schwersten"
     },
     {
         "type": "형용사",
@@ -327,17 +386,23 @@
     {
         "type": "형용사",
         "word": "frisch",
-        "korean": "신선한"
+        "korean": "신선한",
+        "komparativ": "frischer",
+        "superlativ": "am frischsten"
     },
     {
         "type": "형용사",
         "word": "interessant",
-        "korean": "흥미로운"
+        "korean": "흥미로운",
+        "komparativ": "interessanter",
+        "superlativ": "am interessantesten"
     },
     {
         "type": "형용사",
         "word": "schnell",
-        "korean": "빠른"
+        "korean": "빠른",
+        "komparativ": "schneller",
+        "superlativ": "am schnellsten"
     },
     {
         "type": "형용사",
@@ -352,22 +417,30 @@
     {
         "type": "형용사",
         "word": "einfach",
-        "korean": "간단한, 쉬운; 단순히"
+        "korean": "간단한, 쉬운; 단순히",
+        "komparativ": "einfacher",
+        "superlativ": "am einfachsten"
     },
     {
         "type": "형용사",
         "word": "weit",
-        "korean": "넓은, 먼"
+        "korean": "넓은, 먼",
+        "komparativ": "weiter",
+        "superlativ": "am weitesten"
     },
     {
         "type": "형용사",
         "word": "rot",
-        "korean": "빨간"
+        "korean": "빨간",
+        "komparativ": "röter",
+        "superlativ": "am rötesten"
     },
     {
         "type": "형용사",
         "word": "kalt",
-        "korean": "추운, 차가운"
+        "korean": "추운, 차가운",
+        "komparativ": "kälter",
+        "superlativ": "am kältesten"
     },
     {
         "type": "형용사",
@@ -382,12 +455,16 @@
     {
         "type": "형용사",
         "word": "modern",
-        "korean": "현대의"
+        "korean": "현대의",
+        "komparativ": "moderner",
+        "superlativ": "am modernsten"
     },
     {
         "type": "형용사",
         "word": "kurz",
-        "korean": "짧은"
+        "korean": "짧은",
+        "komparativ": "kürzer",
+        "superlativ": "am kürzesten"
     },
     {
         "type": "형용사",
@@ -422,7 +499,9 @@
     {
         "type": "형용사",
         "word": "schwach",
-        "korean": "약한"
+        "korean": "약한",
+        "komparativ": "schwächer",
+        "superlativ": "am schwächsten"
     },
     {
         "type": "형용사",
@@ -432,12 +511,16 @@
     {
         "type": "형용사",
         "word": "offen",
-        "korean": "열린, 공개된"
+        "korean": "열린, 공개된",
+        "komparativ": "offener",
+        "superlativ": "am offensten"
     },
     {
         "type": "형용사",
         "word": "warm",
-        "korean": "따뜻한"
+        "korean": "따뜻한",
+        "komparativ": "wärmer",
+        "superlativ": "am wärmsten"
     },
     {
         "type": "형용사",
@@ -447,12 +530,16 @@
     {
         "type": "형용사",
         "word": "dunkel",
-        "korean": "어두운"
+        "korean": "어두운",
+        "komparativ": "dunkler",
+        "superlativ": "am dunkelsten"
     },
     {
         "type": "형용사",
         "word": "erfolgreich",
-        "korean": "성공적인"
+        "korean": "성공적인",
+        "komparativ": "erfolgreicher",
+        "superlativ": "am erfolgreichsten"
     },
     {
         "type": "형용사",
@@ -462,12 +549,16 @@
     {
         "type": "형용사",
         "word": "reich",
-        "korean": "부유한"
+        "korean": "부유한",
+        "komparativ": "reicher",
+        "superlativ": "am reichsten"
     },
     {
         "type": "형용사",
         "word": "fleißig",
-        "korean": "부지런한"
+        "korean": "부지런한",
+        "komparativ": "fleißiger",
+        "superlativ": "am fleißigsten"
     },
     {
         "type": "형용사",
@@ -522,32 +613,44 @@
     {
         "type": "형용사",
         "word": "trocken",
-        "korean": "마른, 건조한"
+        "korean": "마른, 건조한",
+        "komparativ": "trockener",
+        "superlativ": "am trockensten"
     },
     {
         "type": "형용사",
         "word": "falsch",
-        "korean": "틀린, 잘못된"
+        "korean": "틀린, 잘못된",
+        "komparativ": "falscher",
+        "superlativ": "am falschsten"
     },
     {
         "type": "형용사",
         "word": "lustig",
-        "korean": "재미있는, 즐거운"
+        "korean": "재미있는, 즐거운",
+        "komparativ": "lustiger",
+        "superlativ": "am lustigsten"
     },
     {
         "type": "형용사",
         "word": "aktiv",
-        "korean": "활동적인, 적극적인"
+        "korean": "활동적인, 적극적인",
+        "komparativ": "aktiver",
+        "superlativ": "am aktivsten"
     },
     {
         "type": "형용사",
         "word": "frei",
-        "korean": "자유로운"
+        "korean": "자유로운",
+        "komparativ": "freier",
+        "superlativ": "am freiesten"
     },
     {
         "type": "형용사",
         "word": "freundlich",
-        "korean": "친절한"
+        "korean": "친절한",
+        "komparativ": "freundlicher",
+        "superlativ": "am freundlichsten"
     },
     {
         "type": "형용사",
@@ -587,12 +690,16 @@
     {
         "type": "형용사",
         "word": "fröhlich",
-        "korean": "즐거운, 쾌활한"
+        "korean": "즐거운, 쾌활한",
+        "komparativ": "fröhlicher",
+        "superlativ": "am fröhlichsten"
     },
     {
         "type": "형용사",
         "word": "berühmt",
-        "korean": "유명한"
+        "korean": "유명한",
+        "komparativ": "berühmter",
+        "superlativ": "am berühmtesten"
     },
     {
         "type": "형용사",
@@ -617,7 +724,9 @@
     {
         "type": "형용사",
         "word": "ähnlich",
-        "korean": "유사한, 비슷한"
+        "korean": "유사한, 비슷한",
+        "komparativ": "ähnlicher",
+        "superlativ": "am ähnlichsten"
     },
     {
         "type": "형용사",
@@ -627,12 +736,16 @@
     {
         "type": "형용사",
         "word": "moderat",
-        "korean": "온건한, 적당한"
+        "korean": "온건한, 적당한",
+        "komparativ": "moderater",
+        "superlativ": "am moderatesten"
     },
     {
         "type": "형용사",
         "word": "hilfreich",
-        "korean": "도움이 되는, 유용한"
+        "korean": "도움이 되는, 유용한",
+        "komparativ": "hilfreicher",
+        "superlativ": "am hilfreichsten"
     },
     {
         "type": "형용사",
@@ -647,12 +760,16 @@
     {
         "type": "형용사",
         "word": "bissig",
-        "korean": "무는, 사나운"
+        "korean": "무는, 사나운",
+        "komparativ": "bissiger",
+        "superlativ": "am bissigsten"
     },
     {
         "type": "형용사",
         "word": "schwierig",
-        "korean": "어려운, 힘든"
+        "korean": "어려운, 힘든",
+        "komparativ": "schwieriger",
+        "superlativ": "am schwierigsten"
     },
     {
         "type": "형용사",
@@ -662,7 +779,9 @@
     {
         "type": "형용사",
         "word": "heiß",
-        "korean": "뜨거운"
+        "korean": "뜨거운",
+        "komparativ": "heißer",
+        "superlativ": "am heißesten"
     },
     {
         "type": "형용사",
@@ -707,12 +826,16 @@
     {
         "type": "형용사",
         "word": "bekannt",
-        "korean": "알려진, 유명한"
+        "korean": "알려진, 유명한",
+        "komparativ": "bekannter",
+        "superlativ": "am bekanntesten"
     },
     {
         "type": "형용사",
         "word": "blau",
-        "korean": "파란"
+        "korean": "파란",
+        "komparativ": "blauer",
+        "superlativ": "am blauesten"
     },
     {
         "type": "형용사",
@@ -722,12 +845,16 @@
     {
         "type": "형용사",
         "word": "sensibel",
-        "korean": "민감한, 예민한"
+        "korean": "민감한, 예민한",
+        "komparativ": "sensibeler",
+        "superlativ": "am sensibelsten"
     },
     {
         "type": "형용사",
         "word": "sauer",
-        "korean": "신, 화난"
+        "korean": "신, 화난",
+        "komparativ": "saurer",
+        "superlativ": "am sauersten"
     },
     {
         "type": "형용사",
@@ -752,17 +879,23 @@
     {
         "type": "형용사",
         "word": "unfreundlich",
-        "korean": "불친절한"
+        "korean": "불친절한",
+        "komparativ": "unfreundlicher",
+        "superlativ": "am unfreundlichsten"
     },
     {
         "type": "형용사",
         "word": "spannend",
-        "korean": "흥미진진한"
+        "korean": "흥미진진한",
+        "komparativ": "spannender",
+        "superlativ": "am spannendsten"
     },
     {
         "type": "형용사",
         "word": "früh",
-        "korean": "이른"
+        "korean": "이른",
+        "komparativ": "früher",
+        "superlativ": "am frühsten"
     },
     {
         "type": "형용사",
@@ -772,17 +905,23 @@
     {
         "type": "형용사",
         "word": "dick",
-        "korean": "두꺼운, 뚱뚱한"
+        "korean": "두꺼운, 뚱뚱한",
+        "komparativ": "dicker",
+        "superlativ": "am dicksten"
     },
     {
         "type": "형용사",
         "word": "auffällig",
-        "korean": "눈에 띄는, 두드러진"
+        "korean": "눈에 띄는, 두드러진",
+        "komparativ": "auffälliger",
+        "superlativ": "am auffälligsten"
     },
     {
         "type": "형용사",
         "word": "voll",
-        "korean": "가득 찬, 완전한"
+        "korean": "가득 찬, 완전한",
+        "komparativ": "voller",
+        "superlativ": "am vollsten"
     },
     {
         "type": "형용사",
@@ -792,12 +931,16 @@
     {
         "type": "형용사",
         "word": "fern",
-        "korean": "먼, 멀리 떨어진"
+        "korean": "먼, 멀리 떨어진",
+        "komparativ": "ferner",
+        "superlativ": "am fernsten"
     },
     {
         "type": "형용사",
         "word": "grün",
-        "korean": "초록색의, 푸른"
+        "korean": "초록색의, 푸른",
+        "komparativ": "grüner",
+        "superlativ": "am grünsten"
     },
     {
         "type": "형용사",
@@ -822,17 +965,23 @@
     {
         "type": "형용사",
         "word": "feucht",
-        "korean": "축축한, 습한"
+        "korean": "축축한, 습한",
+        "komparativ": "feuchter",
+        "superlativ": "am feuchtesten"
     },
     {
         "type": "형용사",
         "word": "liberal",
-        "korean": "자유주의의, 관대한"
+        "korean": "자유주의의, 관대한",
+        "komparativ": "liberaler",
+        "superlativ": "am liberalsten"
     },
     {
         "type": "형용사",
         "word": "hart",
-        "korean": "단단한, 어려운"
+        "korean": "단단한, 어려운",
+        "komparativ": "härter",
+        "superlativ": "am härtesten"
     },
     {
         "type": "형용사",
@@ -852,7 +1001,9 @@
     {
         "type": "형용사",
         "word": "rein",
-        "korean": "순수한, 깨끗한"
+        "korean": "순수한, 깨끗한",
+        "komparativ": "reiner",
+        "superlativ": "am reinsten"
     },
     {
         "type": "형용사",
@@ -872,7 +1023,9 @@
     {
         "type": "형용사",
         "word": "gründlich",
-        "korean": "철저한, 철저하게"
+        "korean": "철저한, 철저하게",
+        "komparativ": "gründlicher",
+        "superlativ": "am gründlichsten"
     },
     {
         "type": "형용사",
@@ -907,17 +1060,23 @@
     {
         "type": "형용사",
         "word": "einsam",
-        "korean": "외로운, 고독한"
+        "korean": "외로운, 고독한",
+        "komparativ": "einsamer",
+        "superlativ": "am einsamsten"
     },
     {
         "type": "형용사",
         "word": "vorsichtig",
-        "korean": "조심스러운"
+        "korean": "조심스러운",
+        "komparativ": "vorsichtiger",
+        "superlativ": "am vorsichtigsten"
     },
     {
         "type": "형용사",
         "word": "günstig",
-        "korean": "유리한, 저렴한"
+        "korean": "유리한, 저렴한",
+        "komparativ": "günstiger",
+        "superlativ": "am günstigsten"
     },
     {
         "type": "형용사",
@@ -927,12 +1086,16 @@
     {
         "type": "형용사",
         "word": "gültig",
-        "korean": "유효한"
+        "korean": "유효한",
+        "komparativ": "gültiger",
+        "superlativ": "am gültigsten"
     },
     {
         "type": "형용사",
         "word": "genau",
-        "korean": "정확한, 정밀한"
+        "korean": "정확한, 정밀한",
+        "komparativ": "genauer",
+        "superlativ": "am genauesten"
     },
     {
         "type": "형용사",
@@ -947,7 +1110,9 @@
     {
         "type": "형용사",
         "word": "eng",
-        "korean": "좁은, 밀접한"
+        "korean": "좁은, 밀접한",
+        "komparativ": "enger",
+        "superlativ": "am engsten"
     },
     {
         "type": "형용사",
@@ -962,7 +1127,9 @@
     {
         "type": "형용사",
         "word": "komfortabel",
-        "korean": "편안한, 안락한"
+        "korean": "편안한, 안락한",
+        "komparativ": "komfortabeler",
+        "superlativ": "am komfortabelsten"
     },
     {
         "type": "형용사",
@@ -972,12 +1139,16 @@
     {
         "type": "형용사",
         "word": "niedlich",
-        "korean": "귀여운, 깜찍한"
+        "korean": "귀여운, 깜찍한",
+        "komparativ": "niedlicher",
+        "superlativ": "am niedlichsten"
     },
     {
         "type": "형용사",
         "word": "bequem",
-        "korean": "편안한, 안락한"
+        "korean": "편안한, 안락한",
+        "komparativ": "bequemer",
+        "superlativ": "am bequemsten"
     },
     {
         "type": "형용사",
@@ -987,12 +1158,16 @@
     {
         "type": "형용사",
         "word": "dumm",
-        "korean": "어리석은, 바보 같은"
+        "korean": "어리석은, 바보 같은",
+        "komparativ": "dümmer",
+        "superlativ": "am dümmsten"
     },
     {
         "type": "형용사",
         "word": "riesig",
-        "korean": "거대한, 엄청난"
+        "korean": "거대한, 엄청난",
+        "komparativ": "riesiger",
+        "superlativ": "am riesigsten"
     },
     {
         "type": "형용사",
@@ -1007,12 +1182,16 @@
     {
         "type": "형용사",
         "word": "parallel",
-        "korean": "평행한, 병행하는"
+        "korean": "평행한, 병행하는",
+        "komparativ": "paralleler",
+        "superlativ": "am parallelsten"
     },
     {
         "type": "형용사",
         "word": "preiswert",
-        "korean": "가격이 저렴한, 가성비 좋은"
+        "korean": "가격이 저렴한, 가성비 좋은",
+        "komparativ": "preiswerter",
+        "superlativ": "am preiswertesten"
     },
     {
         "type": "형용사",
@@ -1037,7 +1216,9 @@
     {
         "type": "형용사",
         "word": "gemütlich",
-        "korean": "아늑한, 편안한"
+        "korean": "아늑한, 편안한",
+        "komparativ": "gemütlicher",
+        "superlativ": "am gemütlichsten"
     },
     {
         "type": "형용사",
@@ -1047,7 +1228,9 @@
     {
         "type": "형용사",
         "word": "abstrakt",
-        "korean": "추상적인"
+        "korean": "추상적인",
+        "komparativ": "abstrakter",
+        "superlativ": "am abstraktesten"
     },
     {
         "type": "형용사",
@@ -1062,7 +1245,9 @@
     {
         "type": "형용사",
         "word": "wunderschön",
-        "korean": "아름다운, 멋진"
+        "korean": "아름다운, 멋진",
+        "komparativ": "wunderschöner",
+        "superlativ": "am wunderschönsten"
     },
     {
         "type": "형용사",
@@ -1072,12 +1257,16 @@
     {
         "type": "형용사",
         "word": "typisch",
-        "korean": "전형적인, 특징적인"
+        "korean": "전형적인, 특징적인",
+        "komparativ": "typischer",
+        "superlativ": "am typischsten"
     },
     {
         "type": "형용사",
         "word": "sympathisch",
-        "korean": "호감 가는, 친근한"
+        "korean": "호감 가는, 친근한",
+        "komparativ": "sympathischer",
+        "superlativ": "am sympathischsten"
     },
     {
         "type": "형용사",
@@ -1087,7 +1276,9 @@
     {
         "type": "형용사",
         "word": "hübsch",
-        "korean": "예쁜, 아름다운"
+        "korean": "예쁜, 아름다운",
+        "komparativ": "hübscher",
+        "superlativ": "am hübschsten"
     },
     {
         "type": "형용사",
@@ -1097,7 +1288,9 @@
     {
         "type": "형용사",
         "word": "nötig",
-        "korean": "필요한"
+        "korean": "필요한",
+        "komparativ": "nötiger",
+        "superlativ": "am nötigsten"
     },
     {
         "type": "형용사",
@@ -1147,17 +1340,23 @@
     {
         "type": "형용사",
         "word": "müde",
-        "korean": "피곤한"
+        "korean": "피곤한",
+        "komparativ": "müder",
+        "superlativ": "am müdesten"
     },
     {
         "type": "형용사",
         "word": "fertig",
-        "korean": "준비된, 끝난"
+        "korean": "준비된, 끝난",
+        "komparativ": "fertiger",
+        "superlativ": "am fertigsten"
     },
     {
         "type": "형용사",
         "word": "traurig",
-        "korean": "슬픈"
+        "korean": "슬픈",
+        "komparativ": "trauriger",
+        "superlativ": "am traurigsten"
     },
     {
         "type": "형용사",
@@ -1167,27 +1366,37 @@
     {
         "type": "형용사",
         "word": "direkt",
-        "korean": "직접적인, 곧장"
+        "korean": "직접적인, 곧장",
+        "komparativ": "direkter",
+        "superlativ": "am direktesten"
     },
     {
         "type": "형용사",
         "word": "leicht",
-        "korean": "쉬운, 가벼운"
+        "korean": "쉬운, 가벼운",
+        "komparativ": "leichter",
+        "superlativ": "am leichtesten"
     },
     {
         "type": "형용사",
         "word": "stolz",
-        "korean": "자랑스러운"
+        "korean": "자랑스러운",
+        "komparativ": "stolzer",
+        "superlativ": "am stolzesten"
     },
     {
         "type": "형용사",
         "word": "viel",
-        "korean": "많은"
+        "korean": "많은",
+        "komparativ": "mehr",
+        "superlativ": "am meisten"
     },
     {
         "type": "형용사",
         "word": "kaputt",
-        "korean": "고장 난, 망가진"
+        "korean": "고장 난, 망가진",
+        "komparativ": "kaputter",
+        "superlativ": "am kaputtesten"
     },
     {
         "type": "형용사",
@@ -1197,22 +1406,30 @@
     {
         "type": "형용사",
         "word": "ruhig",
-        "korean": "조용한, 침착한"
+        "korean": "조용한, 침착한",
+        "komparativ": "ruhiger",
+        "superlativ": "am ruhigsten"
     },
     {
         "type": "형용사",
         "word": "sicher",
-        "korean": "안전한, 확실한"
+        "korean": "안전한, 확실한",
+        "komparativ": "sicherer",
+        "superlativ": "am sichersten"
     },
     {
         "type": "형용사",
         "word": "beliebt",
-        "korean": "인기 있는, 사랑받는"
+        "korean": "인기 있는, 사랑받는",
+        "komparativ": "beliebter",
+        "superlativ": "am beliebtesten"
     },
     {
         "type": "형용사",
         "word": "billig",
-        "korean": "저렴한"
+        "korean": "저렴한",
+        "komparativ": "billiger",
+        "superlativ": "am billigsten"
     },
     {
         "type": "형용사",
@@ -1222,32 +1439,44 @@
     {
         "type": "형용사",
         "word": "glücklich",
-        "korean": "행복한, 운 좋은"
+        "korean": "행복한, 운 좋은",
+        "komparativ": "glücklicher",
+        "superlativ": "am glücklichsten"
     },
     {
         "type": "형용사",
         "word": "froh",
-        "korean": "기쁜, 즐거운"
+        "korean": "기쁜, 즐거운",
+        "komparativ": "froher",
+        "superlativ": "am frohesten"
     },
     {
         "type": "형용사",
         "word": "fest",
-        "korean": "단단한, 고정된"
+        "korean": "단단한, 고정된",
+        "komparativ": "fester",
+        "superlativ": "am festesten"
     },
     {
         "type": "형용사",
         "word": "schmutzig",
-        "korean": "더러운"
+        "korean": "더러운",
+        "komparativ": "schmutziger",
+        "superlativ": "am schmutzigsten"
     },
     {
         "type": "형용사",
         "word": "arm",
-        "korean": "가난한, 불쌍한"
+        "korean": "가난한, 불쌍한",
+        "komparativ": "ärmer",
+        "superlativ": "am ärmsten"
     },
     {
         "type": "형용사",
         "word": "kompliziert",
-        "korean": "복잡한"
+        "korean": "복잡한",
+        "komparativ": "komplizierter",
+        "superlativ": "am kompliziertesten"
     },
     {
         "type": "형용사",
@@ -1257,17 +1486,23 @@
     {
         "type": "형용사",
         "word": "bereit",
-        "korean": "준비된, 기꺼이 ~하는"
+        "korean": "준비된, 기꺼이 ~하는",
+        "komparativ": "bereiter",
+        "superlativ": "am bereitesten"
     },
     {
         "type": "형용사",
         "word": "passiv",
-        "korean": "수동적인"
+        "korean": "수동적인",
+        "komparativ": "passiver",
+        "superlativ": "am passivsten"
     },
     {
         "type": "형용사",
         "word": "leer",
-        "korean": "빈, 비어있는"
+        "korean": "빈, 비어있는",
+        "komparativ": "leerer",
+        "superlativ": "am leersten"
     },
     {
         "type": "형용사",
@@ -1277,12 +1512,16 @@
     {
         "type": "형용사",
         "word": "interessiert",
-        "korean": "흥미를 가진, 관심 있는"
+        "korean": "흥미를 가진, 관심 있는",
+        "komparativ": "interessierter",
+        "superlativ": "am interessiertesten"
     },
     {
         "type": "형용사",
         "word": "grammatisch",
-        "korean": "문법적인"
+        "korean": "문법적인",
+        "komparativ": "grammatischer",
+        "superlativ": "am grammatischsten"
     },
     {
         "type": "형용사",
@@ -1292,7 +1531,9 @@
     {
         "type": "형용사",
         "word": "dankbar",
-        "korean": "감사하는"
+        "korean": "감사하는",
+        "komparativ": "dankbarer",
+        "superlativ": "am dankbarsten"
     },
     {
         "type": "형용사",
@@ -1317,37 +1558,51 @@
     {
         "type": "형용사",
         "word": "entsetzt",
-        "korean": "경악한, 충격받은"
+        "korean": "경악한, 충격받은",
+        "komparativ": "entsetzter",
+        "superlativ": "am entsetztesten"
     },
     {
         "type": "형용사",
         "word": "erstaunt",
-        "korean": "놀란"
+        "korean": "놀란",
+        "komparativ": "erstaunter",
+        "superlativ": "am erstauntesten"
     },
     {
         "type": "형용사",
         "word": "fähig",
-        "korean": "~할 수 있는, 유능한"
+        "korean": "~할 수 있는, 유능한",
+        "komparativ": "fähiger",
+        "superlativ": "am fähigsten"
     },
     {
         "type": "형용사",
         "word": "neidisch",
-        "korean": "질투하는"
+        "korean": "질투하는",
+        "komparativ": "neidischer",
+        "superlativ": "am neidischsten"
     },
     {
         "type": "형용사",
         "word": "nützlich",
-        "korean": "유용한"
+        "korean": "유용한",
+        "komparativ": "nützlicher",
+        "superlativ": "am nützlichsten"
     },
     {
         "type": "형용사",
         "word": "schädlich",
-        "korean": "해로운"
+        "korean": "해로운",
+        "komparativ": "schädlicher",
+        "superlativ": "am schädlichsten"
     },
     {
         "type": "형용사",
         "word": "vergleichbar",
-        "korean": "비교할 수 있는"
+        "korean": "비교할 수 있는",
+        "komparativ": "vergleichbarer",
+        "superlativ": "am vergleichbarsten"
     },
     {
         "type": "형용사",
@@ -1357,12 +1612,16 @@
     {
         "type": "형용사",
         "word": "langweilig",
-        "korean": "지루한"
+        "korean": "지루한",
+        "komparativ": "langweiliger",
+        "superlativ": "am langweiligsten"
     },
     {
         "type": "형용사",
         "word": "verspätet",
-        "korean": "늦은"
+        "korean": "늦은",
+        "komparativ": "verspäteter",
+        "superlativ": "am verspätetesten"
     },
     {
         "type": "형용사",
@@ -1372,22 +1631,30 @@
     {
         "type": "형용사",
         "word": "breit",
-        "korean": "넓은, 폭넓은"
+        "korean": "넓은, 폭넓은",
+        "komparativ": "breiter",
+        "superlativ": "am breitesten"
     },
     {
         "type": "형용사",
         "word": "besorgt",
-        "korean": "걱정하는, 염려하는"
+        "korean": "걱정하는, 염려하는",
+        "komparativ": "besorgter",
+        "superlativ": "am besorgtesten"
     },
     {
         "type": "형용사",
         "word": "erfreut",
-        "korean": "기뻐하는, 즐거워하는"
+        "korean": "기뻐하는, 즐거워하는",
+        "komparativ": "erfreuter",
+        "superlativ": "am erfreutesten"
     },
     {
         "type": "형용사",
         "word": "gespannt",
-        "korean": "긴장한, 기대하는"
+        "korean": "긴장한, 기대하는",
+        "komparativ": "gespannter",
+        "superlativ": "am gespanntesten"
     },
     {
         "type": "형용사",
@@ -1407,22 +1674,30 @@
     {
         "type": "형용사",
         "word": "deutlich",
-        "korean": "명확한, 분명한"
+        "korean": "명확한, 분명한",
+        "komparativ": "deutlicher",
+        "superlativ": "am deutlichsten"
     },
     {
         "type": "형용사",
         "word": "problemlos",
-        "korean": "문제없는"
+        "korean": "문제없는",
+        "komparativ": "problemloser",
+        "superlativ": "am problemlosesten"
     },
     {
         "type": "형용사",
         "word": "intelligent",
-        "korean": "지능적인, 똑똑한"
+        "korean": "지능적인, 똑똑한",
+        "komparativ": "intelligenter",
+        "superlativ": "am intelligentesten"
     },
     {
         "type": "형용사",
         "word": "betrunken",
-        "korean": "취한, 술에 취한"
+        "korean": "취한, 술에 취한",
+        "komparativ": "betrunkener",
+        "superlativ": "am betrunkensten"
     },
     {
         "type": "형용사",
@@ -1437,12 +1712,16 @@
     {
         "type": "형용사",
         "word": "positiv",
-        "korean": "긍정적인"
+        "korean": "긍정적인",
+        "komparativ": "positiver",
+        "superlativ": "am positivsten"
     },
     {
         "type": "형용사",
         "word": "geistreich",
-        "korean": "재치 있는, 기발한"
+        "korean": "재치 있는, 기발한",
+        "komparativ": "geistreicher",
+        "superlativ": "am geistreichsten"
     },
     {
         "type": "형용사",
@@ -1452,17 +1731,23 @@
     {
         "type": "형용사",
         "word": "benutzerfreundlich",
-        "korean": "사용자 친화적인"
+        "korean": "사용자 친화적인",
+        "komparativ": "benutzerfreundlicher",
+        "superlativ": "am benutzerfreundlichsten"
     },
     {
         "type": "형용사",
         "word": "konsequent",
-        "korean": "일관성 있는"
+        "korean": "일관성 있는",
+        "komparativ": "konsequenter",
+        "superlativ": "am konsequentesten"
     },
     {
         "type": "형용사",
         "word": "erlernbar",
-        "korean": "배울 수 있는"
+        "korean": "배울 수 있는",
+        "komparativ": "erlernbarer",
+        "superlativ": "am erlernbarsten"
     },
     {
         "type": "형용사",
@@ -1477,32 +1762,44 @@
     {
         "type": "형용사",
         "word": "schlank",
-        "korean": "날씬한, 호리호리한"
+        "korean": "날씬한, 호리호리한",
+        "komparativ": "schlanker",
+        "superlativ": "am schlanksten"
     },
     {
         "type": "형용사",
         "word": "verzweifelt",
-        "korean": "절망적인, 절망적으로"
+        "korean": "절망적인, 절망적으로",
+        "komparativ": "verzweifelter",
+        "superlativ": "am verzweifeltesten"
     },
     {
         "type": "형용사",
         "word": "entfernt",
-        "korean": "먼, 떨어진"
+        "korean": "먼, 떨어진",
+        "komparativ": "entfernter",
+        "superlativ": "am entferntesten"
     },
     {
         "type": "형용사",
         "word": "finster",
-        "korean": "어두운, 음침한"
+        "korean": "어두운, 음침한",
+        "komparativ": "finsterer",
+        "superlativ": "am finstersten"
     },
     {
         "type": "형용사",
         "word": "nachdenklich",
-        "korean": "생각에 잠긴, 사려 깊은"
+        "korean": "생각에 잠긴, 사려 깊은",
+        "komparativ": "nachdenklicher",
+        "superlativ": "am nachdenklichsten"
     },
     {
         "type": "형용사",
         "word": "verlegen",
-        "korean": "당황한, 쑥스러운, 옮겨진"
+        "korean": "당황한, 쑥스러운, 옮겨진",
+        "komparativ": "verlegener",
+        "superlativ": "am verlegensten"
     },
     {
         "type": "형용사",
@@ -1512,22 +1809,30 @@
     {
         "type": "형용사",
         "word": "ausführlich",
-        "korean": "상세한, 자세한"
+        "korean": "상세한, 자세한",
+        "komparativ": "ausführlicher",
+        "superlativ": "am ausführlichsten"
     },
     {
         "type": "형용사",
         "word": "anwesend",
-        "korean": "참석한, 현존하는"
+        "korean": "참석한, 현존하는",
+        "komparativ": "anwesender",
+        "superlativ": "am anwesendsten"
     },
     {
         "type": "형용사",
         "word": "streng",
-        "korean": "엄격한, 엄한"
+        "korean": "엄격한, 엄한",
+        "komparativ": "strenger",
+        "superlativ": "am strengsten"
     },
     {
         "type": "형용사",
         "word": "durstig",
-        "korean": "목마른"
+        "korean": "목마른",
+        "komparativ": "durstiger",
+        "superlativ": "am durstigsten"
     },
     {
         "type": "형용사",
@@ -1537,27 +1842,37 @@
     {
         "type": "형용사",
         "word": "mühelos",
-        "korean": "힘들이지 않는, 수월한"
+        "korean": "힘들이지 않는, 수월한",
+        "komparativ": "müheloser",
+        "superlativ": "am mühelosesten"
     },
     {
         "type": "형용사",
         "word": "neutral",
-        "korean": "중립적인, 중성의"
+        "korean": "중립적인, 중성의",
+        "komparativ": "neutraler",
+        "superlativ": "am neutralsten"
     },
     {
         "type": "형용사",
         "word": "klug",
-        "korean": "현명한, 영리한"
+        "korean": "현명한, 영리한",
+        "komparativ": "klüger",
+        "superlativ": "am klügsten"
     },
     {
         "type": "형용사",
         "word": "kühl",
-        "korean": "시원한, 서늘한"
+        "korean": "시원한, 서늘한",
+        "komparativ": "kühler",
+        "superlativ": "am kühlsten"
     },
     {
         "type": "형용사",
         "word": "bitter",
-        "korean": "쓴, 쓰라린"
+        "korean": "쓴, 쓰라린",
+        "komparativ": "bitterer",
+        "superlativ": "am bittersten"
     },
     {
         "type": "형용사",
@@ -1567,17 +1882,23 @@
     {
         "type": "형용사",
         "word": "süß",
-        "korean": "달콤한, 귀여운"
+        "korean": "달콤한, 귀여운",
+        "komparativ": "süßer",
+        "superlativ": "am süßesten"
     },
     {
         "type": "형용사",
         "word": "saftig",
-        "korean": "즙이 많은, 육즙이 풍부한"
+        "korean": "즙이 많은, 육즙이 풍부한",
+        "komparativ": "saftiger",
+        "superlativ": "am saftigsten"
     },
     {
         "type": "형용사",
         "word": "gelb",
-        "korean": "노란"
+        "korean": "노란",
+        "komparativ": "gelber",
+        "superlativ": "am gelbsten"
     },
     {
         "type": "형용사",
@@ -1587,12 +1908,16 @@
     {
         "type": "형용사",
         "word": "dringend",
-        "korean": "긴급한, 절박한"
+        "korean": "긴급한, 절박한",
+        "komparativ": "dringender",
+        "superlativ": "am dringendsten"
     },
     {
         "type": "형용사",
         "word": "defekt",
-        "korean": "결함이 있는, 고장 난"
+        "korean": "결함이 있는, 고장 난",
+        "komparativ": "defekter",
+        "superlativ": "am defektesten"
     },
     {
         "type": "형용사",
@@ -1602,7 +1927,9 @@
     {
         "type": "형용사",
         "word": "unruhig",
-        "korean": "불안한, 동요하는"
+        "korean": "불안한, 동요하는",
+        "komparativ": "unruhiger",
+        "superlativ": "am unruhigsten"
     },
     {
         "type": "형용사",
@@ -1612,17 +1939,23 @@
     {
         "type": "형용사",
         "word": "zentral",
-        "korean": "중앙의, 중심적인"
+        "korean": "중앙의, 중심적인",
+        "komparativ": "zentraler",
+        "superlativ": "am zentralsten"
     },
     {
         "type": "형용사",
         "word": "klassisch",
-        "korean": "고전적인, 전형적인"
+        "korean": "고전적인, 전형적인",
+        "komparativ": "klassischer",
+        "superlativ": "am klassischsten"
     },
     {
         "type": "형용사",
         "word": "bunt",
-        "korean": "다채로운, 화려한"
+        "korean": "다채로운, 화려한",
+        "komparativ": "bunter",
+        "superlativ": "am buntesten"
     },
     {
         "type": "형용사",
@@ -1637,12 +1970,16 @@
     {
         "type": "형용사",
         "word": "unwichtig",
-        "korean": "중요하지 않은"
+        "korean": "중요하지 않은",
+        "komparativ": "unwichtiger",
+        "superlativ": "am unwichtigsten"
     },
     {
         "type": "형용사",
         "word": "toll",
-        "korean": "멋진, 훌륭한"
+        "korean": "멋진, 훌륭한",
+        "komparativ": "toller",
+        "superlativ": "am tollsten"
     },
     {
         "type": "형용사",
@@ -1652,42 +1989,58 @@
     {
         "type": "형용사",
         "word": "merkwürdig",
-        "korean": "이상한, 기묘한"
+        "korean": "이상한, 기묘한",
+        "komparativ": "merkwürdiger",
+        "superlativ": "am merkwürdigsten"
     },
     {
         "type": "형용사",
         "word": "sorgfältig",
-        "korean": "신중한, 꼼꼼한"
+        "korean": "신중한, 꼼꼼한",
+        "komparativ": "sorgfältiger",
+        "superlativ": "am sorgfältigsten"
     },
     {
         "type": "형용사",
         "word": "sportlich",
-        "korean": "스포츠를 좋아하는, 운동을 잘하는"
+        "korean": "스포츠를 좋아하는, 운동을 잘하는",
+        "komparativ": "sportlicher",
+        "superlativ": "am sportlichsten"
     },
     {
         "type": "형용사",
         "word": "gesund",
-        "korean": "건강한"
+        "korean": "건강한",
+        "komparativ": "gesünder",
+        "superlativ": "am gesündesten"
     },
     {
         "type": "형용사",
         "word": "unzufrieden",
-        "korean": "불만족스러운"
+        "korean": "불만족스러운",
+        "komparativ": "unzufriedener",
+        "superlativ": "am unzufriedensten"
     },
     {
         "type": "형용사",
         "word": "wach",
-        "korean": "깨어있는"
+        "korean": "깨어있는",
+        "komparativ": "wacher",
+        "superlativ": "am wachsten"
     },
     {
         "type": "형용사",
         "word": "schwarz",
-        "korean": "검은"
+        "korean": "검은",
+        "komparativ": "schwärzer",
+        "superlativ": "am schwärzesten"
     },
     {
         "type": "형용사",
         "word": "rücksichtslos",
-        "korean": "무자비한, 무모한"
+        "korean": "무자비한, 무모한",
+        "komparativ": "rücksichtsloser",
+        "superlativ": "am rücksichtslosesten"
     },
     {
         "type": "형용사",
@@ -1697,32 +2050,44 @@
     {
         "type": "형용사",
         "word": "entschlossen",
-        "korean": "결심한, 단호한"
+        "korean": "결심한, 단호한",
+        "komparativ": "entschlossener",
+        "superlativ": "am entschlossensten"
     },
     {
         "type": "형용사",
         "word": "grausam",
-        "korean": "잔인한"
+        "korean": "잔인한",
+        "komparativ": "grausamer",
+        "superlativ": "am grausamsten"
     },
     {
         "type": "형용사",
         "word": "pünktlich",
-        "korean": "정각에, 시간을 엄수하는"
+        "korean": "정각에, 시간을 엄수하는",
+        "komparativ": "pünktlicher",
+        "superlativ": "am pünktlichsten"
     },
     {
         "type": "형용사",
         "word": "notwendig",
-        "korean": "필요한, 필수적인"
+        "korean": "필요한, 필수적인",
+        "komparativ": "notwendiger",
+        "superlativ": "am notwendigsten"
     },
     {
         "type": "형용사",
         "word": "ungewiss",
-        "korean": "불확실한"
+        "korean": "불확실한",
+        "komparativ": "ungewisser",
+        "superlativ": "am ungewissesten"
     },
     {
         "type": "형용사",
         "word": "glatt",
-        "korean": "매끄러운, 미끄러운"
+        "korean": "매끄러운, 미끄러운",
+        "komparativ": "glatter",
+        "superlativ": "am glattesten"
     },
     {
         "type": "형용사",
@@ -1737,67 +2102,93 @@
     {
         "type": "형용사",
         "word": "tief",
-        "korean": "깊은"
+        "korean": "깊은",
+        "komparativ": "tiefer",
+        "superlativ": "am tiefsten"
     },
     {
         "type": "형용사",
         "word": "überraschend",
-        "korean": "놀라운, 뜻밖의"
+        "korean": "놀라운, 뜻밖의",
+        "komparativ": "überraschender",
+        "superlativ": "am überraschendsten"
     },
     {
         "type": "형용사",
         "word": "flüssig",
-        "korean": "액체의, 유동적인"
+        "korean": "액체의, 유동적인",
+        "komparativ": "flüssiger",
+        "superlativ": "am flüssigsten"
     },
     {
         "type": "형용사",
         "word": "spiegelglatt",
-        "korean": "거울처럼 매끄러운"
+        "korean": "거울처럼 매끄러운",
+        "komparativ": "spiegelglatter",
+        "superlativ": "am spiegelglattesten"
     },
     {
         "type": "형용사",
         "word": "dauernd",
-        "korean": "지속적인, 끊임없는"
+        "korean": "지속적인, 끊임없는",
+        "komparativ": "dauernder",
+        "superlativ": "am dauerndesten"
     },
     {
         "type": "형용사",
         "word": "unhöflich",
-        "korean": "무례한"
+        "korean": "무례한",
+        "komparativ": "unhöflicher",
+        "superlativ": "am unhöflichsten"
     },
     {
         "type": "형용사",
         "word": "sinnlos",
-        "korean": "무의미한, 쓸모없는"
+        "korean": "무의미한, 쓸모없는",
+        "komparativ": "sinnloser",
+        "superlativ": "am sinnlosesten"
     },
     {
         "type": "형용사",
         "word": "undeutlich",
-        "korean": "불분명한, 모호한"
+        "korean": "불분명한, 모호한",
+        "komparativ": "undeutlicher",
+        "superlativ": "am undeutlichsten"
     },
     {
         "type": "형용사",
         "word": "kostenlos",
-        "korean": "무료의"
+        "korean": "무료의",
+        "komparativ": "kostenloser",
+        "superlativ": "am kostenlosesten"
     },
     {
         "type": "형용사",
         "word": "pleite",
-        "korean": "파산한, 빈털터리의"
+        "korean": "파산한, 빈털터리의",
+        "komparativ": "pleiter",
+        "superlativ": "am pleitesten"
     },
     {
         "type": "형용사",
         "word": "komisch",
-        "korean": "이상한, 우스운"
+        "korean": "이상한, 우스운",
+        "komparativ": "komischer",
+        "superlativ": "am komischsten"
     },
     {
         "type": "형용사",
         "word": "aktuell",
-        "korean": "현재의, 최신의"
+        "korean": "현재의, 최신의",
+        "komparativ": "aktueller",
+        "superlativ": "am aktuellsten"
     },
     {
         "type": "형용사",
         "word": "böse",
-        "korean": "사악한, 화난"
+        "korean": "사악한, 화난",
+        "komparativ": "böser",
+        "superlativ": "am bösesten"
     },
     {
         "type": "형용사",
@@ -1807,12 +2198,16 @@
     {
         "type": "형용사",
         "word": "lebendig",
-        "korean": "살아있는, 생기 있는"
+        "korean": "살아있는, 생기 있는",
+        "komparativ": "lebendiger",
+        "superlativ": "am lebendigsten"
     },
     {
         "type": "형용사",
         "word": "weltberühmt",
-        "korean": "세계적으로 유명한"
+        "korean": "세계적으로 유명한",
+        "komparativ": "weltberühmter",
+        "superlativ": "am weltberühmtesten"
     },
     {
         "type": "형용사",
@@ -1822,17 +2217,23 @@
     {
         "type": "형용사",
         "word": "allgemein",
-        "korean": "일반적인, 보편적인"
+        "korean": "일반적인, 보편적인",
+        "komparativ": "allgemeiner",
+        "superlativ": "am allgemeinsten"
     },
     {
         "type": "형용사",
         "word": "umgekehrt",
-        "korean": "거꾸로 된, 반대의"
+        "korean": "거꾸로 된, 반대의",
+        "komparativ": "umgekehrter",
+        "superlativ": "am umgekehrtesten"
     },
     {
         "type": "형용사",
         "word": "fehlerfrei",
-        "korean": "오류 없는, 완벽한"
+        "korean": "오류 없는, 완벽한",
+        "komparativ": "fehlerfreier",
+        "superlativ": "am fehlerfreisten"
     },
     {
         "type": "형용사",
