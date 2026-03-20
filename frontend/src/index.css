@@ -1,68 +1,80 @@
+@import "tailwindcss";
+
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  /* 🎨 Design System: Zentrale Farbvariablen (중앙 통제 색상 변수) */
+  --color-brand-main: #10b981; /* Tailwind: emerald-500 */
+  --color-brand-main-rgb: 16, 185, 129; /* 투명도 조절을 위한 RGB 값 */
+  --color-bg-primary: #f8fafc; /* Tailwind: slate-50 */
+  --color-bg-secondary: #f1f5f9; /* Tailwind: slate-100 */
+  --color-text-main: #0f172a; /* Tailwind: slate-900 */
+  --color-ring-bg: #dbe7e1; /* 커스텀 연초록 배경 */
+
+  font-family: "Inter", "Noto Sans KR", "Segoe UI", sans-serif;
   line-height: 1.5;
   font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
+  color: var(--color-text-main);
+  background: var(--color-bg-primary);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
+#root {
+  min-height: 100vh;
 }
-a:hover {
-  color: #535bf2;
+
+/* App.jsx 최상위 배경을 위한 클래스 분리 */
+.app-background {
+  background: 
+    radial-gradient(circle at top left, rgba(var(--color-brand-main-rgb), 0.14), transparent 32%),
+    linear-gradient(180deg, var(--color-bg-primary) 0%, var(--color-bg-secondary) 100%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(var(--color-brand-main-rgb), 0.08), transparent 28%),
+    linear-gradient(180deg, var(--color-bg-primary) 0%, var(--color-bg-secondary) 100%);
+  color: var(--color-text-main);
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+button,
+textarea,
+input {
+  font: inherit;
 }
 
 button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
   cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+button:focus-visible,
+textarea:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--color-brand-main);
+  outline-offset: 3px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+::selection {
+  background: rgba(var(--color-brand-main-rgb), 0.2);
 }
